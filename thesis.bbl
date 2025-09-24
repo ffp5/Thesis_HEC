@@ -1,0 +1,847 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/apasortcite//global/global}
+    \entry{davis1989perceived}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{number}{3}
+      \field{title}{Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology}
+      \field{volume}{13}
+      \field{year}{1989}
+      \field{pages}{319\bibrangedash 340}
+      \range{pages}{22}
+    \endentry
+    \entry{christensen1997innovator}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5eaad42da0a9818abc23e4305aa80819}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Clayton\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{fullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{bibnamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authorbibnamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authornamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authorfullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
+      \field{year}{1997}
+    \endentry
+    \entry{hofstede2001culture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5008d139d6e86c6e2f1a9edc623b67b2}{%
+           family={Hofstede},
+           familyi={H\bibinitperiod},
+           given={Geert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{fullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{bibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authorbibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authornamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authorfullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations}
+      \field{year}{2001}
+    \endentry
+    \entry{venkatesh2003user}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f13fa051c2955b3440b2021e4d99806e}{%
+           family={Venkatesh},
+           familyi={V\bibinitperiod},
+           given={Viswanath},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee75a345ff97bd746c38802e3c42931d}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2c8281723cc309c9a0ca78c64e1eb12}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Gordon\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{d089f8599fb5c4e21641f0a612a29d31}
+      \strng{fullhash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{bibnamehash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{authorbibnamehash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{authornamehash}{d089f8599fb5c4e21641f0a612a29d31}
+      \strng{authorfullhash}{f79e058f787d9e3fde994c690963e5af}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{number}{3}
+      \field{title}{User Acceptance of Information Technology: Toward a Unified View}
+      \field{volume}{27}
+      \field{year}{2003}
+      \field{pages}{425\bibrangedash 478}
+      \range{pages}{54}
+    \endentry
+    \entry{teece2007dynamic}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1d77d4011a2c8667068521bd6437f22}{%
+           family={Teece},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{fullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{bibnamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authorbibnamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authornamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authorfullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{13}
+      \field{title}{Explicating Dynamic Capabilities: The Nature and Microfoundations of (Sustainable) Enterprise Performance}
+      \field{volume}{28}
+      \field{year}{2007}
+      \field{pages}{1319\bibrangedash 1350}
+      \range{pages}{32}
+    \endentry
+    \entry{bpifrance2025ia}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56dc2225044d5462ea6c0fd762377580}{%
+           family={{Bpifrance}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{fullhash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{bibnamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authorbibnamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authornamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authorfullhash}{56dc2225044d5462ea6c0fd762377580}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Consulté le 23 septembre 2025}
+      \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
+      \field{type}{Rapport d'étude}
+      \field{year}{2025}
+    \endentry
+    \entry{france_strategie2025make}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acf724285392df9cdf88d8c537644c5a}{%
+           family={{France Stratégie}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Élysée}%
+      }
+      \strng{namehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{fullhash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{bibnamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authorbibnamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authornamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authorfullhash}{acf724285392df9cdf88d8c537644c5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 23 septembre 2025}
+      \field{title}{Make France an AI Powerhouse}
+      \field{type}{Rapport gouvernemental}
+      \field{year}{2025}
+    \endentry
+    \entry{laboratoire2025how}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
+           family={{Laboratoire de la Société Numérique}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{fullhash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{bibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authorbibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authornamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authorfullhash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Consulté le 15 août 2025}
+      \field{title}{Comment l'IA influence-t-elle le télétravail ?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
+      \endverb
+      \verb{url}
+      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
+      \endverb
+    \endentry
+    \entry{luwai2025base}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{63 entretiens téléphoniques menés entre juin et août 2025}
+      \field{note}{Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées}
+      \field{title}{Base de données prospects Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025aesio}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe}
+      \field{month}{7}
+      \field{note}{Montant : 3,200€ HT}
+      \field{title}{Proposition Aesio}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025carecall}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Automatisation génération leads B2B secteur santé}
+      \field{note}{Montant : 2,500€ HT}
+      \field{title}{Proposition Carecall x Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025antilogy}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Programme formation IA 15 collaborateurs}
+      \field{note}{Montant : 3,500€ HT}
+      \field{title}{Proposition Commerciale Luwai x Antilogy}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025tectona}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Formation managériale + audit vertical PME mobilier}
+      \field{note}{Montant : 3,500€ HT}
+      \field{title}{Proposition d'Accompagnement Tectona x Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025integrhale}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Accompagnement cabinet recrutement packaging}
+      \field{note}{Montant : 2,600€ HT}
+      \field{title}{Proposition Intégrhale x Luwai}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+  \datalist[entry]{ynt/global//global/global}
+    \entry{davis1989perceived}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{number}{3}
+      \field{title}{Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology}
+      \field{volume}{13}
+      \field{year}{1989}
+      \field{pages}{319\bibrangedash 340}
+      \range{pages}{22}
+    \endentry
+    \entry{christensen1997innovator}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5eaad42da0a9818abc23e4305aa80819}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Clayton\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{fullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{bibnamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authorbibnamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authornamehash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{authorfullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
+      \field{year}{1997}
+    \endentry
+    \entry{hofstede2001culture}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5008d139d6e86c6e2f1a9edc623b67b2}{%
+           family={Hofstede},
+           familyi={H\bibinitperiod},
+           given={Geert},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications}%
+      }
+      \strng{namehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{fullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{bibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authorbibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authornamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{authorfullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations}
+      \field{year}{2001}
+    \endentry
+    \entry{venkatesh2003user}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f13fa051c2955b3440b2021e4d99806e}{%
+           family={Venkatesh},
+           familyi={V\bibinitperiod},
+           given={Viswanath},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee75a345ff97bd746c38802e3c42931d}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2c8281723cc309c9a0ca78c64e1eb12}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Gordon\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima D.},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{d089f8599fb5c4e21641f0a612a29d31}
+      \strng{fullhash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{bibnamehash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{authorbibnamehash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{authornamehash}{d089f8599fb5c4e21641f0a612a29d31}
+      \strng{authorfullhash}{f79e058f787d9e3fde994c690963e5af}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIS Quarterly}
+      \field{number}{3}
+      \field{title}{User Acceptance of Information Technology: Toward a Unified View}
+      \field{volume}{27}
+      \field{year}{2003}
+      \field{pages}{425\bibrangedash 478}
+      \range{pages}{54}
+    \endentry
+    \entry{teece2007dynamic}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1d77d4011a2c8667068521bd6437f22}{%
+           family={Teece},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{fullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{bibnamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authorbibnamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authornamehash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{authorfullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{13}
+      \field{title}{Explicating Dynamic Capabilities: The Nature and Microfoundations of (Sustainable) Enterprise Performance}
+      \field{volume}{28}
+      \field{year}{2007}
+      \field{pages}{1319\bibrangedash 1350}
+      \range{pages}{32}
+    \endentry
+    \entry{bpifrance2025ia}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56dc2225044d5462ea6c0fd762377580}{%
+           family={{Bpifrance}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{fullhash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{bibnamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authorbibnamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authornamehash}{56dc2225044d5462ea6c0fd762377580}
+      \strng{authorfullhash}{56dc2225044d5462ea6c0fd762377580}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Consulté le 23 septembre 2025}
+      \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
+      \field{type}{Rapport d'étude}
+      \field{year}{2025}
+    \endentry
+    \entry{france_strategie2025make}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acf724285392df9cdf88d8c537644c5a}{%
+           family={{France Stratégie}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Élysée}%
+      }
+      \strng{namehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{fullhash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{bibnamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authorbibnamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authornamehash}{acf724285392df9cdf88d8c537644c5a}
+      \strng{authorfullhash}{acf724285392df9cdf88d8c537644c5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Consulté le 23 septembre 2025}
+      \field{title}{Make France an AI Powerhouse}
+      \field{type}{Rapport gouvernemental}
+      \field{year}{2025}
+    \endentry
+    \entry{laboratoire2025how}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
+           family={{Laboratoire de la Société Numérique}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{fullhash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{bibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authorbibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authornamehash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \strng{authorfullhash}{2e79b7043186dbf1e72749f738d8b1d9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Consulté le 15 août 2025}
+      \field{title}{Comment l'IA influence-t-elle le télétravail ?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
+      \endverb
+      \verb{url}
+      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
+      \endverb
+    \endentry
+    \entry{luwai2025base}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{63 entretiens téléphoniques menés entre juin et août 2025}
+      \field{note}{Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées}
+      \field{title}{Base de données prospects Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025aesio}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe}
+      \field{month}{7}
+      \field{note}{Montant : 3,200€ HT}
+      \field{title}{Proposition Aesio}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025carecall}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Automatisation génération leads B2B secteur santé}
+      \field{note}{Montant : 2,500€ HT}
+      \field{title}{Proposition Carecall x Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025antilogy}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Programme formation IA 15 collaborateurs}
+      \field{note}{Montant : 3,500€ HT}
+      \field{title}{Proposition Commerciale Luwai x Antilogy}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025tectona}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Formation managériale + audit vertical PME mobilier}
+      \field{note}{Montant : 3,500€ HT}
+      \field{title}{Proposition d'Accompagnement Tectona x Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025integrhale}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+           family={{Luwai}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Accompagnement cabinet recrutement packaging}
+      \field{note}{Montant : 2,600€ HT}
+      \field{title}{Proposition Intégrhale x Luwai}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
