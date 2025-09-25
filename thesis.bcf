@@ -2830,24 +2830,29 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">laboratoire2025how</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">davis1989perceived</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">venkatesh2003user</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">christensen1997innovator</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">teece2007dynamic</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">hofstede2001culture</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">bpifrance2025ia</bcf:citekey>
-    <bcf:citekey order="7" intorder="2">france_strategie2025make</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">luwai2025base</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">luwai2025aesio</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">luwai2025antilogy</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">luwai2025integrhale</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">luwai2025carecall</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">davis1989perceived</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">venkatesh2003user</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">christensen1997innovator</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">teece2007dynamic</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">hofstede2001culture</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">bpifrance2025ia</bcf:citekey>
+    <bcf:citekey order="12" intorder="2">france_strategie2025make</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">luwai2025base</bcf:citekey>
     <bcf:citekey order="14" intorder="1">luwai2025aesio</bcf:citekey>
-    <bcf:citekey order="14" intorder="2">luwai2025antilogy</bcf:citekey>
-    <bcf:citekey order="14" intorder="3">luwai2025integrhale</bcf:citekey>
-    <bcf:citekey order="14" intorder="4">luwai2025carecall</bcf:citekey>
-    <bcf:citekey order="14" intorder="5">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="19" intorder="2">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="19" intorder="3">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="19" intorder="4">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="19" intorder="5">luwai2025tectona</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

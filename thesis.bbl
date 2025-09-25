@@ -21,22 +21,19 @@
   \datalist[entry]{ynt/apasortcite//global/global}
     \entry{davis1989perceived}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Fred\bibnamedelima D.},
+           given={F.\bibnamedelimi D.},
            giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{namehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{fullhash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{bibnamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authorbibnamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authornamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authorfullhash}{1b140cebcf9ce5e695df277c57085714}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -54,22 +51,22 @@
     \endentry
     \entry{christensen1997innovator}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5eaad42da0a9818abc23e4305aa80819}{%
+        {{un=0,uniquepart=base,hash=b17c3874c0b46416b64cdf7b9e1fb94d}{%
            family={Christensen},
            familyi={C\bibinitperiod},
-           given={Clayton\bibnamedelima M.},
+           given={C.\bibnamedelimi M.},
            giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Harvard Business Review Press}%
       }
-      \strng{namehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{fullhash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{bibnamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authorbibnamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authornamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authorfullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{namehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{fullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{bibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authorbibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authornamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authorfullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -82,22 +79,22 @@
     \endentry
     \entry{hofstede2001culture}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5008d139d6e86c6e2f1a9edc623b67b2}{%
+        {{un=0,uniquepart=base,hash=33cd33d6e507fdb2568256c625491f56}{%
            family={Hofstede},
            familyi={H\bibinitperiod},
-           given={Geert},
+           given={G.},
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Sage Publications}%
       }
-      \strng{namehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{fullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{bibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authorbibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authornamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authorfullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{namehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{fullhash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{bibnamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authorbibnamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authornamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authorfullhash}{33cd33d6e507fdb2568256c625491f56}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -111,40 +108,37 @@
     \endentry
     \entry{venkatesh2003user}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f13fa051c2955b3440b2021e4d99806e}{%
+        {{un=0,uniquepart=base,hash=023387d30a490173bdf159f6e62766ee}{%
            family={Venkatesh},
            familyi={V\bibinitperiod},
-           given={Viswanath},
+           given={V.},
            giveni={V\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee75a345ff97bd746c38802e3c42931d}{%
+        {{un=0,uniquepart=base,hash=fa82aa1c264b7bc22d5dc5b2b6eca13d}{%
            family={Morris},
            familyi={M\bibinitperiod},
-           given={Michael\bibnamedelima G.},
+           given={M.\bibnamedelimi G.},
            giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=d2c8281723cc309c9a0ca78c64e1eb12}{%
+        {{un=0,uniquepart=base,hash=1c9f5f901ee7dc0a1188a58fb57b67e8}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Gordon\bibnamedelima B.},
+           given={G.\bibnamedelimi B.},
            giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Fred\bibnamedelima D.},
+           given={F.\bibnamedelimi D.},
            giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{d089f8599fb5c4e21641f0a612a29d31}
-      \strng{fullhash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{bibnamehash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{authorbibnamehash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{authornamehash}{d089f8599fb5c4e21641f0a612a29d31}
-      \strng{authorfullhash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{namehash}{56e8754cb5ea6f1905d59fbe948d9879}
+      \strng{fullhash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{bibnamehash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{authorbibnamehash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{authornamehash}{56e8754cb5ea6f1905d59fbe948d9879}
+      \strng{authorfullhash}{fb270149fb155de757fe7aadea5a0de8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -162,19 +156,19 @@
     \endentry
     \entry{teece2007dynamic}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c1d77d4011a2c8667068521bd6437f22}{%
+        {{un=0,uniquepart=base,hash=3af25e4f64fbc95eaa4aefb56b7046f5}{%
            family={Teece},
            familyi={T\bibinitperiod},
-           given={David\bibnamedelima J.},
+           given={D.\bibnamedelimi J.},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{fullhash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{bibnamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authorbibnamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authornamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authorfullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{namehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{fullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{bibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authorbibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authornamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authorfullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -196,6 +190,9 @@
            family={{Bpifrance}},
            familyi={B\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Bpifrance}%
+      }
       \strng{namehash}{56dc2225044d5462ea6c0fd762377580}
       \strng{fullhash}{56dc2225044d5462ea6c0fd762377580}
       \strng{bibnamehash}{56dc2225044d5462ea6c0fd762377580}
@@ -210,9 +207,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{6}
-      \field{note}{Consulté le 23 septembre 2025}
       \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
-      \field{type}{Rapport d'étude}
+      \field{type}{techreport}
       \field{year}{2025}
     \endentry
     \entry{france_strategie2025make}{report}{}
@@ -237,16 +233,18 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Consulté le 23 septembre 2025}
       \field{title}{Make France an AI Powerhouse}
-      \field{type}{Rapport gouvernemental}
+      \field{type}{techreport}
       \field{year}{2025}
     \endentry
-    \entry{laboratoire2025how}{online}{}
+    \entry{laboratoire2025how}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
            family={{Laboratoire de la Société Numérique}},
            familyi={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gouvernement français}%
       }
       \strng{namehash}{2e79b7043186dbf1e72749f738d8b1d9}
       \strng{fullhash}{2e79b7043186dbf1e72749f738d8b1d9}
@@ -262,15 +260,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
-      \field{note}{Consulté le 15 août 2025}
-      \field{title}{Comment l'IA influence-t-elle le télétravail ?}
+      \field{title}{How do the French relate to artificial intelligence?}
+      \field{type}{techreport}
       \field{year}{2025}
-      \verb{urlraw}
-      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
-      \endverb
-      \verb{url}
-      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
-      \endverb
     \endentry
     \entry{luwai2025base}{misc}{}
       \name{author}{1}{}{%
@@ -293,8 +285,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{63 entretiens téléphoniques menés entre juin et août 2025}
-      \field{note}{Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées}
+      \field{note}{63 entretiens téléphoniques menés entre juin et août 2025. Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées.}
       \field{title}{Base de données prospects Luwai}
       \field{year}{2025}
     \endentry
@@ -319,9 +310,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe}
       \field{month}{7}
-      \field{note}{Montant : 3,200€ HT}
+      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3,200€ HT.}
       \field{title}{Proposition Aesio}
       \field{year}{2025}
     \endentry
@@ -346,8 +336,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Automatisation génération leads B2B secteur santé}
-      \field{note}{Montant : 2,500€ HT}
+      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2,500€ HT.}
       \field{title}{Proposition Carecall x Luwai}
       \field{year}{2025}
     \endentry
@@ -372,8 +361,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Programme formation IA 15 collaborateurs}
-      \field{note}{Montant : 3,500€ HT}
+      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3,500€ HT.}
       \field{title}{Proposition Commerciale Luwai x Antilogy}
       \field{year}{2025}
     \endentry
@@ -398,8 +386,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Formation managériale + audit vertical PME mobilier}
-      \field{note}{Montant : 3,500€ HT}
+      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3,500€ HT.}
       \field{title}{Proposition d'Accompagnement Tectona x Luwai}
       \field{year}{2025}
     \endentry
@@ -424,8 +411,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Accompagnement cabinet recrutement packaging}
-      \field{note}{Montant : 2,600€ HT}
+      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2,600€ HT.}
       \field{title}{Proposition Intégrhale x Luwai}
       \field{year}{2025}
     \endentry
@@ -433,22 +419,19 @@
   \datalist[entry]{ynt/global//global/global}
     \entry{davis1989perceived}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Fred\bibnamedelima D.},
+           given={F.\bibnamedelimi D.},
            giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{fullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{bibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authorbibnamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authornamehash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
-      \strng{authorfullhash}{dcb59a9c9bf67cc1c74d13fb3a9f33a7}
+      \strng{namehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{fullhash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{bibnamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authorbibnamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authornamehash}{1b140cebcf9ce5e695df277c57085714}
+      \strng{authorfullhash}{1b140cebcf9ce5e695df277c57085714}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -466,22 +449,22 @@
     \endentry
     \entry{christensen1997innovator}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5eaad42da0a9818abc23e4305aa80819}{%
+        {{un=0,uniquepart=base,hash=b17c3874c0b46416b64cdf7b9e1fb94d}{%
            family={Christensen},
            familyi={C\bibinitperiod},
-           given={Clayton\bibnamedelima M.},
+           given={C.\bibnamedelimi M.},
            giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Harvard Business Review Press}%
       }
-      \strng{namehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{fullhash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{bibnamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authorbibnamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authornamehash}{5eaad42da0a9818abc23e4305aa80819}
-      \strng{authorfullhash}{5eaad42da0a9818abc23e4305aa80819}
+      \strng{namehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{fullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{bibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authorbibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authornamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
+      \strng{authorfullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{extradatescope}{labelyear}
@@ -494,22 +477,22 @@
     \endentry
     \entry{hofstede2001culture}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5008d139d6e86c6e2f1a9edc623b67b2}{%
+        {{un=0,uniquepart=base,hash=33cd33d6e507fdb2568256c625491f56}{%
            family={Hofstede},
            familyi={H\bibinitperiod},
-           given={Geert},
+           given={G.},
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Sage Publications}%
       }
-      \strng{namehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{fullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{bibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authorbibnamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authornamehash}{5008d139d6e86c6e2f1a9edc623b67b2}
-      \strng{authorfullhash}{5008d139d6e86c6e2f1a9edc623b67b2}
+      \strng{namehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{fullhash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{bibnamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authorbibnamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authornamehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{authorfullhash}{33cd33d6e507fdb2568256c625491f56}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -523,40 +506,37 @@
     \endentry
     \entry{venkatesh2003user}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f13fa051c2955b3440b2021e4d99806e}{%
+        {{un=0,uniquepart=base,hash=023387d30a490173bdf159f6e62766ee}{%
            family={Venkatesh},
            familyi={V\bibinitperiod},
-           given={Viswanath},
+           given={V.},
            giveni={V\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee75a345ff97bd746c38802e3c42931d}{%
+        {{un=0,uniquepart=base,hash=fa82aa1c264b7bc22d5dc5b2b6eca13d}{%
            family={Morris},
            familyi={M\bibinitperiod},
-           given={Michael\bibnamedelima G.},
+           given={M.\bibnamedelimi G.},
            giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=d2c8281723cc309c9a0ca78c64e1eb12}{%
+        {{un=0,uniquepart=base,hash=1c9f5f901ee7dc0a1188a58fb57b67e8}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Gordon\bibnamedelima B.},
+           given={G.\bibnamedelimi B.},
            giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dcb59a9c9bf67cc1c74d13fb3a9f33a7}{%
+        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
-           given={Fred\bibnamedelima D.},
+           given={F.\bibnamedelimi D.},
            giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {JSTOR}%
-      }
-      \strng{namehash}{d089f8599fb5c4e21641f0a612a29d31}
-      \strng{fullhash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{bibnamehash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{authorbibnamehash}{f79e058f787d9e3fde994c690963e5af}
-      \strng{authornamehash}{d089f8599fb5c4e21641f0a612a29d31}
-      \strng{authorfullhash}{f79e058f787d9e3fde994c690963e5af}
+      \strng{namehash}{56e8754cb5ea6f1905d59fbe948d9879}
+      \strng{fullhash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{bibnamehash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{authorbibnamehash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{authornamehash}{56e8754cb5ea6f1905d59fbe948d9879}
+      \strng{authorfullhash}{fb270149fb155de757fe7aadea5a0de8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -574,19 +554,19 @@
     \endentry
     \entry{teece2007dynamic}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c1d77d4011a2c8667068521bd6437f22}{%
+        {{un=0,uniquepart=base,hash=3af25e4f64fbc95eaa4aefb56b7046f5}{%
            family={Teece},
            familyi={T\bibinitperiod},
-           given={David\bibnamedelima J.},
+           given={D.\bibnamedelimi J.},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{fullhash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{bibnamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authorbibnamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authornamehash}{c1d77d4011a2c8667068521bd6437f22}
-      \strng{authorfullhash}{c1d77d4011a2c8667068521bd6437f22}
+      \strng{namehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{fullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{bibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authorbibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authornamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
+      \strng{authorfullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -608,6 +588,9 @@
            family={{Bpifrance}},
            familyi={B\bibinitperiod}}}%
       }
+      \list{institution}{1}{%
+        {Bpifrance}%
+      }
       \strng{namehash}{56dc2225044d5462ea6c0fd762377580}
       \strng{fullhash}{56dc2225044d5462ea6c0fd762377580}
       \strng{bibnamehash}{56dc2225044d5462ea6c0fd762377580}
@@ -622,9 +605,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{6}
-      \field{note}{Consulté le 23 septembre 2025}
       \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
-      \field{type}{Rapport d'étude}
+      \field{type}{techreport}
       \field{year}{2025}
     \endentry
     \entry{france_strategie2025make}{report}{}
@@ -649,16 +631,18 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Consulté le 23 septembre 2025}
       \field{title}{Make France an AI Powerhouse}
-      \field{type}{Rapport gouvernemental}
+      \field{type}{techreport}
       \field{year}{2025}
     \endentry
-    \entry{laboratoire2025how}{online}{}
+    \entry{laboratoire2025how}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
            family={{Laboratoire de la Société Numérique}},
            familyi={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gouvernement français}%
       }
       \strng{namehash}{2e79b7043186dbf1e72749f738d8b1d9}
       \strng{fullhash}{2e79b7043186dbf1e72749f738d8b1d9}
@@ -674,15 +658,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
-      \field{note}{Consulté le 15 août 2025}
-      \field{title}{Comment l'IA influence-t-elle le télétravail ?}
+      \field{title}{How do the French relate to artificial intelligence?}
+      \field{type}{techreport}
       \field{year}{2025}
-      \verb{urlraw}
-      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
-      \endverb
-      \verb{url}
-      \verb https://laboratoire.numerique.gouv.fr/ia-teletravail
-      \endverb
     \endentry
     \entry{luwai2025base}{misc}{}
       \name{author}{1}{}{%
@@ -705,8 +683,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{63 entretiens téléphoniques menés entre juin et août 2025}
-      \field{note}{Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées}
+      \field{note}{63 entretiens téléphoniques menés entre juin et août 2025. Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées.}
       \field{title}{Base de données prospects Luwai}
       \field{year}{2025}
     \endentry
@@ -731,9 +708,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe}
       \field{month}{7}
-      \field{note}{Montant : 3,200€ HT}
+      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3,200€ HT.}
       \field{title}{Proposition Aesio}
       \field{year}{2025}
     \endentry
@@ -758,8 +734,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Automatisation génération leads B2B secteur santé}
-      \field{note}{Montant : 2,500€ HT}
+      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2,500€ HT.}
       \field{title}{Proposition Carecall x Luwai}
       \field{year}{2025}
     \endentry
@@ -784,8 +759,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Programme formation IA 15 collaborateurs}
-      \field{note}{Montant : 3,500€ HT}
+      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3,500€ HT.}
       \field{title}{Proposition Commerciale Luwai x Antilogy}
       \field{year}{2025}
     \endentry
@@ -810,8 +784,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Formation managériale + audit vertical PME mobilier}
-      \field{note}{Montant : 3,500€ HT}
+      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3,500€ HT.}
       \field{title}{Proposition d'Accompagnement Tectona x Luwai}
       \field{year}{2025}
     \endentry
@@ -836,8 +809,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Accompagnement cabinet recrutement packaging}
-      \field{note}{Montant : 2,600€ HT}
+      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2,600€ HT.}
       \field{title}{Proposition Intégrhale x Luwai}
       \field{year}{2025}
     \endentry
