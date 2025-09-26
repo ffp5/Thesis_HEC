@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  25 SEP 2025 11:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  26 SEP 2025 12:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -29,6 +29,40 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks17
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count194
@@ -448,7 +482,9 @@ LaTeX Info: Redefining \lslig on input line 902.
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-)) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
@@ -707,29 +743,32 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'french'.
- (./thesis.aux)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 87.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Info: Redefining \degres on input line 85.
-LaTeX Info: Redefining \up on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Info: Redefining \degres on input line 87.
+LaTeX Info: Redefining \up on input line 87.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -739,14 +778,14 @@ LaTeX Info: Redefining \up on input line 85.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* h-part:(L,W,R)=(62.59596pt, 472.31595pt, 62.59596pt)
 * v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=441.01773pt
+* \textwidth=472.31595pt
 * \textheight=688.5567pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
+* \oddsidemargin=-9.67403pt
+* \evensidemargin=-9.67403pt
 * \topmargin=-23.91173pt
 * \headheight=15.0pt
 * \headsep=25.0pt
@@ -791,24 +830,24 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 87.
  (./thesis.out) (./thesis.out)
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 85.
-Package microtype Info: Applying patch `item' on input line 85.
-Package microtype Info: Applying patch `toc' on input line 85.
-Package microtype Info: Applying patch `eqnum' on input line 85.
-Package microtype Info: Applying patch `footnote' on input line 85.
-Package microtype Info: Applying patch `verbatim' on input line 85.
+LaTeX Info: Redefining \microtypecontext on input line 87.
+Package microtype Info: Applying patch `item' on input line 87.
+Package microtype Info: Applying patch `toc' on input line 87.
+Package microtype Info: Applying patch `eqnum' on input line 87.
+Package microtype Info: Applying patch `footnote' on input line 87.
+Package microtype Info: Applying patch `verbatim' on input line 87.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 85.
+LaTeX Info: Redefining \showhyphens on input line 87.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -837,124 +876,616 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 85.
-Package biblatex Info: Reference segment=0 on input line 85.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
+Package biblatex Info: Reference section=0 on input line 87.
+Package biblatex Info: Reference segment=0 on input line 87.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 101.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 101.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 101.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 101.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 101.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 101.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 101.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 101.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-) [1
+)
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/20.74'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+ [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./parts/executive_summary.tex [1
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./parts/executive_summary.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
 
-]) [2] (./parts/preface.tex) [3
-
-] (./parts/remerciements.tex) [4
-
-] (./thesis.toc [5
+ []
 
 
-] [6] [7])
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
+
+ []
+
+[1
+
+] [2])
+Underfull \hbox (badness 10000) in paragraph at lines 39--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--151
+
+ []
+
+[3] (./parts/preface.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 6--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--156
+
+ []
+
+[4
+
+] [5] (./parts/remerciements.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--160
+
+ []
+
+[6
+
+] (./thesis.toc [7
+
+
+] [8{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [9] [10])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [8] (./thesis.lof)
+ [11] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [9
+ [12
 
 
 ] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [10
+ [13
 
 
 ] (./parts/introduction.tex
 Chapitre 1.
 
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.21 
+l.20 
       [1
 
 
-] [2] [3]) (./parts/literature_review.tex [4] [5]
+] [2] [3] [4]) (./parts/literature_review.tex [5]
 Chapitre 2.
 [6
 
-] [7] [8] [9]) (./parts/field_diagnosis.tex [10] [11]
+] [7] [8] [9]) (./parts/field_diagnosis.tex [10]
 Chapitre 3.
-[12
+[11
 
-] [13] [14] [15] [16]) (./parts/luwai_case_study.tex [17]
+] [12] [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[]|\T1/lmr/m/n/12 (+20) Cabinets bou-tique IA,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\T1/lmr/m/n/12 (+20) for-ma-teurs in-dé-pen-dants,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]|\T1/lmr/m/n/12 (+20) Standardisation, tem-plates, kits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]|\T1/lmr/m/n/12 (+20) ESN, équipes in-ternes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\T1/lmr/m/n/12 (-16) MCO/Amélioration
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\T1/lmr/m/n/12 (+20) Monitoring qua-lité, évo-lu-tion
+ []
+
+[15]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 165.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [16{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}] [17]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 200.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 200.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 200.
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]|\T1/lmr/m/n/12 (+20) Traitement do-cu-men-taire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T1/lmr/m/n/12 (+20) Rédaction as-sis-tée (emails,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+[]|\T1/lmr/m/n/12 (+20) Moyenne (post-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]|\T1/lmr/m/n/12 (+20) Automatisation back-office
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 210--211
+[]|\T1/lmr/m/n/12 (+20) Basse (phase sca-
+ []
+
+[18]) (./parts/luwai_case_study.tex [19]
 Chapitre 4.
-[18
+[20
 
-] [19] [20{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./parts/recommendations.tex [21]
+]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\T1/lmr/m/n/12 (+20) Ciblage PME-ETI ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\T1/lmr/m/n/12 (+20) ICP dé-fini (50-500
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]|\T1/lmr/m/n/12 (+20) Script + sé-quence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\T1/lmr/m/n/12 (+20) 4 touches (té-lé-
+ []
+
+
+Overfull \hbox (10.12383pt too wide) in paragraph at lines 93--94
+\T1/lmr/m/n/12 (-20) phone+email+LinkedIn)| 
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 94--95
+[]|\T1/lmr/m/n/12 (+20) Problème re-connu +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]|\T1/lmr/m/n/12 (+20) Offre mo-du-laire
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 95--96
+\T1/lmr/m/n/12 (+20) F^^UC^^UD ali-gnée sur
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 96--97
+[]|\T1/lmr/m/n/12 (+20) Cycle 4^^U8 se-maines ;
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[22]
+Underfull \hbox (badness 1152) in paragraph at lines 121--122
+[]|\T1/lmr/m/n/12 (+20) Demande client ex-pli-cite ^^S et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\T1/lmr/m/n/12 (+20) Intégration De-li-very (pi-lotes
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 122--123
+[]|\T1/lmr/m/n/12 (+20) Besoin d'im-plé-men-ta-tion. NPS
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 122--123
+\T1/lmr/m/n/12 (+20) 8,2/10 ; ré-cur-rence post-pilote
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[23]
+Underfull \hbox (badness 1735) in paragraph at lines 157--157
+[]|\T1/lmr/m/n/12 (+20) Standardisation + for-ma-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[25]) (./parts/recommendations.tex
+
+Package fancyhdr Warning: \headheight is too small (15.0pt): 
+(fancyhdr)                Make it at least 15.35403pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.35403pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.35403pt}.
+
+[26]
 Chapitre 5.
-[22
+[27
 
-] [23]) (./parts/conclusion.tex [24]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmr/bx/n/12 (+20) Impact
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmr/bx/n/12 (+20) Adoption
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\T1/lmr/bx/n/12 (+20) Facilité
+ []
+
+
+Overfull \hbox (19.54674pt too wide) in alignment at lines 53--63
+ [] [] [] [] [] 
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\T1/lmr/m/n/12 (+20) Heures ga-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+\T1/lmr/m/n/12 (+20) gnées/semaine/personne
+ []
+
+
+Overfull \hbox (12.61815pt too wide) in alignment at lines 77--87
+ [] [] [] 
+ []
+
+[29]
+Overfull \hbox (19.99179pt too wide) in paragraph at lines 109--110
+[]\T1/lmr/m/n/12 (-20) Traçabilité : jour-na-li-sa-tion des prompts et out-puts ; do-cu-men-ta-tion des mo-dèles/fournisseurs. 
+ []
+
+) (./parts/conclusion.tex [30]
 Chapitre 6.
-[25
+[31
 
-] [26]) [27] [28
+] [32]) [33] [34
 
 
-] (./parts/appendix_methodology.tex [29
+] [35] (./parts/appendix_methodology.tex [36
 
 
 ]
 Annexe A.
-) (./parts/appendix_data.tex [30
+[37
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\T1/lmr/m/n/12 (+20) Infrastructure le-gacy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]|\T1/lmr/m/n/12 (+20) Résistance gé-né-ra-tion-
+ []
+
+[38]
+Underfull \hbox (badness 1406) in paragraph at lines 83--83
+[]|\T1/lmr/m/n/12 (+20) Formation / ac-cul-tu-ra-
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 83--84
+[]|\T1/lmr/m/n/12 (+20) Création d'un lan-gage com-mun ; ate-liers CO-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 85--86
+[]|\T1/lmr/m/n/12 (+20) Réduction du temps heb-do-ma-daire de veille
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/lmr/m/n/12 (+20) Automatisation back-
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 90--90
+[]|\T1/lmr/m/n/12 (+20) Gouvernance & confor-
+ []
+
+[39]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 130.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [40]) (./parts/appendix_data.tex [41]
 Annexe B.
-) (./parts/appendix_luwai_model.tex [31
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]|\T1/lmr/bx/n/12 (+20) Obs. prin-ci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\T1/lmr/m/n/12 (+20) Décision
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/lmr/m/n/12 (+20) ROI/risque,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\T1/lmr/m/n/12 (+20) spon-sor po-ten-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 29--29
+[]|\T1/lmr/m/n/12 (+20) Managers opé-ra-tion-nels (COO/Dir.
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 29--30
+\T1/lmr/m/n/12 (+20) d'usage, charge
+ []
+
+[42
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T1/lmr/bx/n/12 (+20) Client (ano-ny-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T1/lmr/bx/n/12 (+20) Montant (\TS1/lmr/bx/n/12 (+20) ¿
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]|\T1/lmr/bx/n/12 (+20) Résultats (12^^U18
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]|\T1/lmr/m/n/12 (+20) Sourcing -40%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/lmr/m/n/12 (+20) 2h/semaine li-bé-rées
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]|\T1/lmr/m/n/12 (+20) Carecall (santé
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\T1/lmr/m/n/12 (+20) coût/opportunité
+ []
+
+
+Overfull \hbox (18.92812pt too wide) in alignment at lines 58--68
+ [] [] [] [] 
+ []
+
+[43]
+Overfull \hbox (35.38087pt too wide) in alignment at lines 72--82
+ [] [] [] 
+ []
+
+) (./parts/appendix_luwai_model.tex [44]
 Annexe C.
-) (./parts/appendix_sectoral_analysis.tex [32
+) (./parts/appendix_sectoral_analysis.tex [45
 
 ]
 Annexe D.
-) (./parts/appendix_operational_recommendations.tex [33
+) (./parts/appendix_operational_recommendations.tex [46
 
 ]
 Annexe E.
-) [34
+) [47
 
 ] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 81675680B66D742714762D14577564F9;26758.
+(rerunfilecheck)             Checksum: 81D3A5C8D95A5E873A806BB64E954CFA;37743.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25889 strings out of 476025
- 450450 string characters out of 5790018
+ 26425 strings out of 476025
+ 460620 string characters out of 5790018
  1868388 words of memory out of 5000000
- 45548 multiletter control sequences out of 15000+600000
- 536193 words of font info for 188 fonts, out of 8000000 for 9000
+ 45901 multiletter control sequences out of 15000+600000
+ 604763 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,76p,1033b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on thesis.pdf (45 pages, 348872 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on thesis.pdf (61 pages, 325664 bytes).
 PDF statistics:
- 925 PDF objects out of 1000 (max. 8388607)
- 842 compressed objects within 9 object streams
- 194 named destinations out of 1000 (max. 500000)
- 37737 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 1301 PDF objects out of 1440 (max. 8388607)
+ 1201 compressed objects within 13 object streams
+ 288 named destinations out of 1000 (max. 500000)
+ 54993 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -4,19 +4,20 @@
 \section{Contexte et enjeux}
 
 La France se trouve aujourd'hui dans une position paradoxale face à l'intelligence artificielle. D'un côté, notre pays dispose d'atouts indéniables : un écosystème de recherche reconnu mondialement avec l'INRIA et des laboratoires d'excellence, un tissu de startups dynamique qui a produit des pépites comme Mistral AI ou Hugging Face, et une position de leadership européen dans l'encadrement éthique de l'IA avec l'IA Act.
-\\\\
+
 D'un autre côté, l'adoption effective de l'IA dans le tissu économique français reste contrastée. Selon le baromètre du numérique 2024 \cite{laboratoire2025how}, si 33\% des Français ont utilisé des outils d'IA générative, cette adoption demeure principalement personnelle et sporadique. Dans le monde professionnel, l'écart se creuse entre les grandes entreprises et les PME-ETI qui constituent pourtant l'épine dorsale de notre économie.
-\\\\
+
 Cette situation interpelle d'autant plus que les enjeux sont considérables. L'IA représente un potentiel d'\textbf{augmentation de la productivité} de 20 à 40\% sur de nombreuses tâches, selon nos observations terrain. Pour une économie française en quête de compétitivité, ces gains de performance ne peuvent être ignorés.
-\\\\
+
 Le \textbf{paradoxe français} de l'IA se manifeste à plusieurs niveaux :
-\\
+
 \begin{itemize}
     \item \textbf{Au niveau technologique :} Nous disposons d'un écosystème d'innovation de premier plan mais peinons à diffuser ces innovations dans le tissu économique.
     \item \textbf{Au niveau organisationnel :} Les entreprises françaises excellent dans l'innovation produit mais montrent des résistances culturelles à l'adoption de nouvelles méthodes de travail.
     \item \textbf{Au niveau entrepreneurial :} L'écosystème startup français est dynamique mais les services d'accompagnement peinent à adresser efficacement le segment des PME-ETI.
 \end{itemize}
-C'est dans ce contexte que s'inscrit la création de Luwai et l'expérience entrepreneuriale qui nourrit cette thèse. En tant qu'ingénieur de grandes écoles françaises ayant vécu l'adoption naturelle de l'IA dans la Silicon Valley puis confronté aux résistances françaises, j'ai identifié une opportunité de création de valeur dans l'accompagnement des entreprises françaises vers une utilisation productive de l'IA.
+
+C'est dans ce contexte que s'inscrit la création de Luwai et l'expérience entrepreneuriale qui nourrit cette thèse. En tant qu'ingénieur polytechnicien ayant vécu l'adoption naturelle de l'IA dans la Silicon Valley puis confronté aux résistances françaises, j'ai identifié une opportunité de création de valeur dans l'accompagnement des entreprises françaises vers une utilisation productive de l'IA.
 
 \section{Problématique centrale}
 
@@ -71,41 +72,20 @@ Cette recherche adopte une \textbf{approche mixte} combinant rigueur académique
 \end{itemize}
 
 \subsection{Collecte de données primaires}
-La richesse empirique de cette recherche repose sur une importantes collecte de données menée entre juin et août 2025 :
-\medskip
-\begin{itemize}
-    \item \textbf{500 appels prospects}  
-    Menés via \textit{cold calling}, ayant abouti à 63 rendez-vous effectués (taux de conversion : 12,6\%).  
-    Les secteurs représentés sont diversifiés : 
-    \begin{itemize}
-        \item Conseil : 32\%
-        \item Industrie : 25\%
-        \item Services : 21\%
-        \item Tech : 15\%
-        \item Finance : 7\%
-    \end{itemize}
+La richesse empirique de cette recherche repose sur une collecte de données extensives menée entre juin et août 2025 :
 
-    \item \textbf{7 propositions commerciales réelles acceptées} dont 5 analysées en détail :  
-    Aesio \cite{luwai2025aesio}, Antilogy \cite{luwai2025antilogy}, Intégrhale \cite{luwai2025integrhale}, Carecall \cite{luwai2025carecall}, Tectona \cite{luwai2025tectona}.
-    
-    \item \textbf{Observation directe}  
-    Analyse des interactions commerciales, des cycles de vente et de l’évolution des besoins clients sur 9 mois d’activité.
-\end{itemize}
+\textbf{63 entretiens prospects} menés via cold calling avec un taux de conversion de 20,6\% (13 rendez-vous obtenus). Les secteurs représentés sont diversifiés : conseil (32\%), industrie (25\%), services (21\%), tech (15\%), finance (7\%).
 
-\medskip
-La méthode d’analyse combine :
-\begin{itemize}
-    \item le codage thématique des entretiens,
-    \item l’identification des patterns récurrents,
-    \item le \textit{mapping} des cas d’usage émergents.
-\end{itemize}
-\medskip
-Cette approche permet de relier observations terrain et cadres théoriques pour produire des insights actionnables.
+\textbf{5 propositions commerciales réelles} analysées en détail : Aesio \cite{luwai2025aesio}, Antilogy \cite{luwai2025antilogy}, Intégrhale \cite{luwai2025integrhale}, Carecall \cite{luwai2025carecall}, Tectona \cite{luwai2025tectona}.
+
+\textbf{Observation directe} des interactions commerciales, des cycles de vente et de l'évolution des besoins clients sur 9 mois d'activité.
+
+La méthode d'analyse combine codage thématique des entretiens, identification des patterns récurrents et mapping des cas d'usage émergents. Cette approche permet de lier observations terrain et cadres théoriques pour produire des insights actionnables.
 
 \section{Plan et contributions attendues}
 
 Cette thèse s'organise en cinq chapitres principaux après cette introduction :
-\bigskip
+
 \begin{itemize}
     \item \textbf{Chapitre 2 :} Revue de littérature et cadre théorique - Fondements académiques de l'adoption technologique et spécificités du contexte français.
     \item \textbf{Chapitre 3 :} Diagnostic terrain : résistances et opportunités - Analyse empirique des freins et leviers identifiés via les entretiens.
@@ -113,13 +93,13 @@ Cette thèse s'organise en cinq chapitres principaux après cette introduction :
     \item \textbf{Chapitre 5 :} Recommandations et perspectives - Frameworks pratiques et implications pour l'écosystème.
     \item \textbf{Chapitre 6 :} Conclusion - Synthèse des apports, limites et réflexions finales.
 \end{itemize}
-\newpage
+
 Les \textbf{contributions attendues} se situent à trois niveaux :
-\bigskip
+
 \begin{itemize}
     \item \textbf{Contribution empirique :} Première étude qualitative approfondie sur les résistances à l'IA dans les PME-ETI françaises, avec une taxonomie opérationnelle des freins et leviers d'adoption.
     \item \textbf{Contribution théorique :} Extension des modèles classiques d'adoption technologique au contexte spécifique de l'IA et développement d'un framework "Formation-Conseil-Delivery" pour les services B2B.
     \item \textbf{Contribution managériale :} Guide pratique d'évaluation des opportunités IA pour les dirigeants et recommandations stratégiques pour les entrepreneurs du secteur, avec des métriques ROI documentées et des indicateurs de performance.
 \end{itemize}
-\medskip
+
 Cette approche vise à combler le gap entre la recherche académique sur l'adoption technologique et les besoins concrets des praticiens confrontés aux enjeux d'implémentation de l'IA dans leurs organisations.

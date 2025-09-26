@@ -7,11 +7,12 @@
 %--- Font and Language ---
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{lmodern} % Latin Modern fonts to avoid missing accented glyphs
 \usepackage[french]{babel}
 \usepackage{csquotes} % Recommended for biblatex
 
 %--- Layout and Spacing ---
-\usepackage[left=3cm,right=2.5cm,top=3cm,bottom=2.5cm]{geometry}
+\usepackage[left=2.2cm,right=2.2cm,top=3cm,bottom=2.5cm]{geometry}
 \usepackage{setspace}
 \onehalfspacing % 1.5 line spacing
 
@@ -34,6 +35,7 @@
 \usepackage[hidelinks, pdfpagelayout=SinglePage, pdfstartview=FitH]{hyperref}
 \usepackage{xcolor}
 \usepackage{microtype} % Improves typography and line breaking
+\usepackage{textcomp} % Provides \texteuro and additional symbols
 
 %--- Bibliography ---
 \usepackage[backend=biber,style=apa,sorting=ynt]{biblatex}

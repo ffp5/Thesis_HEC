@@ -184,6 +184,75 @@
       \field{pages}{1319\bibrangedash 1350}
       \range{pages}{32}
     \endentry
+    \entry{cnil2023ia}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=462a5b8b0d8424a1f8b01793217155f4}{%
+           family={{CNIL}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{fullhash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{bibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authorbibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authornamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authorfullhash}{462a5b8b0d8424a1f8b01793217155f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Note d'orientation}
+      \field{title}{Intelligence artificielle: recommandations et points de vigilance}
+      \field{year}{2023}
+    \endentry
+    \entry{dinum2024guide}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4703dee23a0efa6a281c6e02be2f8c1}{%
+           family={{DINUM}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{fullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{bibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authorbibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authornamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authorfullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Direction interministérielle du numérique}
+      \field{title}{Guide pratique d'IA responsable pour les administrations}
+      \field{year}{2024}
+    \endentry
+    \entry{eu2024ai_act}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Regulation adopted by the European Parliament and the Council}
+      \field{title}{Artificial Intelligence Act}
+      \field{year}{2024}
+    \endentry
     \entry{bpifrance2025ia}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=56dc2225044d5462ea6c0fd762377580}{%
@@ -311,7 +380,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
-      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3,200€ HT.}
+      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3\,200\,\texteuro{} HT.}
       \field{title}{Proposition Aesio}
       \field{year}{2025}
     \endentry
@@ -336,7 +405,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2,500€ HT.}
+      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2\,500\,\texteuro{} HT.}
       \field{title}{Proposition Carecall x Luwai}
       \field{year}{2025}
     \endentry
@@ -361,7 +430,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3,500€ HT.}
+      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3\,500\,\texteuro{} HT.}
       \field{title}{Proposition Commerciale Luwai x Antilogy}
       \field{year}{2025}
     \endentry
@@ -386,7 +455,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3,500€ HT.}
+      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3\,500\,\texteuro{} HT.}
       \field{title}{Proposition d'Accompagnement Tectona x Luwai}
       \field{year}{2025}
     \endentry
@@ -411,7 +480,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2,600€ HT.}
+      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2\,600\,\texteuro{} HT.}
       \field{title}{Proposition Intégrhale x Luwai}
       \field{year}{2025}
     \endentry
@@ -582,6 +651,75 @@
       \field{pages}{1319\bibrangedash 1350}
       \range{pages}{32}
     \endentry
+    \entry{cnil2023ia}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=462a5b8b0d8424a1f8b01793217155f4}{%
+           family={{CNIL}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{fullhash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{bibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authorbibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authornamehash}{462a5b8b0d8424a1f8b01793217155f4}
+      \strng{authorfullhash}{462a5b8b0d8424a1f8b01793217155f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Note d'orientation}
+      \field{title}{Intelligence artificielle: recommandations et points de vigilance}
+      \field{year}{2023}
+    \endentry
+    \entry{dinum2024guide}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f4703dee23a0efa6a281c6e02be2f8c1}{%
+           family={{DINUM}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{fullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{bibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authorbibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authornamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \strng{authorfullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Direction interministérielle du numérique}
+      \field{title}{Guide pratique d'IA responsable pour les administrations}
+      \field{year}{2024}
+    \endentry
+    \entry{eu2024ai_act}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+           family={{European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
+      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
+      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Regulation adopted by the European Parliament and the Council}
+      \field{title}{Artificial Intelligence Act}
+      \field{year}{2024}
+    \endentry
     \entry{bpifrance2025ia}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=56dc2225044d5462ea6c0fd762377580}{%
@@ -709,7 +847,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
-      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3,200€ HT.}
+      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3\,200\,\texteuro{} HT.}
       \field{title}{Proposition Aesio}
       \field{year}{2025}
     \endentry
@@ -734,7 +872,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2,500€ HT.}
+      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2\,500\,\texteuro{} HT.}
       \field{title}{Proposition Carecall x Luwai}
       \field{year}{2025}
     \endentry
@@ -759,7 +897,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3,500€ HT.}
+      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3\,500\,\texteuro{} HT.}
       \field{title}{Proposition Commerciale Luwai x Antilogy}
       \field{year}{2025}
     \endentry
@@ -784,7 +922,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3,500€ HT.}
+      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3\,500\,\texteuro{} HT.}
       \field{title}{Proposition d'Accompagnement Tectona x Luwai}
       \field{year}{2025}
     \endentry
@@ -809,7 +947,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2,600€ HT.}
+      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2\,600\,\texteuro{} HT.}
       \field{title}{Proposition Intégrhale x Luwai}
       \field{year}{2025}
     \endentry

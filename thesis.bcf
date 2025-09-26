@@ -2853,6 +2853,14 @@
     <bcf:citekey order="19" intorder="3">luwai2025integrhale</bcf:citekey>
     <bcf:citekey order="19" intorder="4">luwai2025carecall</bcf:citekey>
     <bcf:citekey order="19" intorder="5">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">eu2024ai_act</bcf:citekey>
+    <bcf:citekey order="20" intorder="2">cnil2023ia</bcf:citekey>
+    <bcf:citekey order="20" intorder="3">dinum2024guide</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="21" intorder="2">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="21" intorder="3">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="21" intorder="4">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="21" intorder="5">luwai2025tectona</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">
