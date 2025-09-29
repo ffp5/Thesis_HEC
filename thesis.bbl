@@ -18,1385 +18,14 @@
 
 
 \refsection{0}
-  \datalist[entry]{ynt/apasortcite//global/global}
-    \entry{davis1989perceived}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
-           family={Davis},
-           familyi={D\bibinitperiod},
-           given={F.\bibnamedelimi D.},
-           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1b140cebcf9ce5e695df277c57085714}
-      \strng{fullhash}{1b140cebcf9ce5e695df277c57085714}
-      \strng{bibnamehash}{1b140cebcf9ce5e695df277c57085714}
-      \strng{authorbibnamehash}{1b140cebcf9ce5e695df277c57085714}
-      \strng{authornamehash}{1b140cebcf9ce5e695df277c57085714}
-      \strng{authorfullhash}{1b140cebcf9ce5e695df277c57085714}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{MIS Quarterly}
-      \field{number}{3}
-      \field{title}{Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology}
-      \field{volume}{13}
-      \field{year}{1989}
-      \field{pages}{319\bibrangedash 340}
-      \range{pages}{22}
-    \endentry
-    \entry{christensen1997innovator}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b17c3874c0b46416b64cdf7b9e1fb94d}{%
-           family={Christensen},
-           familyi={C\bibinitperiod},
-           given={C.\bibnamedelimi M.},
-           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Review Press}%
-      }
-      \strng{namehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \strng{fullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \strng{bibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \strng{authorbibnamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \strng{authornamehash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \strng{authorfullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
-      \field{year}{1997}
-    \endentry
-    \entry{hofstede2001culture}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=33cd33d6e507fdb2568256c625491f56}{%
-           family={Hofstede},
-           familyi={H\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Sage Publications}%
-      }
-      \strng{namehash}{33cd33d6e507fdb2568256c625491f56}
-      \strng{fullhash}{33cd33d6e507fdb2568256c625491f56}
-      \strng{bibnamehash}{33cd33d6e507fdb2568256c625491f56}
-      \strng{authorbibnamehash}{33cd33d6e507fdb2568256c625491f56}
-      \strng{authornamehash}{33cd33d6e507fdb2568256c625491f56}
-      \strng{authorfullhash}{33cd33d6e507fdb2568256c625491f56}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd}
-      \field{title}{Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations}
-      \field{year}{2001}
-    \endentry
-    \entry{venkatesh2003user}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=023387d30a490173bdf159f6e62766ee}{%
-           family={Venkatesh},
-           familyi={V\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fa82aa1c264b7bc22d5dc5b2b6eca13d}{%
-           family={Morris},
-           familyi={M\bibinitperiod},
-           given={M.\bibnamedelimi G.},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1c9f5f901ee7dc0a1188a58fb57b67e8}{%
-           family={Davis},
-           familyi={D\bibinitperiod},
-           given={G.\bibnamedelimi B.},
-           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
-           family={Davis},
-           familyi={D\bibinitperiod},
-           given={F.\bibnamedelimi D.},
-           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{56e8754cb5ea6f1905d59fbe948d9879}
-      \strng{fullhash}{fb270149fb155de757fe7aadea5a0de8}
-      \strng{bibnamehash}{fb270149fb155de757fe7aadea5a0de8}
-      \strng{authorbibnamehash}{fb270149fb155de757fe7aadea5a0de8}
-      \strng{authornamehash}{56e8754cb5ea6f1905d59fbe948d9879}
-      \strng{authorfullhash}{fb270149fb155de757fe7aadea5a0de8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{MIS Quarterly}
-      \field{number}{3}
-      \field{title}{User Acceptance of Information Technology: Toward a Unified View}
-      \field{volume}{27}
-      \field{year}{2003}
-      \field{pages}{425\bibrangedash 478}
-      \range{pages}{54}
-    \endentry
-    \entry{teece2007dynamic}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3af25e4f64fbc95eaa4aefb56b7046f5}{%
-           family={Teece},
-           familyi={T\bibinitperiod},
-           given={D.\bibnamedelimi J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \strng{fullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \strng{bibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \strng{authorbibnamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \strng{authornamehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \strng{authorfullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Strategic Management Journal}
-      \field{number}{13}
-      \field{title}{Explicating Dynamic Capabilities: The Nature and Microfoundations of (Sustainable) Enterprise Performance}
-      \field{volume}{28}
-      \field{year}{2007}
-      \field{pages}{1319\bibrangedash 1350}
-      \range{pages}{32}
-    \endentry
-    \entry{blank2013lean}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6976a7406a1c23162183ba7150bdfc7f}{%
-           family={Blank},
-           familyi={B\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Crown Business}%
-      }
-      \strng{namehash}{6976a7406a1c23162183ba7150bdfc7f}
-      \strng{fullhash}{6976a7406a1c23162183ba7150bdfc7f}
-      \strng{bibnamehash}{6976a7406a1c23162183ba7150bdfc7f}
-      \strng{authorbibnamehash}{6976a7406a1c23162183ba7150bdfc7f}
-      \strng{authornamehash}{6976a7406a1c23162183ba7150bdfc7f}
-      \strng{authorfullhash}{6976a7406a1c23162183ba7150bdfc7f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd}
-      \field{title}{The Lean Startup}
-      \field{year}{2013}
-    \endentry
-    \entry{meyer2014culture}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e91d95174a1ac294f44cf61968aba5a9}{%
-           family={Meyer},
-           familyi={M\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {PublicAffairs}%
-      }
-      \strng{namehash}{e91d95174a1ac294f44cf61968aba5a9}
-      \strng{fullhash}{e91d95174a1ac294f44cf61968aba5a9}
-      \strng{bibnamehash}{e91d95174a1ac294f44cf61968aba5a9}
-      \strng{authorbibnamehash}{e91d95174a1ac294f44cf61968aba5a9}
-      \strng{authornamehash}{e91d95174a1ac294f44cf61968aba5a9}
-      \strng{authorfullhash}{e91d95174a1ac294f44cf61968aba5a9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Culture Map: Breaking Through the Invisible Boundaries of Global Business}
-      \field{year}{2014}
-    \endentry
-    \entry{osterwalder2014value}{book}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=729699de507ece4abce70e59dc8af7ce}{%
-           family={Osterwalder},
-           familyi={O\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ca1ae5979e7e7ec2fba95d04b8cd9e4e}{%
-           family={Pigneur},
-           familyi={P\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a871298b76700bf41a9e5d206d3c9328}{%
-           family={Bernarda},
-           familyi={B\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f5ad93423c3c7f823659822ec5c53567}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley}%
-      }
-      \strng{namehash}{94c77ea45beec327e471193bb286ea30}
-      \strng{fullhash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \strng{bibnamehash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \strng{authorbibnamehash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \strng{authornamehash}{94c77ea45beec327e471193bb286ea30}
-      \strng{authorfullhash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Value Proposition Design}
-      \field{year}{2014}
-    \endentry
-    \entry{parker2016platform}{book}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c7a67bc82ba07036fdc08a42c7b1d629}{%
-           family={Parker},
-           familyi={P\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5764bf29eb8a450161c33d18fc4584eb}{%
-           family={Van\bibnamedelima Alstyne},
-           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=37744bd9495cfac40fb94aa70d424ba2}{%
-           family={Choudary},
-           familyi={C\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {W. W. Norton \& Company}%
-      }
-      \strng{namehash}{6a6e97c0f6b180f1ca873db949eb77cf}
-      \strng{fullhash}{437b17364d086b065e209b371d6f9550}
-      \strng{bibnamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authorbibnamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authornamehash}{6a6e97c0f6b180f1ca873db949eb77cf}
-      \strng{authorfullhash}{437b17364d086b065e209b371d6f9550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You}
-      \field{year}{2016}
-    \endentry
-    \entry{bpifrance2017dirigeants}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfe2b275bfefeada746aa3269f0aeb37}{%
-           family={Lab},
-           familyi={L\bibinitperiod},
-           given={BPI\bibnamedelimb France\bibnamedelima Le},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {BPI France}%
-      }
-      \strng{namehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{fullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{bibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{7}
-      \field{title}{Les dirigeants de PME-ETI face au digital}
-      \field{year}{2017}
-    \endentry
-    \entry{fountaine2019building}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=3a7f2914a900647135b5f02597742d95}{%
-           family={Fountaine},
-           familyi={F\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5e9c8c46e7fe862f5f2485d7f03eae81}{%
-           family={McCarthy},
-           familyi={M\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=598defba17b0af766e1308892d83c447}{%
-           family={Saleh},
-           familyi={S\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{fc0f6884a4d82f743e02bac2befe034b}
-      \strng{fullhash}{1d2287e18b38eaf6624f4163f733a4d4}
-      \strng{bibnamehash}{1d2287e18b38eaf6624f4163f733a4d4}
-      \strng{authorbibnamehash}{1d2287e18b38eaf6624f4163f733a4d4}
-      \strng{authornamehash}{fc0f6884a4d82f743e02bac2befe034b}
-      \strng{authorfullhash}{1d2287e18b38eaf6624f4163f733a4d4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Harvard Business Review}
-      \field{number}{4}
-      \field{title}{Building the AI-powered organization}
-      \field{volume}{97}
-      \field{year}{2019}
-      \field{pages}{62\bibrangedash 73}
-      \range{pages}{12}
-    \endentry
-    \entry{dwivedi2021artificial}{article}{}
-      \name{author}{28}{}{%
-        {{un=0,uniquepart=base,hash=00649ecc71ba1edf5c21948ef76f5241}{%
-           family={Dwivedi},
-           familyi={D\bibinitperiod},
-           given={Y.\bibnamedelimi K.},
-           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b086e5a15e13bae126a02c3b3393c3ce}{%
-           family={Hughes},
-           familyi={H\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b91e371df3f35946049136aa3598b9b}{%
-           family={Ismagilova},
-           familyi={I\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1b8276df50e8a77a516413570753c987}{%
-           family={Aarts},
-           familyi={A\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6779904a47ccd8e28184a23bc55af9c5}{%
-           family={Coombs},
-           familyi={C\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=971b8f2feee39e1cf0ce4b5463a8b26c}{%
-           family={Crick},
-           familyi={C\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7580f1a6121abdbce076a5914163a071}{%
-           family={Duan},
-           familyi={D\bibinitperiod},
-           given={Y.},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a22a714cf6a552f1c6fc30be25b384e9}{%
-           family={Dwivedi},
-           familyi={D\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=89ec3d917e64ae74ff7f1e27b258dbfb}{%
-           family={Edwards},
-           familyi={E\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c56aa7994a167e4ff621900b80eb2d98}{%
-           family={Eirug},
-           familyi={E\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1d30a1000aeda6f24370075ec79738f}{%
-           family={Galanos},
-           familyi={G\bibinitperiod},
-           given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=42c329ed321ae0d70669e5399d031332}{%
-           family={Ilavarasan},
-           familyi={I\bibinitperiod},
-           given={P.\bibnamedelimi V.},
-           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5f2ed32f974edf2414ef3e60b7bad448}{%
-           family={Janssen},
-           familyi={J\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cae5dc6a22d1d934a52006da07aaa1b9}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb958de60b09929fe5b269474dc67a77}{%
-           family={Kar},
-           familyi={K\bibinitperiod},
-           given={A.\bibnamedelimi K.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=176c59d9aaa606eca52eb9e250438eb8}{%
-           family={Kizgin},
-           familyi={K\bibinitperiod},
-           given={H.},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ce7aceb9aee780ffdf1718be8fa1d8ea}{%
-           family={Kronemann},
-           familyi={K\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7607a83667b50a4c4d8a7b9517eae54e}{%
-           family={Lal},
-           familyi={L\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=43387d464cad4a29417852dc444dc82b}{%
-           family={Lucini},
-           familyi={L\bibinitperiod},
-           given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3622a42869cd1e969bf37394c9994d75}{%
-           family={Medaglia},
-           familyi={M\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fe6f79beb9dc74fd1fe8a8a66e5e939c}{%
-           family={Le\bibnamedelima Meunier-FitzHugh},
-           familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=07539c02b197c357b0d10133975e036e}{%
-           family={Le\bibnamedelima Meunier-FitzHugh},
-           familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
-           given={L.\bibnamedelimi C.},
-           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cef769c40f2bcb286c02207824594d92}{%
-           family={Misra},
-           familyi={M\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f812a4319044e2f4a7c04aaa96da4441}{%
-           family={Mogaji},
-           familyi={M\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d2d8708e60f7eaa2f8922b7caa7e246c}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={S.\bibnamedelimi K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=04448e8237b0a89a4e417de8a8438e6f}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={J.\bibnamedelimi B.},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=45e140a81611366d5d238f7e25c01bc9}{%
-           family={Viglia},
-           familyi={V\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4aa56cf4b6e8464dfa8b47469707bc4}{%
-           family={Williams},
-           familyi={W\bibinitperiod},
-           given={M.\bibnamedelimi D.},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{2ca2109870af7044c8d4e4a4b0f118b3}
-      \strng{fullhash}{946039bea08445157b83998fd2008637}
-      \strng{bibnamehash}{08f090b050dbcd9b29512863c191d83b}
-      \strng{authorbibnamehash}{08f090b050dbcd9b29512863c191d83b}
-      \strng{authornamehash}{2ca2109870af7044c8d4e4a4b0f118b3}
-      \strng{authorfullhash}{946039bea08445157b83998fd2008637}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Information Management}
-      \field{title}{Artificial intelligence (AI): A multidisciplinary review and future research agenda}
-      \field{volume}{57}
-      \field{year}{2021}
-      \field{pages}{102294}
-      \range{pages}{1}
-    \endentry
-    \entry{wagner2022artificial}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c14d630e42ab8f7508a94990069fa086}{%
-           family={Wagner},
-           familyi={W\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=472fccac3e236fe7b5136f686fade666}{%
-           family={Lukyanenko},
-           familyi={L\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f0589770663622925699b6cadc0e922b}{%
-           family={Paré},
-           familyi={P\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{9f2368f5d448daaa17ff393dbce290f0}
-      \strng{fullhash}{e5bdd28e1b63ce1a3c81a33853d706c2}
-      \strng{bibnamehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
-      \strng{authorbibnamehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
-      \strng{authornamehash}{9f2368f5d448daaa17ff393dbce290f0}
-      \strng{authorfullhash}{e5bdd28e1b63ce1a3c81a33853d706c2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Information Technology}
-      \field{number}{2}
-      \field{title}{Artificial Intelligence and the Conduct of Literature Reviews}
-      \field{volume}{37}
-      \field{year}{2022}
-      \field{pages}{209\bibrangedash 226}
-      \range{pages}{18}
-    \endentry
-    \entry{cnil2023ia}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=462a5b8b0d8424a1f8b01793217155f4}{%
-           family={{CNIL}},
-           familyi={C\bibinitperiod}}}%
-      }
-      \strng{namehash}{462a5b8b0d8424a1f8b01793217155f4}
-      \strng{fullhash}{462a5b8b0d8424a1f8b01793217155f4}
-      \strng{bibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
-      \strng{authorbibnamehash}{462a5b8b0d8424a1f8b01793217155f4}
-      \strng{authornamehash}{462a5b8b0d8424a1f8b01793217155f4}
-      \strng{authorfullhash}{462a5b8b0d8424a1f8b01793217155f4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Note d'orientation}
-      \field{title}{Intelligence artificielle: recommandations et points de vigilance}
-      \field{year}{2023}
-    \endentry
-    \entry{mckinsey2023consulting_ai}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
-           family={Company},
-           familyi={C\bibinitperiod},
-           given={McKinsey\bibnamedelima \&},
-           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {McKinsey \& Company}%
-      }
-      \strng{namehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{fullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{bibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorbibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authornamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorfullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Future of Work in Consulting: How AI Will Transform the Industry}
-      \field{year}{2023}
-    \endentry
-    \entry{mckinsey2023ai_adoption}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
-           family={Company},
-           familyi={C\bibinitperiod},
-           given={McKinsey\bibnamedelima \&},
-           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {McKinsey Global Institute}%
-      }
-      \strng{namehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{fullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{bibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorbibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authornamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorfullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The State of AI in 2023: Generative AI's Breakout Year}
-      \field{year}{2023}
-      \field{pages}{1\bibrangedash 84}
-      \range{pages}{84}
-    \endentry
-    \entry{ransbotham2023expanding}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f13de65dae497b06f5bf6f6d8643dbcf}{%
-           family={Ransbotham},
-           familyi={R\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7788431576f67a3814645620d3c161c8}{%
-           family={Kiron},
-           familyi={K\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=acc57327f6e4b989fc275eff770f077c}{%
-           family={Prentice},
-           familyi={P\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3b479aa56f2b5d6a5eb5c4021039d77a}{%
-           family={Domingos},
-           familyi={D\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f0474c0031e460b0c601940b6e1239da}
-      \strng{fullhash}{8592d837a20b90f6db3033946272e062}
-      \strng{bibnamehash}{8592d837a20b90f6db3033946272e062}
-      \strng{authorbibnamehash}{8592d837a20b90f6db3033946272e062}
-      \strng{authornamehash}{f0474c0031e460b0c601940b6e1239da}
-      \strng{authorfullhash}{8592d837a20b90f6db3033946272e062}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{MIT Sloan Management Review}
-      \field{number}{2}
-      \field{title}{Expanding AI's Impact with Organizational Learning}
-      \field{volume}{64}
-      \field{year}{2023}
-      \field{pages}{1\bibrangedash 29}
-      \range{pages}{29}
-    \endentry
-    \entry{bertolucci2024artificial}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f73a83601376ce7cb0b131da14ea25ae}{%
-           family={Bertolucci},
-           familyi={B\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f73a83601376ce7cb0b131da14ea25ae}
-      \strng{fullhash}{f73a83601376ce7cb0b131da14ea25ae}
-      \strng{bibnamehash}{f73a83601376ce7cb0b131da14ea25ae}
-      \strng{authorbibnamehash}{f73a83601376ce7cb0b131da14ea25ae}
-      \strng{authornamehash}{f73a83601376ce7cb0b131da14ea25ae}
-      \strng{authorfullhash}{f73a83601376ce7cb0b131da14ea25ae}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Public Administration Review}
-      \field{number}{3}
-      \field{title}{Artificial Intelligence in French Public Administration: Challenges and Opportunities}
-      \field{volume}{84}
-      \field{year}{2024}
-      \field{pages}{456\bibrangedash 469}
-      \range{pages}{14}
-    \endentry
-    \entry{chen2024airam}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd6c1d35aed39fa11fcfba0d353120d6}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6ad1eecfc334252530f1a1eb6146fbdb}{%
-           family={Martinez},
-           familyi={M\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2b82141a6cdd6fa388208fc3caada893}
-      \strng{fullhash}{3fdb8355b9eaa6324a45e3c8654282b3}
-      \strng{bibnamehash}{3fdb8355b9eaa6324a45e3c8654282b3}
-      \strng{authorbibnamehash}{3fdb8355b9eaa6324a45e3c8654282b3}
-      \strng{authornamehash}{2b82141a6cdd6fa388208fc3caada893}
-      \strng{authorfullhash}{3fdb8355b9eaa6324a45e3c8654282b3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Business Research}
-      \field{title}{AIRAM: Artificial Intelligence Readiness and Adoption Model for Enterprise Implementation}
-      \field{volume}{156}
-      \field{year}{2024}
-      \field{pages}{113\bibrangedash 128}
-      \range{pages}{16}
-    \endentry
-    \entry{syntec2024ai}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c7d5dc8f078eb1a1b4d7c7ef5644e563}{%
-           family={Conseil},
-           familyi={C\bibinitperiod},
-           given={Syntec},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Syntec Conseil France}%
-      }
-      \strng{namehash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \strng{fullhash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \strng{bibnamehash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \strng{authorbibnamehash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \strng{authornamehash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \strng{authorfullhash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Baromètre du Conseil 2024 : L'IA transforme les métiers du conseil}
-      \field{year}{2024}
-      \field{pages}{1\bibrangedash 67}
-      \range{pages}{67}
-    \endentry
-    \entry{dinum2024guide}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f4703dee23a0efa6a281c6e02be2f8c1}{%
-           family={{DINUM}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \strng{fullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \strng{bibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \strng{authorbibnamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \strng{authornamehash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \strng{authorfullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Direction interministérielle du numérique}
-      \field{title}{Guide pratique d'IA responsable pour les administrations}
-      \field{year}{2024}
-    \endentry
-    \entry{eu2024ai_act}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
-           family={{European Union}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{158562a5e9dc942912330c711ca123ca}
-      \strng{fullhash}{158562a5e9dc942912330c711ca123ca}
-      \strng{bibnamehash}{158562a5e9dc942912330c711ca123ca}
-      \strng{authorbibnamehash}{158562a5e9dc942912330c711ca123ca}
-      \strng{authornamehash}{158562a5e9dc942912330c711ca123ca}
-      \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Regulation adopted by the European Parliament and the Council}
-      \field{title}{Artificial Intelligence Act}
-      \field{year}{2024}
-    \endentry
-    \entry{capgemini2024ai_france}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cbfbfe3c4105c6b9ce4f045b89e99645}{%
-           family={Institute},
-           familyi={I\bibinitperiod},
-           given={Capgemini\bibnamedelima Research},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Capgemini}%
-      }
-      \strng{namehash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \strng{fullhash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \strng{bibnamehash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \strng{authorbibnamehash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \strng{authornamehash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \strng{authorfullhash}{cbfbfe3c4105c6b9ce4f045b89e99645}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Intelligence Artificielle en France : Adoption et Spécificités Culturelles}
-      \field{year}{2024}
-      \field{pages}{1\bibrangedash 45}
-      \range{pages}{45}
-    \endentry
-    \entry{kumar2024aida}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=8aacd22e59b538e218d84bc9cb96c13f}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d428707fb7fa12c120582433caed8f0c}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e57d0b1f72e19c844023fb5ae360f752}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{34d38e0dba09fd87197fa65f51473eb4}
-      \strng{fullhash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{bibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authorbibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authornamehash}{34d38e0dba09fd87197fa65f51473eb4}
-      \strng{authorfullhash}{abc7daa16cd97a16485cef13e79e54d4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Technology in Society}
-      \field{title}{AIDA Framework: AI Diffusion and Adoption in Organizational Ecosystems}
-      \field{volume}{76}
-      \field{year}{2024}
-      \field{pages}{102\bibrangedash 115}
-      \range{pages}{14}
-    \endentry
-    \entry{psicosmart2024resistance}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=35cbdaaaa12588b6b64f0fb15666e715}{%
-           family={PsicoSmart},
-           familyi={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \strng{fullhash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \strng{bibnamehash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \strng{authorbibnamehash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \strng{authornamehash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \strng{authorfullhash}{35cbdaaaa12588b6b64f0fb15666e715}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Comment les entreprises peuvent-elles surmonter les obstacles à l'adoption technologique}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://psico-smart.com/fr/blogs/blog-comment-les-entreprises-peuventelles-surmonter-les-obstacles-a-ladoption-technologique-81530
-      \endverb
-      \verb{url}
-      \verb https://psico-smart.com/fr/blogs/blog-comment-les-entreprises-peuventelles-surmonter-les-obstacles-a-ladoption-technologique-81530
-      \endverb
-    \endentry
-    \entry{vorecol2024resistance}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e8c934114d5b0cbcc2591687850ed8ac}{%
-           family={Vorecol},
-           familyi={V\bibinitperiod}}}%
-      }
-      \strng{namehash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \strng{fullhash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \strng{bibnamehash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \strng{authorbibnamehash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \strng{authornamehash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \strng{authorfullhash}{e8c934114d5b0cbcc2591687850ed8ac}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{La résistance au changement technologique : psychologie et stratégies de soutien}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://vorecol.com/fr/blogs/blog-la-resistance-au-changement-technologique-psychologie-et-strategies-de-soutien-165942
-      \endverb
-      \verb{url}
-      \verb https://vorecol.com/fr/blogs/blog-la-resistance-au-changement-technologique-psychologie-et-strategies-de-soutien-165942
-      \endverb
-    \endentry
-    \entry{wang2024data_governance}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=9a75ee293f2555f40976345739087998}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc9f9797882a6d680ef38740a3d48975}{%
-           family={Fischer},
-           familyi={F\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a62f1b53b20096ebc73de50e80b39f3}{%
-           family={Dubois},
-           familyi={D\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{fullhash}{818d3d086a20df4ce9f32f24556c2d2f}
-      \strng{bibnamehash}{818d3d086a20df4ce9f32f24556c2d2f}
-      \strng{authorbibnamehash}{818d3d086a20df4ce9f32f24556c2d2f}
-      \strng{authornamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
-      \strng{authorfullhash}{818d3d086a20df4ce9f32f24556c2d2f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{European Management Journal}
-      \field{number}{4}
-      \field{title}{Data Governance Frameworks for AI Implementation in European SMEs}
-      \field{volume}{42}
-      \field{year}{2024}
-      \field{pages}{512\bibrangedash 525}
-      \range{pages}{14}
-    \endentry
-    \entry{artimon2025theorie}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dcce05e1b22a39969b92e07ce09310de}{%
-           family={Artimon},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{dcce05e1b22a39969b92e07ce09310de}
-      \strng{fullhash}{dcce05e1b22a39969b92e07ce09310de}
-      \strng{bibnamehash}{dcce05e1b22a39969b92e07ce09310de}
-      \strng{authorbibnamehash}{dcce05e1b22a39969b92e07ce09310de}
-      \strng{authornamehash}{dcce05e1b22a39969b92e07ce09310de}
-      \strng{authorfullhash}{dcce05e1b22a39969b92e07ce09310de}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Artimon Perspectives}
-      \field{title}{La théorie unifiée de l'acceptation et de l'utilisation de la technologie}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://artimon.fr/perspectives/la-theorie-unifiee-de-lacceptation-et-de-lutilisation-de-la-technologie/
-      \endverb
-      \verb{url}
-      \verb https://artimon.fr/perspectives/la-theorie-unifiee-de-lacceptation-et-de-lutilisation-de-la-technologie/
-      \endverb
-    \endentry
-    \entry{sage2025pme_transformation}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4ccb4e2b0894c37272ffb56fc5392897}{%
-           family={France},
-           familyi={F\bibinitperiod},
-           given={Sage},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \strng{fullhash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \strng{bibnamehash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \strng{authorbibnamehash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \strng{authornamehash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \strng{authorfullhash}{4ccb4e2b0894c37272ffb56fc5392897}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{PME et ETI : quand la transformation numérique s'impose}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://www.sage.com/fr-fr/blog/transformation-numerique-pme-et-eti-convaincues/
-      \endverb
-      \verb{url}
-      \verb https://www.sage.com/fr-fr/blog/transformation-numerique-pme-et-eti-convaincues/
-      \endverb
-    \endentry
-    \entry{bpifrance2025ia}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfe2b275bfefeada746aa3269f0aeb37}{%
-           family={Lab},
-           familyi={L\bibinitperiod},
-           given={BPI\bibnamedelimb France\bibnamedelima Le},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {BPI France}%
-      }
-      \strng{namehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{fullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{bibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{6}
-      \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
-      \field{year}{2025}
-      \verb{urlraw}
-      \verb https://lelab.bpifrance.fr/content/download/4745/pdf/2025-06_L'IA dans les PME et ETI françaises_Etude Bpifrance Le Lab.pdf
-      \endverb
-      \verb{url}
-      \verb https://lelab.bpifrance.fr/content/download/4745/pdf/2025-06_L'IA%20dans%20les%20PME%20et%20ETI%20fran%C3%A7aises_Etude%20Bpifrance%20Le%20Lab.pdf
-      \endverb
-    \endentry
-    \entry{laboratoire2025how}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
-           family={{Laboratoire de la Société Numérique}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {Gouvernement français}%
-      }
-      \strng{namehash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \strng{fullhash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \strng{bibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \strng{authorbibnamehash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \strng{authornamehash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \strng{authorfullhash}{2e79b7043186dbf1e72749f738d8b1d9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{5}
-      \field{title}{How do the French relate to artificial intelligence?}
-      \field{type}{techreport}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025base}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{63 entretiens téléphoniques menés entre juin et août 2025. Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées.}
-      \field{title}{Base de données prospects Luwai}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025aesio}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{7}
-      \field{note}{Destinataire : Marine Peyramaure, Directrice Marque et Communication Externe. Montant : 3\,200\,\texteuro{} HT.}
-      \field{title}{Proposition Aesio}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025carecall}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2\,500\,\texteuro{} HT.}
-      \field{title}{Proposition Carecall x Luwai}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025antilogy}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Programme formation IA 15 collaborateurs. Montant : 3\,500\,\texteuro{} HT.}
-      \field{title}{Proposition Commerciale Luwai x Antilogy}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025tectona}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3\,500\,\texteuro{} HT.}
-      \field{title}{Proposition d'Accompagnement Tectona x Luwai}
-      \field{year}{2025}
-    \endentry
-    \entry{luwai2025integrhale}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
-           family={{Luwai}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
-      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
-      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2\,600\,\texteuro{} HT.}
-      \field{title}{Proposition Intégrhale x Luwai}
-      \field{year}{2025}
-    \endentry
-    \entry{france_strategie2025make}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8e36ff44b85f3dc17522ccb5966de4cb}{%
-           family={Stratégie},
-           familyi={S\bibinitperiod},
-           given={France},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Gouvernement Français - Élysée}%
-      }
-      \strng{namehash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \strng{fullhash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \strng{bibnamehash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \strng{authorbibnamehash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \strng{authornamehash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \strng{authorfullhash}{8e36ff44b85f3dc17522ccb5966de4cb}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{3}
-      \field{title}{Make France an AI Powerhouse}
-      \field{year}{2025}
-    \endentry
-  \enddatalist
   \datalist[entry]{ynt/global//global/global}
     \entry{davis1989perceived}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
+        {{hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
            given={F.\bibnamedelimi D.},
-           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{1b140cebcf9ce5e695df277c57085714}
       \strng{fullhash}{1b140cebcf9ce5e695df277c57085714}
@@ -1406,9 +35,6 @@
       \strng{authorfullhash}{1b140cebcf9ce5e695df277c57085714}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{MIS Quarterly}
@@ -1421,12 +47,11 @@
     \endentry
     \entry{christensen1997innovator}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b17c3874c0b46416b64cdf7b9e1fb94d}{%
+        {{hash=b17c3874c0b46416b64cdf7b9e1fb94d}{%
            family={Christensen},
            familyi={C\bibinitperiod},
            given={C.\bibnamedelimi M.},
-           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Harvard Business Review Press}%
@@ -1439,9 +64,6 @@
       \strng{authorfullhash}{b17c3874c0b46416b64cdf7b9e1fb94d}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
@@ -1449,12 +71,11 @@
     \endentry
     \entry{hofstede2001culture}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=33cd33d6e507fdb2568256c625491f56}{%
+        {{hash=33cd33d6e507fdb2568256c625491f56}{%
            family={Hofstede},
            familyi={H\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
+           giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Sage Publications}%
@@ -1467,9 +88,6 @@
       \strng{authorfullhash}{33cd33d6e507fdb2568256c625491f56}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
@@ -1478,42 +96,35 @@
     \endentry
     \entry{venkatesh2003user}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=023387d30a490173bdf159f6e62766ee}{%
+        {{hash=023387d30a490173bdf159f6e62766ee}{%
            family={Venkatesh},
            familyi={V\bibinitperiod},
            given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fa82aa1c264b7bc22d5dc5b2b6eca13d}{%
+           giveni={V\bibinitperiod}}}%
+        {{hash=fa82aa1c264b7bc22d5dc5b2b6eca13d}{%
            family={Morris},
            familyi={M\bibinitperiod},
            given={M.\bibnamedelimi G.},
-           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1c9f5f901ee7dc0a1188a58fb57b67e8}{%
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1c9f5f901ee7dc0a1188a58fb57b67e8}{%
            family={Davis},
            familyi={D\bibinitperiod},
            given={G.\bibnamedelimi B.},
-           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1b140cebcf9ce5e695df277c57085714}{%
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=1b140cebcf9ce5e695df277c57085714}{%
            family={Davis},
            familyi={D\bibinitperiod},
            given={F.\bibnamedelimi D.},
-           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \strng{namehash}{56e8754cb5ea6f1905d59fbe948d9879}
       \strng{fullhash}{fb270149fb155de757fe7aadea5a0de8}
-      \strng{bibnamehash}{fb270149fb155de757fe7aadea5a0de8}
-      \strng{authorbibnamehash}{fb270149fb155de757fe7aadea5a0de8}
+      \strng{bibnamehash}{56e8754cb5ea6f1905d59fbe948d9879}
+      \strng{authorbibnamehash}{56e8754cb5ea6f1905d59fbe948d9879}
       \strng{authornamehash}{56e8754cb5ea6f1905d59fbe948d9879}
       \strng{authorfullhash}{fb270149fb155de757fe7aadea5a0de8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{MIS Quarterly}
@@ -1526,12 +137,11 @@
     \endentry
     \entry{teece2007dynamic}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3af25e4f64fbc95eaa4aefb56b7046f5}{%
+        {{hash=3af25e4f64fbc95eaa4aefb56b7046f5}{%
            family={Teece},
            familyi={T\bibinitperiod},
            given={D.\bibnamedelimi J.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \strng{namehash}{3af25e4f64fbc95eaa4aefb56b7046f5}
       \strng{fullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
@@ -1541,9 +151,6 @@
       \strng{authorfullhash}{3af25e4f64fbc95eaa4aefb56b7046f5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Strategic Management Journal}
@@ -1556,12 +163,11 @@
     \endentry
     \entry{blank2013lean}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6976a7406a1c23162183ba7150bdfc7f}{%
+        {{hash=6976a7406a1c23162183ba7150bdfc7f}{%
            family={Blank},
            familyi={B\bibinitperiod},
            given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Crown Business}%
@@ -1574,9 +180,6 @@
       \strng{authorfullhash}{6976a7406a1c23162183ba7150bdfc7f}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
@@ -1585,12 +188,11 @@
     \endentry
     \entry{meyer2014culture}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e91d95174a1ac294f44cf61968aba5a9}{%
+        {{hash=e91d95174a1ac294f44cf61968aba5a9}{%
            family={Meyer},
            familyi={M\bibinitperiod},
            given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
+           giveni={E\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {PublicAffairs}%
@@ -1603,9 +205,6 @@
       \strng{authorfullhash}{e91d95174a1ac294f44cf61968aba5a9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Culture Map: Breaking Through the Invisible Boundaries of Global Business}
@@ -1613,45 +212,38 @@
     \endentry
     \entry{osterwalder2014value}{book}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=729699de507ece4abce70e59dc8af7ce}{%
+        {{hash=729699de507ece4abce70e59dc8af7ce}{%
            family={Osterwalder},
            familyi={O\bibinitperiod},
            given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ca1ae5979e7e7ec2fba95d04b8cd9e4e}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=ca1ae5979e7e7ec2fba95d04b8cd9e4e}{%
            family={Pigneur},
            familyi={P\bibinitperiod},
            given={Y.},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a871298b76700bf41a9e5d206d3c9328}{%
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a871298b76700bf41a9e5d206d3c9328}{%
            family={Bernarda},
            familyi={B\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f5ad93423c3c7f823659822ec5c53567}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=f5ad93423c3c7f823659822ec5c53567}{%
            family={Smith},
            familyi={S\bibinitperiod},
            given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Wiley}%
       }
       \strng{namehash}{94c77ea45beec327e471193bb286ea30}
       \strng{fullhash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \strng{bibnamehash}{a0b3281a4e6bacd6dde84ee087f14920}
-      \strng{authorbibnamehash}{a0b3281a4e6bacd6dde84ee087f14920}
+      \strng{bibnamehash}{94c77ea45beec327e471193bb286ea30}
+      \strng{authorbibnamehash}{94c77ea45beec327e471193bb286ea30}
       \strng{authornamehash}{94c77ea45beec327e471193bb286ea30}
       \strng{authorfullhash}{a0b3281a4e6bacd6dde84ee087f14920}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Value Proposition Design}
@@ -1659,39 +251,33 @@
     \endentry
     \entry{parker2016platform}{book}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c7a67bc82ba07036fdc08a42c7b1d629}{%
+        {{hash=c7a67bc82ba07036fdc08a42c7b1d629}{%
            family={Parker},
            familyi={P\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5764bf29eb8a450161c33d18fc4584eb}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=5764bf29eb8a450161c33d18fc4584eb}{%
            family={Van\bibnamedelima Alstyne},
            familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
            given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=37744bd9495cfac40fb94aa70d424ba2}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=37744bd9495cfac40fb94aa70d424ba2}{%
            family={Choudary},
            familyi={C\bibinitperiod},
            given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {W. W. Norton \& Company}%
       }
-      \strng{namehash}{6a6e97c0f6b180f1ca873db949eb77cf}
+      \strng{namehash}{437b17364d086b065e209b371d6f9550}
       \strng{fullhash}{437b17364d086b065e209b371d6f9550}
       \strng{bibnamehash}{437b17364d086b065e209b371d6f9550}
       \strng{authorbibnamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authornamehash}{6a6e97c0f6b180f1ca873db949eb77cf}
+      \strng{authornamehash}{437b17364d086b065e209b371d6f9550}
       \strng{authorfullhash}{437b17364d086b065e209b371d6f9550}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You}
@@ -1699,12 +285,11 @@
     \endentry
     \entry{bpifrance2017dirigeants}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfe2b275bfefeada746aa3269f0aeb37}{%
+        {{hash=bfe2b275bfefeada746aa3269f0aeb37}{%
            family={Lab},
            familyi={L\bibinitperiod},
            given={BPI\bibnamedelimb France\bibnamedelima Le},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {BPI France}%
@@ -1718,9 +303,6 @@
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -1729,36 +311,30 @@
     \endentry
     \entry{fountaine2019building}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=3a7f2914a900647135b5f02597742d95}{%
+        {{hash=3a7f2914a900647135b5f02597742d95}{%
            family={Fountaine},
            familyi={F\bibinitperiod},
            given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5e9c8c46e7fe862f5f2485d7f03eae81}{%
+           giveni={T\bibinitperiod}}}%
+        {{hash=5e9c8c46e7fe862f5f2485d7f03eae81}{%
            family={McCarthy},
            familyi={M\bibinitperiod},
            given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=598defba17b0af766e1308892d83c447}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=598defba17b0af766e1308892d83c447}{%
            family={Saleh},
            familyi={S\bibinitperiod},
            given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
+           giveni={T\bibinitperiod}}}%
       }
-      \strng{namehash}{fc0f6884a4d82f743e02bac2befe034b}
+      \strng{namehash}{1d2287e18b38eaf6624f4163f733a4d4}
       \strng{fullhash}{1d2287e18b38eaf6624f4163f733a4d4}
       \strng{bibnamehash}{1d2287e18b38eaf6624f4163f733a4d4}
       \strng{authorbibnamehash}{1d2287e18b38eaf6624f4163f733a4d4}
-      \strng{authornamehash}{fc0f6884a4d82f743e02bac2befe034b}
+      \strng{authornamehash}{1d2287e18b38eaf6624f4163f733a4d4}
       \strng{authorfullhash}{1d2287e18b38eaf6624f4163f733a4d4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Harvard Business Review}
@@ -1771,189 +347,158 @@
     \endentry
     \entry{dwivedi2021artificial}{article}{}
       \name{author}{28}{}{%
-        {{un=0,uniquepart=base,hash=00649ecc71ba1edf5c21948ef76f5241}{%
+        {{hash=00649ecc71ba1edf5c21948ef76f5241}{%
            family={Dwivedi},
            familyi={D\bibinitperiod},
            given={Y.\bibnamedelimi K.},
-           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b086e5a15e13bae126a02c3b3393c3ce}{%
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b086e5a15e13bae126a02c3b3393c3ce}{%
            family={Hughes},
            familyi={H\bibinitperiod},
            given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b91e371df3f35946049136aa3598b9b}{%
+           giveni={L\bibinitperiod}}}%
+        {{hash=0b91e371df3f35946049136aa3598b9b}{%
            family={Ismagilova},
            familyi={I\bibinitperiod},
            given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1b8276df50e8a77a516413570753c987}{%
+           giveni={E\bibinitperiod}}}%
+        {{hash=1b8276df50e8a77a516413570753c987}{%
            family={Aarts},
            familyi={A\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6779904a47ccd8e28184a23bc55af9c5}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=6779904a47ccd8e28184a23bc55af9c5}{%
            family={Coombs},
            familyi={C\bibinitperiod},
            given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=971b8f2feee39e1cf0ce4b5463a8b26c}{%
+           giveni={C\bibinitperiod}}}%
+        {{hash=971b8f2feee39e1cf0ce4b5463a8b26c}{%
            family={Crick},
            familyi={C\bibinitperiod},
            given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7580f1a6121abdbce076a5914163a071}{%
+           giveni={T\bibinitperiod}}}%
+        {{hash=7580f1a6121abdbce076a5914163a071}{%
            family={Duan},
            familyi={D\bibinitperiod},
            given={Y.},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a22a714cf6a552f1c6fc30be25b384e9}{%
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a22a714cf6a552f1c6fc30be25b384e9}{%
            family={Dwivedi},
            familyi={D\bibinitperiod},
            given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=89ec3d917e64ae74ff7f1e27b258dbfb}{%
+           giveni={R\bibinitperiod}}}%
+        {{hash=89ec3d917e64ae74ff7f1e27b258dbfb}{%
            family={Edwards},
            familyi={E\bibinitperiod},
            given={J.},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c56aa7994a167e4ff621900b80eb2d98}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=c56aa7994a167e4ff621900b80eb2d98}{%
            family={Eirug},
            familyi={E\bibinitperiod},
            given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1d30a1000aeda6f24370075ec79738f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=c1d30a1000aeda6f24370075ec79738f}{%
            family={Galanos},
            familyi={G\bibinitperiod},
            given={V.},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=42c329ed321ae0d70669e5399d031332}{%
+           giveni={V\bibinitperiod}}}%
+        {{hash=42c329ed321ae0d70669e5399d031332}{%
            family={Ilavarasan},
            familyi={I\bibinitperiod},
            given={P.\bibnamedelimi V.},
-           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5f2ed32f974edf2414ef3e60b7bad448}{%
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=5f2ed32f974edf2414ef3e60b7bad448}{%
            family={Janssen},
            familyi={J\bibinitperiod},
            given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cae5dc6a22d1d934a52006da07aaa1b9}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=cae5dc6a22d1d934a52006da07aaa1b9}{%
            family={Jones},
            familyi={J\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb958de60b09929fe5b269474dc67a77}{%
+           giveni={P\bibinitperiod}}}%
+        {{hash=cb958de60b09929fe5b269474dc67a77}{%
            family={Kar},
            familyi={K\bibinitperiod},
            given={A.\bibnamedelimi K.},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=176c59d9aaa606eca52eb9e250438eb8}{%
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=176c59d9aaa606eca52eb9e250438eb8}{%
            family={Kizgin},
            familyi={K\bibinitperiod},
            given={H.},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ce7aceb9aee780ffdf1718be8fa1d8ea}{%
+           giveni={H\bibinitperiod}}}%
+        {{hash=ce7aceb9aee780ffdf1718be8fa1d8ea}{%
            family={Kronemann},
            familyi={K\bibinitperiod},
            given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7607a83667b50a4c4d8a7b9517eae54e}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=7607a83667b50a4c4d8a7b9517eae54e}{%
            family={Lal},
            familyi={L\bibinitperiod},
            given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=43387d464cad4a29417852dc444dc82b}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=43387d464cad4a29417852dc444dc82b}{%
            family={Lucini},
            familyi={L\bibinitperiod},
            given={B.},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3622a42869cd1e969bf37394c9994d75}{%
+           giveni={B\bibinitperiod}}}%
+        {{hash=3622a42869cd1e969bf37394c9994d75}{%
            family={Medaglia},
            familyi={M\bibinitperiod},
            given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fe6f79beb9dc74fd1fe8a8a66e5e939c}{%
+           giveni={R\bibinitperiod}}}%
+        {{hash=fe6f79beb9dc74fd1fe8a8a66e5e939c}{%
            family={Le\bibnamedelima Meunier-FitzHugh},
            familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
            given={K.},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=07539c02b197c357b0d10133975e036e}{%
+           giveni={K\bibinitperiod}}}%
+        {{hash=07539c02b197c357b0d10133975e036e}{%
            family={Le\bibnamedelima Meunier-FitzHugh},
            familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
            given={L.\bibnamedelimi C.},
-           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cef769c40f2bcb286c02207824594d92}{%
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=cef769c40f2bcb286c02207824594d92}{%
            family={Misra},
            familyi={M\bibinitperiod},
            given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f812a4319044e2f4a7c04aaa96da4441}{%
+           giveni={S\bibinitperiod}}}%
+        {{hash=f812a4319044e2f4a7c04aaa96da4441}{%
            family={Mogaji},
            familyi={M\bibinitperiod},
            given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d2d8708e60f7eaa2f8922b7caa7e246c}{%
+           giveni={E\bibinitperiod}}}%
+        {{hash=d2d8708e60f7eaa2f8922b7caa7e246c}{%
            family={Sharma},
            familyi={S\bibinitperiod},
            given={S.\bibnamedelimi K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=04448e8237b0a89a4e417de8a8438e6f}{%
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=04448e8237b0a89a4e417de8a8438e6f}{%
            family={Singh},
            familyi={S\bibinitperiod},
            given={J.\bibnamedelimi B.},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=45e140a81611366d5d238f7e25c01bc9}{%
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=45e140a81611366d5d238f7e25c01bc9}{%
            family={Viglia},
            familyi={V\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4aa56cf4b6e8464dfa8b47469707bc4}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=c4aa56cf4b6e8464dfa8b47469707bc4}{%
            family={Williams},
            familyi={W\bibinitperiod},
            given={M.\bibnamedelimi D.},
-           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Elsevier}%
       }
       \strng{namehash}{2ca2109870af7044c8d4e4a4b0f118b3}
       \strng{fullhash}{946039bea08445157b83998fd2008637}
-      \strng{bibnamehash}{08f090b050dbcd9b29512863c191d83b}
-      \strng{authorbibnamehash}{08f090b050dbcd9b29512863c191d83b}
+      \strng{bibnamehash}{2ca2109870af7044c8d4e4a4b0f118b3}
+      \strng{authorbibnamehash}{2ca2109870af7044c8d4e4a4b0f118b3}
       \strng{authornamehash}{2ca2109870af7044c8d4e4a4b0f118b3}
       \strng{authorfullhash}{946039bea08445157b83998fd2008637}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Information Management}
@@ -1965,36 +510,30 @@
     \endentry
     \entry{wagner2022artificial}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c14d630e42ab8f7508a94990069fa086}{%
+        {{hash=c14d630e42ab8f7508a94990069fa086}{%
            family={Wagner},
            familyi={W\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=472fccac3e236fe7b5136f686fade666}{%
+           giveni={G\bibinitperiod}}}%
+        {{hash=472fccac3e236fe7b5136f686fade666}{%
            family={Lukyanenko},
            familyi={L\bibinitperiod},
            given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f0589770663622925699b6cadc0e922b}{%
+           giveni={R\bibinitperiod}}}%
+        {{hash=f0589770663622925699b6cadc0e922b}{%
            family={Paré},
            familyi={P\bibinitperiod},
            given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
+           giveni={G\bibinitperiod}}}%
       }
-      \strng{namehash}{9f2368f5d448daaa17ff393dbce290f0}
+      \strng{namehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
       \strng{fullhash}{e5bdd28e1b63ce1a3c81a33853d706c2}
       \strng{bibnamehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
       \strng{authorbibnamehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
-      \strng{authornamehash}{9f2368f5d448daaa17ff393dbce290f0}
+      \strng{authornamehash}{e5bdd28e1b63ce1a3c81a33853d706c2}
       \strng{authorfullhash}{e5bdd28e1b63ce1a3c81a33853d706c2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Information Technology}
@@ -2007,7 +546,7 @@
     \endentry
     \entry{cnil2023ia}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=462a5b8b0d8424a1f8b01793217155f4}{%
+        {{hash=462a5b8b0d8424a1f8b01793217155f4}{%
            family={{CNIL}},
            familyi={C\bibinitperiod}}}%
       }
@@ -2019,9 +558,6 @@
       \strng{authorfullhash}{462a5b8b0d8424a1f8b01793217155f4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Note d'orientation}
@@ -2030,12 +566,11 @@
     \endentry
     \entry{mckinsey2023consulting_ai}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
+        {{hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
            family={Company},
            familyi={C\bibinitperiod},
            given={McKinsey\bibnamedelima \&},
-           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {McKinsey \& Company}%
@@ -2049,10 +584,6 @@
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Work in Consulting: How AI Will Transform the Industry}
@@ -2060,12 +591,11 @@
     \endentry
     \entry{mckinsey2023ai_adoption}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
+        {{hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
            family={Company},
            familyi={C\bibinitperiod},
            given={McKinsey\bibnamedelima \&},
-           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {McKinsey Global Institute}%
@@ -2079,10 +609,6 @@
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The State of AI in 2023: Generative AI's Breakout Year}
@@ -2092,42 +618,35 @@
     \endentry
     \entry{ransbotham2023expanding}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f13de65dae497b06f5bf6f6d8643dbcf}{%
+        {{hash=f13de65dae497b06f5bf6f6d8643dbcf}{%
            family={Ransbotham},
            familyi={R\bibinitperiod},
            given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7788431576f67a3814645620d3c161c8}{%
+           giveni={S\bibinitperiod}}}%
+        {{hash=7788431576f67a3814645620d3c161c8}{%
            family={Kiron},
            familyi={K\bibinitperiod},
            given={D.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=acc57327f6e4b989fc275eff770f077c}{%
+           giveni={D\bibinitperiod}}}%
+        {{hash=acc57327f6e4b989fc275eff770f077c}{%
            family={Prentice},
            familyi={P\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3b479aa56f2b5d6a5eb5c4021039d77a}{%
+           giveni={P\bibinitperiod}}}%
+        {{hash=3b479aa56f2b5d6a5eb5c4021039d77a}{%
            family={Domingos},
            familyi={D\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{f0474c0031e460b0c601940b6e1239da}
       \strng{fullhash}{8592d837a20b90f6db3033946272e062}
-      \strng{bibnamehash}{8592d837a20b90f6db3033946272e062}
-      \strng{authorbibnamehash}{8592d837a20b90f6db3033946272e062}
+      \strng{bibnamehash}{f0474c0031e460b0c601940b6e1239da}
+      \strng{authorbibnamehash}{f0474c0031e460b0c601940b6e1239da}
       \strng{authornamehash}{f0474c0031e460b0c601940b6e1239da}
       \strng{authorfullhash}{8592d837a20b90f6db3033946272e062}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{MIT Sloan Management Review}
@@ -2140,12 +659,11 @@
     \endentry
     \entry{bertolucci2024artificial}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f73a83601376ce7cb0b131da14ea25ae}{%
+        {{hash=f73a83601376ce7cb0b131da14ea25ae}{%
            family={Bertolucci},
            familyi={B\bibinitperiod},
            given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
+           giveni={M\bibinitperiod}}}%
       }
       \strng{namehash}{f73a83601376ce7cb0b131da14ea25ae}
       \strng{fullhash}{f73a83601376ce7cb0b131da14ea25ae}
@@ -2155,9 +673,6 @@
       \strng{authorfullhash}{f73a83601376ce7cb0b131da14ea25ae}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Public Administration Review}
@@ -2170,36 +685,30 @@
     \endentry
     \entry{chen2024airam}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
+        {{hash=5ecc04ab7cd8350e63b66dc42451fa3e}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd6c1d35aed39fa11fcfba0d353120d6}{%
+           giveni={L\bibinitperiod}}}%
+        {{hash=cd6c1d35aed39fa11fcfba0d353120d6}{%
            family={Wang},
            familyi={W\bibinitperiod},
            given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6ad1eecfc334252530f1a1eb6146fbdb}{%
+           giveni={S\bibinitperiod}}}%
+        {{hash=6ad1eecfc334252530f1a1eb6146fbdb}{%
            family={Martinez},
            familyi={M\bibinitperiod},
            given={R.},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{namehash}{3fdb8355b9eaa6324a45e3c8654282b3}
       \strng{fullhash}{3fdb8355b9eaa6324a45e3c8654282b3}
       \strng{bibnamehash}{3fdb8355b9eaa6324a45e3c8654282b3}
       \strng{authorbibnamehash}{3fdb8355b9eaa6324a45e3c8654282b3}
-      \strng{authornamehash}{2b82141a6cdd6fa388208fc3caada893}
+      \strng{authornamehash}{3fdb8355b9eaa6324a45e3c8654282b3}
       \strng{authorfullhash}{3fdb8355b9eaa6324a45e3c8654282b3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Business Research}
@@ -2211,12 +720,11 @@
     \endentry
     \entry{syntec2024ai}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c7d5dc8f078eb1a1b4d7c7ef5644e563}{%
+        {{hash=c7d5dc8f078eb1a1b4d7c7ef5644e563}{%
            family={Conseil},
            familyi={C\bibinitperiod},
            given={Syntec},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Syntec Conseil France}%
@@ -2229,9 +737,6 @@
       \strng{authorfullhash}{c7d5dc8f078eb1a1b4d7c7ef5644e563}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Baromètre du Conseil 2024 : L'IA transforme les métiers du conseil}
@@ -2241,7 +746,7 @@
     \endentry
     \entry{dinum2024guide}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f4703dee23a0efa6a281c6e02be2f8c1}{%
+        {{hash=f4703dee23a0efa6a281c6e02be2f8c1}{%
            family={{DINUM}},
            familyi={D\bibinitperiod}}}%
       }
@@ -2253,9 +758,6 @@
       \strng{authorfullhash}{f4703dee23a0efa6a281c6e02be2f8c1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Direction interministérielle du numérique}
@@ -2264,7 +766,7 @@
     \endentry
     \entry{eu2024ai_act}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=158562a5e9dc942912330c711ca123ca}{%
+        {{hash=158562a5e9dc942912330c711ca123ca}{%
            family={{European Union}},
            familyi={E\bibinitperiod}}}%
       }
@@ -2276,9 +778,6 @@
       \strng{authorfullhash}{158562a5e9dc942912330c711ca123ca}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Regulation adopted by the European Parliament and the Council}
@@ -2287,12 +786,11 @@
     \endentry
     \entry{capgemini2024ai_france}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cbfbfe3c4105c6b9ce4f045b89e99645}{%
+        {{hash=cbfbfe3c4105c6b9ce4f045b89e99645}{%
            family={Institute},
            familyi={I\bibinitperiod},
            given={Capgemini\bibnamedelima Research},
-           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Capgemini}%
@@ -2305,9 +803,6 @@
       \strng{authorfullhash}{cbfbfe3c4105c6b9ce4f045b89e99645}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Intelligence Artificielle en France : Adoption et Spécificités Culturelles}
@@ -2317,36 +812,30 @@
     \endentry
     \entry{kumar2024aida}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=8aacd22e59b538e218d84bc9cb96c13f}{%
+        {{hash=8aacd22e59b538e218d84bc9cb96c13f}{%
            family={Kumar},
            familyi={K\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d428707fb7fa12c120582433caed8f0c}{%
+           giveni={P\bibinitperiod}}}%
+        {{hash=d428707fb7fa12c120582433caed8f0c}{%
            family={Thompson},
            familyi={T\bibinitperiod},
            given={A.},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e57d0b1f72e19c844023fb5ae360f752}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=e57d0b1f72e19c844023fb5ae360f752}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={K.},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
+           giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{34d38e0dba09fd87197fa65f51473eb4}
+      \strng{namehash}{abc7daa16cd97a16485cef13e79e54d4}
       \strng{fullhash}{abc7daa16cd97a16485cef13e79e54d4}
       \strng{bibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
       \strng{authorbibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authornamehash}{34d38e0dba09fd87197fa65f51473eb4}
+      \strng{authornamehash}{abc7daa16cd97a16485cef13e79e54d4}
       \strng{authorfullhash}{abc7daa16cd97a16485cef13e79e54d4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Technology in Society}
@@ -2358,7 +847,7 @@
     \endentry
     \entry{psicosmart2024resistance}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=35cbdaaaa12588b6b64f0fb15666e715}{%
+        {{hash=35cbdaaaa12588b6b64f0fb15666e715}{%
            family={PsicoSmart},
            familyi={P\bibinitperiod}}}%
       }
@@ -2370,9 +859,6 @@
       \strng{authorfullhash}{35cbdaaaa12588b6b64f0fb15666e715}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Comment les entreprises peuvent-elles surmonter les obstacles à l'adoption technologique}
@@ -2386,7 +872,7 @@
     \endentry
     \entry{vorecol2024resistance}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e8c934114d5b0cbcc2591687850ed8ac}{%
+        {{hash=e8c934114d5b0cbcc2591687850ed8ac}{%
            family={Vorecol},
            familyi={V\bibinitperiod}}}%
       }
@@ -2398,9 +884,6 @@
       \strng{authorfullhash}{e8c934114d5b0cbcc2591687850ed8ac}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{La résistance au changement technologique : psychologie et stratégies de soutien}
@@ -2414,36 +897,30 @@
     \endentry
     \entry{wang2024data_governance}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=9a75ee293f2555f40976345739087998}{%
+        {{hash=9a75ee293f2555f40976345739087998}{%
            family={Wang},
            familyi={W\bibinitperiod},
            given={L.},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cc9f9797882a6d680ef38740a3d48975}{%
+           giveni={L\bibinitperiod}}}%
+        {{hash=cc9f9797882a6d680ef38740a3d48975}{%
            family={Fischer},
            familyi={F\bibinitperiod},
            given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a62f1b53b20096ebc73de50e80b39f3}{%
+           giveni={M\bibinitperiod}}}%
+        {{hash=1a62f1b53b20096ebc73de50e80b39f3}{%
            family={Dubois},
            familyi={D\bibinitperiod},
            given={P.},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
+           giveni={P\bibinitperiod}}}%
       }
-      \strng{namehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{namehash}{818d3d086a20df4ce9f32f24556c2d2f}
       \strng{fullhash}{818d3d086a20df4ce9f32f24556c2d2f}
       \strng{bibnamehash}{818d3d086a20df4ce9f32f24556c2d2f}
       \strng{authorbibnamehash}{818d3d086a20df4ce9f32f24556c2d2f}
-      \strng{authornamehash}{5af5ee7e60ec3528b59ab3d857ea6f93}
+      \strng{authornamehash}{818d3d086a20df4ce9f32f24556c2d2f}
       \strng{authorfullhash}{818d3d086a20df4ce9f32f24556c2d2f}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{European Management Journal}
@@ -2456,7 +933,7 @@
     \endentry
     \entry{artimon2025theorie}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dcce05e1b22a39969b92e07ce09310de}{%
+        {{hash=dcce05e1b22a39969b92e07ce09310de}{%
            family={Artimon},
            familyi={A\bibinitperiod}}}%
       }
@@ -2468,9 +945,6 @@
       \strng{authorfullhash}{dcce05e1b22a39969b92e07ce09310de}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Artimon Perspectives}
@@ -2485,12 +959,11 @@
     \endentry
     \entry{sage2025pme_transformation}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4ccb4e2b0894c37272ffb56fc5392897}{%
+        {{hash=4ccb4e2b0894c37272ffb56fc5392897}{%
            family={France},
            familyi={F\bibinitperiod},
            given={Sage},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \strng{namehash}{4ccb4e2b0894c37272ffb56fc5392897}
       \strng{fullhash}{4ccb4e2b0894c37272ffb56fc5392897}
@@ -2500,9 +973,6 @@
       \strng{authorfullhash}{4ccb4e2b0894c37272ffb56fc5392897}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{PME et ETI : quand la transformation numérique s'impose}
@@ -2516,12 +986,11 @@
     \endentry
     \entry{bpifrance2025ia}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfe2b275bfefeada746aa3269f0aeb37}{%
+        {{hash=bfe2b275bfefeada746aa3269f0aeb37}{%
            family={Lab},
            familyi={L\bibinitperiod},
            given={BPI\bibnamedelimb France\bibnamedelima Le},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {BPI France}%
@@ -2535,9 +1004,6 @@
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{6}
@@ -2552,7 +1018,7 @@
     \endentry
     \entry{laboratoire2025how}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2e79b7043186dbf1e72749f738d8b1d9}{%
+        {{hash=2e79b7043186dbf1e72749f738d8b1d9}{%
            family={{Laboratoire de la Société Numérique}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2567,9 +1033,6 @@
       \strng{authorfullhash}{2e79b7043186dbf1e72749f738d8b1d9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{5}
@@ -2579,7 +1042,7 @@
     \endentry
     \entry{luwai2025base}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2592,10 +1055,6 @@
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{63 entretiens téléphoniques menés entre juin et août 2025. Fichier Excel "Meeting-avec-notes.xlsx". Données anonymisées.}
@@ -2604,7 +1063,7 @@
     \endentry
     \entry{luwai2025aesio}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2617,10 +1076,6 @@
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{7}
@@ -2630,7 +1085,7 @@
     \endentry
     \entry{luwai2025carecall}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2643,10 +1098,6 @@
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Automatisation génération leads B2B secteur santé. Montant : 2\,500\,\texteuro{} HT.}
@@ -2655,7 +1106,7 @@
     \endentry
     \entry{luwai2025antilogy}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2668,10 +1119,6 @@
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Programme formation IA 15 collaborateurs. Montant : 3\,500\,\texteuro{} HT.}
@@ -2680,7 +1127,7 @@
     \endentry
     \entry{luwai2025tectona}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2693,10 +1140,6 @@
       \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Formation managériale + audit vertical PME mobilier. Montant : 3\,500\,\texteuro{} HT.}
@@ -2705,7 +1148,7 @@
     \endentry
     \entry{luwai2025integrhale}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=aea3787d3be151b94ed136e049022d67}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
            family={{Luwai}},
            familyi={L\bibinitperiod}}}%
       }
@@ -2718,10 +1161,6 @@
       \field{extraname}{6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradate}{6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accompagnement cabinet recrutement packaging. Montant : 2\,600\,\texteuro{} HT.}
@@ -2730,12 +1169,11 @@
     \endentry
     \entry{france_strategie2025make}{report}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8e36ff44b85f3dc17522ccb5966de4cb}{%
+        {{hash=8e36ff44b85f3dc17522ccb5966de4cb}{%
            family={Stratégie},
            familyi={S\bibinitperiod},
            given={France},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
+           giveni={F\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Gouvernement Français - Élysée}%
@@ -2748,9 +1186,6 @@
       \strng{authorfullhash}{8e36ff44b85f3dc17522ccb5966de4cb}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{3}

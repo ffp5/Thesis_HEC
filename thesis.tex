@@ -38,8 +38,13 @@
 \usepackage{textcomp} % Provides \texteuro and additional symbols
 
 %--- Bibliography ---
-\usepackage[backend=biber,style=apa,sorting=ynt]{biblatex}
+\usepackage[backend=biber,style=numeric-comp,sorting=ynt]{biblatex}
 \addbibresource{references.bib}
+% Configuration pour les citations numériques avec crochets et espace insécable
+\DeclareFieldFormat{labelnumber}{\mkbibbrackets{#1}}
+% Redéfinir \cite pour ajouter un espace insécable et utiliser le style numérique
+\let\oldcite\cite
+\renewcommand*{\cite}[1]{~\oldcite{#1}}
 
 %==============================================================================
 % CONFIGURATIONS

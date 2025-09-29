@@ -1,23 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'thesis.blg'
-[38] biber-darwin:340> INFO - === Mon Sep 29, 2025, 12:22:05
-[48] Biber.pm:419> INFO - Reading 'thesis.bcf'
-[96] Biber.pm:979> INFO - Found 38 citekeys in bib section 0
-[107] Biber.pm:4419> INFO - Processing section 0
-[113] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[115] bibtex.pm:1713> INFO - LaTeX decoding ...
-[129] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[262] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[262] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[263] Biber.pm:4239> INFO - Sorting list 'ynt/apasortcite//global/global' of type 'entry' with template 'ynt' and locale 'fr-FR'
-[263] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[302] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[303] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[303] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'fr-FR'
-[303] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[329] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[370] bbl.pm:763> INFO - Output to thesis.bbl
-[370] Biber.pm:131> WARN - legacy month field 'June' in entry 'bpifrance2025ia' is not an integer - this will probably not sort properly.
-[370] Biber.pm:131> WARN - legacy month field 'March' in entry 'france_strategie2025make' is not an integer - this will probably not sort properly.
-[370] Biber.pm:131> WARN - legacy month field 'July' in entry 'bpifrance2017dirigeants' is not an integer - this will probably not sort properly.
-[370] Biber.pm:133> INFO - WARNINGS: 3
+[38] biber-darwin:340> INFO - === Mon Sep 29, 2025, 12:35:03
+[45] Biber.pm:419> INFO - Reading 'thesis.bcf'
+[88] Biber.pm:979> INFO - Found 38 citekeys in bib section 0
+[96] Biber.pm:4419> INFO - Processing section 0
+[102] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[104] bibtex.pm:1713> INFO - LaTeX decoding ...
+[119] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[269] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[269] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[269] Biber.pm:4239> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'fr-FR'
+[269] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[291] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[305] bbl.pm:763> INFO - Output to thesis.bbl
+[305] Biber.pm:131> WARN - legacy month field 'June' in entry 'bpifrance2025ia' is not an integer - this will probably not sort properly.
+[305] Biber.pm:131> WARN - legacy month field 'March' in entry 'france_strategie2025make' is not an integer - this will probably not sort properly.
+[305] Biber.pm:131> WARN - legacy month field 'July' in entry 'bpifrance2017dirigeants' is not an integer - this will probably not sort properly.
+[305] Biber.pm:133> INFO - WARNINGS: 3
