@@ -2,10 +2,242 @@
 \label{app:recommandations}
 
 \section{Framework d'Évaluation ROI IA}
-Grille d'analyse en 5 dimensions permettant aux dirigeants PME-ETI d'évaluer la pertinence d'un investissement IA.
+
+Cette section propose une grille d'analyse pratique en 5 dimensions permettant aux dirigeants PME-ETI d'évaluer objectivement la pertinence d'un investissement IA.
+
+\subsection{Matrice d'Évaluation Multidimensionnelle}
+
+\begin{longtable}{@{}p{3cm}p{2cm}p{4cm}p{5cm}@{}}
+\toprule
+\textbf{Dimension} & \textbf{Poids} & \textbf{Critères d'évaluation} & \textbf{Méthode de scoring (1-5)} \\
+\midrule
+Impact Business & 30\% & Gains productivité, différenciation, chiffre d'affaires & 1=Marginal, 5=Transformationnel \\
+Faisabilité Technique & 25\% & Complexité, infrastructure, compétences & 1=Très complexe, 5=Simple \\
+Adoption Organisationnelle & 20\% & Résistances, formation, change management & 1=Forte résistance, 5=Adoption facile \\
+Investissement Requis & 15\% & Budget, temps, ressources humaines & 1=Très élevé, 5=Faible \\
+Risques & 10\% & Technique, réglementaire, réputation & 1=Risques élevés, 5=Risques faibles \\
+\bottomrule
+\end{longtable}
+
+\textbf{Calcul du score composite :}
+\[
+\text{Score} = \sum_{i=1}^{5} \text{Poids}_i \times \text{Score}_i
+\]
+
+\textbf{Grille de décision :}
+\begin{itemize}
+    \item Score $\geq$ 4.0 : Go immédiat, priorité haute
+    \item Score 3.0-3.9 : Go conditionnel, pilote recommandé
+    \item Score 2.0-2.9 : Attendre, améliorer les conditions
+    \item Score $<$ 2.0 : No-go, revoir la stratégie
+\end{itemize}
+
+\subsection{Cas d'Usage Typiques et Scoring}
+
+\begin{longtable}{@{}p{4cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}@{}}
+\toprule
+\textbf{Cas d'usage} & \textbf{Impact} & \textbf{Faisab.} & \textbf{Adopt.} & \textbf{Invest.} & \textbf{Risque} & \textbf{Score} \\
+\midrule
+Rédaction assistée & 3 & 5 & 4 & 5 & 5 & 4.1 \\
+Traitement documents & 4 & 4 & 4 & 4 & 4 & 4.0 \\
+Chatbot client & 4 & 3 & 3 & 3 & 3 & 3.3 \\
+Analyse prédictive & 5 & 2 & 2 & 2 & 2 & 2.7 \\
+Automatisation RH & 4 & 3 & 2 & 3 & 2 & 2.9 \\
+\bottomrule
+\end{longtable}
+
+\subsection{Outils de Calcul ROI Détaillés}
+
+\textbf{Template de calcul ROI (Excel/Google Sheets) :}
+
+\begin{longtable}{@{}p{4cm}p{3cm}p{3cm}p{4cm}@{}}
+\toprule
+\textbf{Catégorie} & \textbf{Variable} & \textbf{Formule} & \textbf{Exemple PME 50 ETP} \\
+\midrule
+Gains mensuels & Heures économisées & H/sem × 4.3 × coût horaire × adoption & 2h × 4.3 × 45€ × 60\% = 232€ \\
+Gains qualitatifs & Amélioration qualité & Score subjectif × impact CA & 20\% amélioration × 10k€ = 2k€ \\
+Coûts formation & Formation équipes & Nb jours × tarif × participants & 2j × 1750€ × 1 = 3500€ \\
+Coûts conseil & Accompagnement & Nb jours × tarif consultant & 3j × 400€ = 1200€ \\
+Coûts licences & Outils IA & Nb utilisateurs × coût mensuel & 50 × 20€ = 1000€/mois \\
+\bottomrule
+\end{longtable}
+
+\textbf{Indicateurs de suivi post-implémentation :}
+\begin{itemize}
+    \item Taux d'adoption réel vs prévu
+    \item Gains de productivité mesurés
+    \item Satisfaction utilisateurs (NPS interne)
+    \item Incidents et temps de résolution
+    \item Évolution qualité livrables
+\end{itemize}
 
 \section{Checklist Sélection Prestataire}
-Critères pondérés pour choisir un accompagnateur IA : expérience sectorielle, approche pédagogique, références clients, capacité delivery.
+
+Cette section propose une grille d'évaluation pondérée pour choisir un accompagnateur IA adapté aux spécificités PME-ETI.
+
+\subsection{Critères d'Évaluation Pondérés}
+
+\begin{longtable}{@{}p{4cm}p{2cm}p{8cm}@{}}
+\toprule
+\textbf{Critère} & \textbf{Poids} & \textbf{Questions d'évaluation} \\
+\midrule
+Expérience sectorielle & 25\% & A-t-il des références dans votre secteur ? Comprend-il vos enjeux métier spécifiques ? \\
+Approche pédagogique & 20\% & Propose-t-il de la formation ? Adapte-t-il son approche aux résistances ? \\
+Capacité de delivery & 20\% & Peut-il implémenter concrètement ? A-t-il des ressources techniques ? \\
+Références clients & 15\% & Peut-il fournir des témoignages PME-ETI ? Les résultats sont-ils documentés ? \\
+Méthodologie & 10\% & A-t-il un process structuré ? Propose-t-il des livrables clairs ? \\
+Tarification & 10\% & Les tarifs sont-ils transparents ? Le modèle est-il adapté aux PME-ETI ? \\
+\bottomrule
+\end{longtable}
+
+\subsection{Grille de Notation Détaillée}
+
+\textbf{Expérience Sectorielle (25\%)}
+\begin{itemize}
+    \item 5 : 3+ références sectorielles, expertise métier démontrée
+    \item 4 : 2 références sectorielles, bonne compréhension enjeux
+    \item 3 : 1 référence sectorielle, compréhension générale
+    \item 2 : Pas de référence sectorielle mais expérience connexe
+    \item 1 : Aucune expérience sectorielle pertinente
+\end{itemize}
+
+\textbf{Approche Pédagogique (20\%)}
+\begin{itemize}
+    \item 5 : Formation intégrée, méthodologie change management éprouvée
+    \item 4 : Formation proposée, approche structurée
+    \item 3 : Formation basique, peu d'accompagnement changement
+    \item 2 : Formation optionnelle, approche technique
+    \item 1 : Pas de formation, approche purement technique
+\end{itemize}
+
+\textbf{Capacité de Delivery (20\%)}
+\begin{itemize}
+    \item 5 : Équipe technique interne, implémentation end-to-end
+    \item 4 : Partenaires techniques fiables, coordination assurée
+    \item 3 : Réseau freelances, coordination variable
+    \item 2 : Sous-traitance externe, peu de contrôle
+    \item 1 : Pas de capacité d'implémentation
+\end{itemize}
+
+\subsection{Questions Types à Poser aux Prestataires}
+
+\textbf{Questions de qualification initiale :}
+\begin{enumerate}
+    \item "Pouvez-vous nous présenter 3 cas clients similaires avec résultats chiffrés ?"
+    \item "Comment gérez-vous les résistances au changement dans nos équipes ?"
+    \item "Quel est votre processus de passage du pilote au déploiement ?"
+    \item "Comment assurez-vous la conformité RGPD de vos solutions ?"
+    \item "Proposez-vous un support post-implémentation ?"
+\end{enumerate}
+
+\textbf{Questions d'approfondissement :}
+\begin{enumerate}
+    \item "Comment mesurez-vous le ROI de vos interventions ?"
+    \item "Quelle est votre approche si les objectifs ne sont pas atteints ?"
+    \item "Disposez-vous de certifications ou labels qualité ?"
+    \item "Comment gérez-vous la montée en compétences de nos équipes ?"
+    \item "Quels sont vos partenaires technologiques privilégiés ?"
+\end{enumerate}
 
 \section{Templates et Outils Pratiques}
-Ressources opérationnelles : modèles de cahiers des charges, grilles d'audit IA, indicateurs de suivi projet, et bonnes pratiques organisationnelles.
+
+Cette section fournit des ressources opérationnelles directement utilisables par les dirigeants PME-ETI et les entrepreneurs du secteur.
+
+\subsection{Modèle de Cahier des Charges IA}
+
+\textbf{Structure recommandée :}
+
+\begin{longtable}{@{}p{3cm}p{11cm}@{}}
+\toprule
+\textbf{Section} & \textbf{Contenu détaillé} \\
+\midrule
+Contexte entreprise & Secteur, taille, enjeux business, maturité digitale, contraintes \\
+Objectifs projet & Objectifs quantifiés, délais, budget, critères de succès \\
+Cas d'usage ciblés & Description détaillée, volumétrie, fréquence, acteurs impliqués \\
+Contraintes techniques & SI existant, données disponibles, sécurité, conformité RGPD \\
+Livrables attendus & Formation, documentation, outils, support, transfert de compétences \\
+Modalités projet & Organisation, planning, jalons, comité de pilotage \\
+Critères sélection & Expérience, références, méthodologie, tarification \\
+\bottomrule
+\end{longtable}
+
+\subsection{Grille d'Audit IA Interne}
+
+\textbf{Diagnostic préalable (auto-évaluation) :}
+
+\begin{longtable}{@{}p{4cm}p{2cm}p{2cm}p{6cm}@{}}
+\toprule
+\textbf{Dimension} & \textbf{Note /5} & \textbf{Poids} & \textbf{Plan d'action si < 3} \\
+\midrule
+Maturité données & \_\_/5 & 25\% & Audit qualité données, gouvernance, nettoyage \\
+Compétences internes & \_\_/5 & 20\% & Formation, recrutement, sensibilisation \\
+Infrastructure IT & \_\_/5 & 20\% & Modernisation, cloud, sécurité \\
+Culture innovation & \_\_/5 & 15\% & Change management, communication \\
+Budget disponible & \_\_/5 & 10\% & Business case, recherche financement \\
+Support direction & \_\_/5 & 10\% & Sensibilisation CODIR, sponsor \\
+\bottomrule
+\end{longtable}
+
+\textbf{Score de maturité IA :}
+\[
+\text{Maturité} = \sum \text{Note} \times \text{Poids}
+\]
+
+\textbf{Recommandations par niveau :}
+\begin{itemize}
+    \item 4.0-5.0 : Prêt pour déploiement ambitieux
+    \item 3.0-3.9 : Prêt pour pilote structuré
+    \item 2.0-2.9 : Préparation nécessaire (6-12 mois)
+    \item < 2.0 : Fondamentaux à construire (12-18 mois)
+\end{itemize}
+
+\subsection{Indicateurs de Suivi Projet}
+
+\textbf{Dashboard de pilotage (hebdomadaire) :}
+
+\begin{longtable}{@{}p{4cm}p{3cm}p{3cm}p{4cm}@{}}
+\toprule
+\textbf{KPI} & \textbf{Cible} & \textbf{Réalisé} & \textbf{Action si écart} \\
+\midrule
+Avancement planning & 100\% & \_\_\% & Réajustement ressources/scope \\
+Participation formation & 90\% & \_\_\% & Communication, motivation \\
+Adoption outils & 60\% & \_\_\% & Support utilisateur, formation \\
+Incidents techniques & < 2/sem & \_\_/sem & Support technique, debug \\
+Satisfaction équipe & > 4/5 & \_\_/5 & Amélioration UX, formation \\
+\bottomrule
+\end{longtable}
+
+\textbf{Reporting mensuel dirigeant :}
+\begin{itemize}
+    \item Synthèse avancement vs planning initial
+    \item Gains de productivité mesurés (heures, qualité)
+    \item Budget consommé vs prévu
+    \item Risques identifiés et plans de mitigation
+    \item Recommandations pour la suite
+\end{itemize}
+
+\subsection{Bonnes Pratiques Organisationnelles}
+
+\textbf{Gouvernance projet IA :}
+\begin{enumerate}
+    \item \textbf{Sponsor exécutif} : DG ou membre CODIR, garant des objectifs business
+    \item \textbf{Chef de projet métier} : Responsable opérationnel, interface quotidienne
+    \item \textbf{Référent technique} : DSI ou expert IT, garant architecture et sécurité
+    \item \textbf{Champions utilisateurs} : 2-3 early adopters par service concerné
+\end{enumerate}
+
+\textbf{Rituels projet recommandés :}
+\begin{itemize}
+    \item \textbf{Daily stand-up} (phase pilote) : Point quotidien équipe projet
+    \item \textbf{Weekly review} : Avancement, blocages, décisions
+    \item \textbf{Monthly steering} : Reporting dirigeant, arbitrages stratégiques
+    \item \textbf{Quarterly business review} : ROI, évolutions, roadmap
+\end{itemize}
+
+\textbf{Communication et conduite du changement :}
+\begin{itemize}
+    \item Kick-off général : présentation vision, bénéfices, planning
+    \item Newsletter projet : actualités, témoignages, bonnes pratiques
+    \item Sessions Q\&A : réponses aux interrogations, démystification
+    \item Célébration succès : reconnaissance early adopters, partage résultats
+\end{itemize}

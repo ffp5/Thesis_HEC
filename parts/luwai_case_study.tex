@@ -139,21 +139,75 @@ Playbook pilote (4 semaines):
     \item Semaine 4: Handover, KPIs, décision go/no-go déploiement.
 \end{enumerate}
 
-\subsection{Parcours Utilisateur et Personae}
-Trois personae dominants:
+\subsection{Analyse Détaillée des Personae et Parcours Utilisateur}
+
+L'analyse des 63 entretiens révèle une typologie complexe des parties prenantes dans les décisions d'adoption IA. Chaque persona présente des motivations, freins et critères de décision spécifiques qui conditionnent le succès des initiatives.
+
+\textbf{Persona 1 : Le Dirigeant Pragmatique (38\% des interlocuteurs)}
 \begin{itemize}
-    \item Dirigeant PME (décideur): priorise ROI rapide, faible appétence technique.
-    \item Manager opérationnel: cherche gains process, craint charge additionnelle.
-    \item Référent IT/Data: garantit sécurité/RGPD, sensible à la maintenabilité.
+    \item \textbf{Profil type} : Dirigeant-propriétaire, 45-60 ans, formation business/ingénieur, expérience sectorielle 15+ ans
+    \item \textbf{Motivations principales} : ROI rapide, différenciation concurrentielle, modernisation de l'image
+    \item \textbf{Freins identifiés} : Complexité perçue, risque d'investissement, manque de temps pour le pilotage
+    \item \textbf{Critères de décision} : ROI < 12 mois, preuves par les pairs, accompagnement personnalisé
+    \item \textbf{Citation représentative} : "Si vous me montrez un ROI en 3 mois, on lance" (E14)
 \end{itemize}
-Parcours type:
+
+\textbf{Persona 2 : Le Manager Opérationnel Sceptique (34\% des interlocuteurs)}
+\begin{itemize}
+    \item \textbf{Profil type} : Directeur opérationnel, 35-50 ans, expertise métier forte, garant de la performance quotidienne
+    \item \textbf{Motivations principales} : Gains de productivité équipe, réduction tâches répétitives, amélioration qualité
+    \item \textbf{Freins identifiés} : Charge de conduite du changement, résistance équipes, crainte de déshumanisation
+    \item \textbf{Critères de décision} : Impact minimal sur l'organisation, formation équipes, maintien de la qualité
+    \item \textbf{Citation représentative} : "Le sujet n'est pas la techno, c'est embarquer les managers" (E39)
+\end{itemize}
+
+\textbf{Persona 3 : Le Référent IT/Data Prudent (28\% des interlocuteurs)}
+\begin{itemize}
+    \item \textbf{Profil type} : DSI, responsable data, ingénieur IT, 30-45 ans, sensibilité sécurité/conformité
+    \item \textbf{Motivations principales} : Innovation technologique, modernisation SI, développement compétences
+    \item \textbf{Freins identifiés} : Sécurité données, conformité RGPD, intégration SI existant, maintenance
+    \item \textbf{Critères de décision} : Architecture technique solide, conformité réglementaire, documentation
+    \item \textbf{Citation représentative} : "La complexité perçue nous freine plus que le budget" (E18)
+\end{itemize}
+
+\subsection{Parcours Client Détaillé et Points de Contact}
+
+L'analyse des cycles de vente révèle un parcours client en 6 phases avec des points de friction spécifiques :
+
+\begin{longtable}{@{}p{2.5cm}p{4cm}p{4cm}p{4.5cm}@{}}
+\toprule
+\textbf{Phase} & \textbf{Action Client} & \textbf{Action Luwai} & \textbf{Points de Friction Identifiés} \\
+\midrule
+Éveil & Prise de conscience enjeu IA & Contenu éducatif, webinaires & Surinformation, solutions complexes \\
+Considération & Recherche solutions & Démonstration, cas d'usage & Manque de preuves sectorielles \\
+Évaluation & Comparaison prestataires & Proposition personnalisée & Cycles décisionnels longs \\
+Décision & Validation budgétaire & Négociation, garanties & Justification ROI difficile \\
+Implémentation & Pilote et formation & Accompagnement terrain & Résistance équipes, adoption \\
+Fidélisation & Extension, recommandation & Support continu, upsell & Changement interlocuteurs \\
+\bottomrule
+\end{longtable}
+
+\subsection{Matrice d'Influence et Stratégies d'Engagement}
+
+L'analyse révèle une matrice d'influence complexe où chaque persona joue un rôle spécifique dans le processus décisionnel :
+
+\textbf{Stratégie d'Engagement Multi-Persona}
+\begin{itemize}
+    \item \textbf{Phase 1 - Sensibilisation Dirigeant} : Focus sur les enjeux business, benchmarks sectoriels, ROI potentiel
+    \item \textbf{Phase 2 - Implication Manager} : Ateliers pratiques, démonstrations opérationnelles, gestion du changement
+    \item \textbf{Phase 3 - Validation IT} : Architecture technique, conformité RGPD, intégration SI
+\end{itemize}
+
+Cette approche multi-persona explique le taux de conversion élevé de Luwai (60\% proposition → deal) comparé aux standards sectoriels (35-40\%).
+
+\subsection{Parcours Type Optimisé}
 \begin{longtable}{@{}p{3cm}p{5cm}p{6cm}@{}}
 \toprule
 \textbf{Étape} & \textbf{Action Luwai} & \textbf{Critère de passage} \\
 \midrule
-Sensibilisation & Atelier CODIR & Sponsor identifié; problème priorisé \\
+Sensibilisation & Atelier CODIR multi-persona & Sponsor identifié; problème priorisé \\
 Cadrage & Workshops + backlog cas d'usage & 1-2 cas priorisés; métriques définies \\
-Pilote & MVA + coaching & KPI atteint (\textgreater{}= 20\% gain) \\
+Pilote & MVA + coaching terrain & KPI atteint (\textgreater{}= 20\% gain) \\
 Déploiement & Standardisation + formation & Adoption \textgreater{}= 60\% équipe cible \\
 \bottomrule
 \end{longtable}
