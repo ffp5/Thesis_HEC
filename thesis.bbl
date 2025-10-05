@@ -1443,42 +1443,6 @@
       \field{pages}{209\bibrangedash 226}
       \range{pages}{18}
     \endentry
-    \entry{brynjolfsson2023performance}{article}{}
-      \name{author}{3}{}{%
-        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
-           family={Brynjolfsson},
-           familyi={B\bibinitperiod},
-           given={Erik},
-           giveni={E\bibinitperiod}}}%
-        {{hash=9549ba5d9e9696208664346821d3ac14}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Danielle},
-           giveni={D\bibinitperiod}}}%
-        {{hash=821532b907beea089b725316bfc03965}{%
-           family={Raymond},
-           familyi={R\bibinitperiod},
-           given={Lindsey\bibnamedelima R.},
-           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{f3a10e7583539c6c6ec680050450f703}
-      \strng{fullhash}{f3a10e7583539c6c6ec680050450f703}
-      \strng{bibnamehash}{f3a10e7583539c6c6ec680050450f703}
-      \strng{authorbibnamehash}{f3a10e7583539c6c6ec680050450f703}
-      \strng{authornamehash}{f3a10e7583539c6c6ec680050450f703}
-      \strng{authorfullhash}{f3a10e7583539c6c6ec680050450f703}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Science}
-      \field{number}{6654}
-      \field{title}{Generative AI at work}
-      \field{volume}{381}
-      \field{year}{2023}
-      \field{pages}{eadh2586}
-      \range{pages}{-1}
-    \endentry
     \entry{cnil2023ia}{misc}{}
       \name{author}{1}{}{%
         {{hash=462a5b8b0d8424a1f8b01793217155f4}{%
@@ -1965,32 +1929,6 @@
       \field{pages}{1\bibrangedash 45}
       \range{pages}{45}
     \endentry
-    \entry{bpifrance2024ia_pme}{report}{}
-      \name{author}{1}{}{%
-        {{hash=bfe2b275bfefeada746aa3269f0aeb37}{%
-           family={Lab},
-           familyi={L\bibinitperiod},
-           given={BPI\bibnamedelimb France\bibnamedelima Le},
-           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {BPI France}%
-      }
-      \strng{namehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{fullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{bibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{6}
-      \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
-      \field{year}{2024}
-    \endentry
     \entry{luwai2024vision}{misc}{}
       \name{author}{1}{}{%
         {{hash=aea3787d3be151b94ed136e049022d67}{%
@@ -2272,7 +2210,7 @@
       \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
       \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
       \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
