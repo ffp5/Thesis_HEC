@@ -45,6 +45,32 @@
       \field{pages}{37\bibrangedash 46}
       \range{pages}{10}
     \endentry
+    \entry{gartner1985conceptual}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f2d733ce950792fd328dccfa9933b29}{%
+           family={Gartner},
+           familyi={G\bibinitperiod},
+           given={William\bibnamedelima B.},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f2d733ce950792fd328dccfa9933b29}
+      \strng{fullhash}{0f2d733ce950792fd328dccfa9933b29}
+      \strng{bibnamehash}{0f2d733ce950792fd328dccfa9933b29}
+      \strng{authorbibnamehash}{0f2d733ce950792fd328dccfa9933b29}
+      \strng{authornamehash}{0f2d733ce950792fd328dccfa9933b29}
+      \strng{authorfullhash}{0f2d733ce950792fd328dccfa9933b29}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{A conceptual framework for describing the phenomenon of new venture creation}
+      \field{volume}{10}
+      \field{year}{1985}
+      \field{pages}{696\bibrangedash 706}
+      \range{pages}{11}
+    \endentry
     \entry{porter1985competitive}{book}{}
       \name{author}{1}{}{%
         {{hash=00fccab37644f65d2479dd0b102db192}{%
@@ -126,6 +152,32 @@
       \field{pages}{319\bibrangedash 340}
       \range{pages}{22}
     \endentry
+    \entry{eisenhardt1989building}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5facd8ebea3a0584dd4ca45f5b7136fb}{%
+           family={Eisenhardt},
+           familyi={E\bibinitperiod},
+           given={Kathleen\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{fullhash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{bibnamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authorbibnamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authornamehash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \strng{authorfullhash}{5facd8ebea3a0584dd4ca45f5b7136fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{Building theories from case study research}
+      \field{volume}{14}
+      \field{year}{1989}
+      \field{pages}{532\bibrangedash 550}
+      \range{pages}{19}
+    \endentry
     \entry{kaplan1996balanced}{book}{}
       \name{author}{2}{}{%
         {{hash=ef51e2844d7031b487d1e285c95bda35}{%
@@ -204,6 +256,32 @@
       \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
       \field{year}{1997}
     \endentry
+    \entry{shane2000prior}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a9101c05a50121f6d4c5f452bfce5b90}{%
+           family={Shane},
+           familyi={S\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{fullhash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{bibnamehash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{authorbibnamehash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{authornamehash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \strng{authorfullhash}{a9101c05a50121f6d4c5f452bfce5b90}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Science}
+      \field{number}{4}
+      \field{title}{Prior knowledge and the discovery of entrepreneurial opportunities}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{pages}{448\bibrangedash 469}
+      \range{pages}{22}
+    \endentry
     \entry{hofstede2001culture}{book}{}
       \name{author}{1}{}{%
         {{hash=33cd33d6e507fdb2568256c625491f56}{%
@@ -227,6 +305,30 @@
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
       \field{title}{Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations}
+      \field{year}{2001}
+    \endentry
+    \entry{reichheld2001loyalty}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2eb3d3c9313fc43a29834e1afe3ff365}{%
+           family={Reichheld},
+           familyi={R\bibinitperiod},
+           given={Frederick\bibnamedelima F.},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \strng{fullhash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \strng{bibnamehash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \strng{authorbibnamehash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \strng{authornamehash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \strng{authorfullhash}{2eb3d3c9313fc43a29834e1afe3ff365}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Loyalty Rules!: How Today's Leaders Build Lasting Relationships}
       \field{year}{2001}
     \endentry
     \entry{rogers2003diffusion}{book}{}
@@ -321,6 +423,139 @@
       \field{pages}{1319\bibrangedash 1350}
       \range{pages}{32}
     \endentry
+    \entry{brown2009change}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00432bf95dae33daba00dbbe9730bdfa}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HarperBusiness}%
+      }
+      \strng{namehash}{00432bf95dae33daba00dbbe9730bdfa}
+      \strng{fullhash}{00432bf95dae33daba00dbbe9730bdfa}
+      \strng{bibnamehash}{00432bf95dae33daba00dbbe9730bdfa}
+      \strng{authorbibnamehash}{00432bf95dae33daba00dbbe9730bdfa}
+      \strng{authornamehash}{00432bf95dae33daba00dbbe9730bdfa}
+      \strng{authorfullhash}{00432bf95dae33daba00dbbe9730bdfa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation}
+      \field{year}{2009}
+    \endentry
+    \entry{nagle2011strategy}{book}{}
+      \name{author}{3}{}{%
+        {{hash=ac6dfc0f6c2d91356c97853926011c53}{%
+           family={Nagle},
+           familyi={N\bibinitperiod},
+           given={Thomas\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=977358b4f243a1a682c4ce47e9857792}{%
+           family={Hogan},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8683ea5a24cc9d6c667b1b6f05c79912}{%
+           family={Zale},
+           familyi={Z\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{f7f93b10622259495697bd558e0f419c}
+      \strng{fullhash}{f7f93b10622259495697bd558e0f419c}
+      \strng{bibnamehash}{f7f93b10622259495697bd558e0f419c}
+      \strng{authorbibnamehash}{f7f93b10622259495697bd558e0f419c}
+      \strng{authornamehash}{f7f93b10622259495697bd558e0f419c}
+      \strng{authorfullhash}{f7f93b10622259495697bd558e0f419c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5th}
+      \field{title}{The Strategy and Tactics of Pricing: A Guide to Growing More Profitably}
+      \field{year}{2011}
+    \endentry
+    \entry{ries2011lean}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3ae634b261ee7bc5f734840abf4408e1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Business}%
+      }
+      \strng{namehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{fullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{bibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorbibnamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authornamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorfullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses}
+      \field{year}{2011}
+    \endentry
+    \entry{welter2011contextualizing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=43b49a72d0adc9e1a34f097b95ff1ba7}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Friederike},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \strng{fullhash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \strng{bibnamehash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \strng{authorbibnamehash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \strng{authornamehash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \strng{authorfullhash}{43b49a72d0adc9e1a34f097b95ff1ba7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Entrepreneurship Theory and Practice}
+      \field{number}{1}
+      \field{title}{Contextualizing entrepreneurship—conceptual challenges and ways forward}
+      \field{volume}{35}
+      \field{year}{2011}
+      \field{pages}{165\bibrangedash 184}
+      \range{pages}{20}
+    \endentry
+    \entry{maister2012managing}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ab266a39b52245abe47c18476a22afb0}{%
+           family={Maister},
+           familyi={M\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Free Press}%
+      }
+      \strng{namehash}{ab266a39b52245abe47c18476a22afb0}
+      \strng{fullhash}{ab266a39b52245abe47c18476a22afb0}
+      \strng{bibnamehash}{ab266a39b52245abe47c18476a22afb0}
+      \strng{authorbibnamehash}{ab266a39b52245abe47c18476a22afb0}
+      \strng{authornamehash}{ab266a39b52245abe47c18476a22afb0}
+      \strng{authorfullhash}{ab266a39b52245abe47c18476a22afb0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Managing the Professional Service Firm}
+      \field{year}{2012}
+    \endentry
     \entry{yanow2012interpretive}{book}{}
       \name{author}{2}{}{%
         {{hash=f36121b9fa71805753819ee4621f72fc}{%
@@ -349,6 +584,30 @@
       \field{labeltitlesource}{title}
       \field{title}{Interpretive Research Design: Concepts and Processes}
       \field{year}{2012}
+    \endentry
+    \entry{aulet2013disciplined}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b937ea157a8174244b71d2688ddeebe9}{%
+           family={Aulet},
+           familyi={A\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{b937ea157a8174244b71d2688ddeebe9}
+      \strng{fullhash}{b937ea157a8174244b71d2688ddeebe9}
+      \strng{bibnamehash}{b937ea157a8174244b71d2688ddeebe9}
+      \strng{authorbibnamehash}{b937ea157a8174244b71d2688ddeebe9}
+      \strng{authornamehash}{b937ea157a8174244b71d2688ddeebe9}
+      \strng{authorfullhash}{b937ea157a8174244b71d2688ddeebe9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Disciplined Entrepreneurship: 24 Steps to a Successful Startup}
+      \field{year}{2013}
     \endentry
     \entry{bardin2013analyse}{book}{}
       \name{author}{1}{}{%
@@ -398,6 +657,35 @@
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
       \field{title}{The Lean Startup}
+      \field{year}{2013}
+    \endentry
+    \entry{blank2013startup}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c9ef1caea464e82907d6f0c49524369c}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8d89f6c85d66d844fe79d74a582fcc8a}{%
+           family={Dorf},
+           familyi={D\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {K\&S Ranch}%
+      }
+      \strng{namehash}{7523cb28e1c343915d95ecec8261f57a}
+      \strng{fullhash}{7523cb28e1c343915d95ecec8261f57a}
+      \strng{bibnamehash}{7523cb28e1c343915d95ecec8261f57a}
+      \strng{authorbibnamehash}{7523cb28e1c343915d95ecec8261f57a}
+      \strng{authornamehash}{7523cb28e1c343915d95ecec8261f57a}
+      \strng{authorfullhash}{7523cb28e1c343915d95ecec8261f57a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company}
       \field{year}{2013}
     \endentry
     \entry{meyer2014culture}{book}{}
@@ -524,38 +812,106 @@
       \field{title}{Value Proposition Design}
       \field{year}{2014}
     \endentry
-    \entry{parker2016platform}{book}{}
-      \name{author}{3}{}{%
-        {{hash=c7a67bc82ba07036fdc08a42c7b1d629}{%
-           family={Parker},
-           familyi={P\bibinitperiod},
-           given={G.},
+    \entry{weinberg2015traction}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4e2fe69bc1f2b393360b87ef0f311ca3}{%
+           family={Weinberg},
+           familyi={W\bibinitperiod},
+           given={Gabriel},
            giveni={G\bibinitperiod}}}%
-        {{hash=5764bf29eb8a450161c33d18fc4584eb}{%
-           family={Van\bibnamedelima Alstyne},
-           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=37744bd9495cfac40fb94aa70d424ba2}{%
-           family={Choudary},
-           familyi={C\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
+        {{hash=dac7c3f9b997698c4db1511306ec875e}{%
+           family={Mares},
+           familyi={M\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {W. W. Norton \& Company}%
+        {Portfolio}%
       }
-      \strng{namehash}{437b17364d086b065e209b371d6f9550}
-      \strng{fullhash}{437b17364d086b065e209b371d6f9550}
-      \strng{bibnamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authorbibnamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authornamehash}{437b17364d086b065e209b371d6f9550}
-      \strng{authorfullhash}{437b17364d086b065e209b371d6f9550}
+      \strng{namehash}{237dede4b38d9de2b114f3531c93b47b}
+      \strng{fullhash}{237dede4b38d9de2b114f3531c93b47b}
+      \strng{bibnamehash}{237dede4b38d9de2b114f3531c93b47b}
+      \strng{authorbibnamehash}{237dede4b38d9de2b114f3531c93b47b}
+      \strng{authornamehash}{237dede4b38d9de2b114f3531c93b47b}
+      \strng{authorfullhash}{237dede4b38d9de2b114f3531c93b47b}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Platform Revolution: How Networked Markets Are Transforming the Economy and How to Make Them Work for You}
+      \field{title}{Traction: How Any Startup Can Achieve Explosive Customer Growth}
+      \field{year}{2015}
+    \endentry
+    \entry{christensen2016competing}{book}{}
+      \name{author}{4}{}{%
+        {{hash=5eaad42da0a9818abc23e4305aa80819}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Clayton\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e0fe49ca32ca9d45402a51219ed2aef9}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Taddy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d236d3e48f3615a85a38f6644695f602}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8e9bbf7c4d5a49535c986e4aab628b1d}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HarperBusiness}%
+      }
+      \strng{namehash}{1b5dc898cb5c43b05cf33e5be8f9e523}
+      \strng{fullhash}{e13589c62d1c9a2a93e7b86d07e6d398}
+      \strng{bibnamehash}{1b5dc898cb5c43b05cf33e5be8f9e523}
+      \strng{authorbibnamehash}{1b5dc898cb5c43b05cf33e5be8f9e523}
+      \strng{authornamehash}{1b5dc898cb5c43b05cf33e5be8f9e523}
+      \strng{authorfullhash}{e13589c62d1c9a2a93e7b86d07e6d398}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Competing Against Luck: The Story of Innovation and Customer Choice}
+      \field{year}{2016}
+    \endentry
+    \entry{parker2016platform}{book}{}
+      \name{author}{3}{}{%
+        {{hash=278549b33d4374b9a559d8f513e1cd58}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Geoffrey\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=4f0a65bb45530714694b6979b5898b36}{%
+           family={Van\bibnamedelima Alstyne},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Marshall\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=2ed3edaa6df21e036029b6850b656164}{%
+           family={Choudary},
+           familyi={C\bibinitperiod},
+           given={Sangeet\bibnamedelima Paul},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \strng{fullhash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \strng{bibnamehash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \strng{authorbibnamehash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \strng{authornamehash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \strng{authorfullhash}{2ba365af731eb5a0a79ec781af5c3c13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Platform Revolution: How Networked Markets Are Transforming the Economy}
       \field{year}{2016}
     \endentry
     \entry{brynjolfsson2017business}{article}{}
@@ -667,6 +1023,36 @@
       \field{labeltitlesource}{title}
       \field{month}{7}
       \field{title}{Les dirigeants de PME-ETI face au digital}
+      \field{year}{2017}
+    \endentry
+    \entry{mcafee2017machine}{book}{}
+      \name{author}{2}{}{%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton \& Company}%
+      }
+      \strng{namehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{fullhash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{bibnamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authorbibnamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authornamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authorfullhash}{8d147cc63003d0d677ef354663d17ae0}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine, Platform, Crowd: Harnessing Our Digital Future}
       \field{year}{2017}
     \endentry
     \entry{schein2017organizational}{book}{}
@@ -818,6 +1204,38 @@
       \strng{authorbibnamehash}{709d025fabd100819e9604c24a7d0af5}
       \strng{authornamehash}{709d025fabd100819e9604c24a7d0af5}
       \strng{authorfullhash}{709d025fabd100819e9604c24a7d0af5}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12th}
+      \field{title}{Management Control Systems}
+      \field{year}{2020}
+    \endentry
+    \entry{anthony2020planning}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7cb4a4adb673552710063534f0afa8f2}{%
+           family={Anthony},
+           familyi={A\bibinitperiod},
+           given={Robert\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=9226ae4aa1b2f2be99a125a33aff9e37}{%
+           family={Govindarajan},
+           familyi={G\bibinitperiod},
+           given={Vijay},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{709d025fabd100819e9604c24a7d0af5}
+      \strng{fullhash}{709d025fabd100819e9604c24a7d0af5}
+      \strng{bibnamehash}{709d025fabd100819e9604c24a7d0af5}
+      \strng{authorbibnamehash}{709d025fabd100819e9604c24a7d0af5}
+      \strng{authornamehash}{709d025fabd100819e9604c24a7d0af5}
+      \strng{authorfullhash}{709d025fabd100819e9604c24a7d0af5}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1025,6 +1443,42 @@
       \field{pages}{209\bibrangedash 226}
       \range{pages}{18}
     \endentry
+    \entry{brynjolfsson2023performance}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9549ba5d9e9696208664346821d3ac14}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Danielle},
+           giveni={D\bibinitperiod}}}%
+        {{hash=821532b907beea089b725316bfc03965}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Lindsey\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3a10e7583539c6c6ec680050450f703}
+      \strng{fullhash}{f3a10e7583539c6c6ec680050450f703}
+      \strng{bibnamehash}{f3a10e7583539c6c6ec680050450f703}
+      \strng{authorbibnamehash}{f3a10e7583539c6c6ec680050450f703}
+      \strng{authornamehash}{f3a10e7583539c6c6ec680050450f703}
+      \strng{authorfullhash}{f3a10e7583539c6c6ec680050450f703}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6654}
+      \field{title}{Generative AI at work}
+      \field{volume}{381}
+      \field{year}{2023}
+      \field{pages}{eadh2586}
+      \range{pages}{-1}
+    \endentry
     \entry{cnil2023ia}{misc}{}
       \name{author}{1}{}{%
         {{hash=462a5b8b0d8424a1f8b01793217155f4}{%
@@ -1070,32 +1524,37 @@
       \field{title}{The Future of Work in Consulting: How AI Will Transform the Industry}
       \field{year}{2023}
     \endentry
-    \entry{mckinsey2023ai_adoption}{report}{}
-      \name{author}{1}{}{%
-        {{hash=3b7ea3e89d0ea4bed45c484e53ce0d9b}{%
-           family={Company},
-           familyi={C\bibinitperiod},
-           given={McKinsey\bibnamedelima \&},
-           giveni={M\bibinitperiod\bibinitdelim \\bibinitperiod}}}%
+    \entry{mcafee2023productivity}{article}{}
+      \name{author}{2}{}{%
+        {{hash=00c50c0a44597347642883ea39a79e19}{%
+           family={McAfee},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7bd9f54569cb8c0301da00ed49b5a752}{%
+           family={Brynjolfsson},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
       }
-      \list{institution}{1}{%
-        {McKinsey Global Institute}%
-      }
-      \strng{namehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{fullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{bibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorbibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authornamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \strng{authorfullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
+      \strng{namehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{fullhash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{bibnamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authorbibnamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authornamehash}{8d147cc63003d0d677ef354663d17ae0}
+      \strng{authorfullhash}{8d147cc63003d0d677ef354663d17ae0}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The State of AI in 2023: Generative AI's Breakout Year}
+      \field{journaltitle}{Harvard Business Review}
+      \field{number}{3}
+      \field{title}{The productivity J-curve: How intangibles complement general purpose technologies}
+      \field{volume}{101}
       \field{year}{2023}
-      \field{pages}{1\bibrangedash 84}
-      \range{pages}{84}
+      \field{pages}{82\bibrangedash 91}
+      \range{pages}{10}
     \endentry
     \entry{ransbotham2023expanding}{article}{}
       \name{author}{4}{}{%
@@ -1216,7 +1675,7 @@
       \strng{authorbibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
       \strng{authornamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
       \strng{authorfullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1241,7 +1700,7 @@
       \strng{authorbibnamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
       \strng{authornamehash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
       \strng{authorfullhash}{3b7ea3e89d0ea4bed45c484e53ce0d9b}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1271,6 +1730,27 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Baromètre du Conseil 2024 : L'IA transforme les métiers du conseil}
+      \field{year}{2024}
+    \endentry
+    \entry{professional_services2024benchmarks}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1bf2626763d7e74b9ccdc7c66206ba9a}{%
+           family={Council},
+           familyi={C\bibinitperiod},
+           given={Professional\bibnamedelima Services},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \strng{fullhash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \strng{bibnamehash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \strng{authorbibnamehash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \strng{authornamehash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \strng{authorfullhash}{1bf2626763d7e74b9ccdc7c66206ba9a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Professional Services Industry Benchmarks 2024}
       \field{year}{2024}
     \endentry
     \entry{dinum2024guide}{misc}{}
@@ -1335,6 +1815,54 @@
       \field{labeltitlesource}{title}
       \field{title}{French Corporate Governance and Decision-Making Processes}
       \field{year}{2024}
+    \endentry
+    \entry{bureaucracy2024france}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d3e96271acaa63e43d930b7934774a1d}{%
+           family={Gouvernance\bibnamedelimb des\bibnamedelima Entreprises},
+           familyi={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Institut\bibnamedelima Français},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3e96271acaa63e43d930b7934774a1d}
+      \strng{fullhash}{d3e96271acaa63e43d930b7934774a1d}
+      \strng{bibnamehash}{d3e96271acaa63e43d930b7934774a1d}
+      \strng{authorbibnamehash}{d3e96271acaa63e43d930b7934774a1d}
+      \strng{authornamehash}{d3e96271acaa63e43d930b7934774a1d}
+      \strng{authorfullhash}{d3e96271acaa63e43d930b7934774a1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{French Corporate Governance and Decision-Making Processes}
+      \field{year}{2024}
+    \endentry
+    \entry{hubspot2024sales}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=de4bd8ef4675ebb85a055955de76d0ee}{%
+           family={HubSpot},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \strng{fullhash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \strng{bibnamehash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \strng{authorbibnamehash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \strng{authornamehash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \strng{authorfullhash}{de4bd8ef4675ebb85a055955de76d0ee}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The State of Sales Report 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://blog.hubspot.com/sales/state-of-sales-report
+      \endverb
+      \verb{url}
+      \verb https://blog.hubspot.com/sales/state-of-sales-report
+      \endverb
     \endentry
     \entry{insee2024pme}{misc}{}
       \name{author}{1}{}{%
@@ -1437,40 +1965,52 @@
       \field{pages}{1\bibrangedash 45}
       \range{pages}{45}
     \endentry
-    \entry{kumar2024aida}{article}{}
-      \name{author}{3}{}{%
-        {{hash=8aacd22e59b538e218d84bc9cb96c13f}{%
-           family={Kumar},
-           familyi={K\bibinitperiod},
-           given={P.},
-           giveni={P\bibinitperiod}}}%
-        {{hash=d428707fb7fa12c120582433caed8f0c}{%
-           family={Thompson},
-           familyi={T\bibinitperiod},
-           given={A.},
-           giveni={A\bibinitperiod}}}%
-        {{hash=e57d0b1f72e19c844023fb5ae360f752}{%
-           family={Lee},
+    \entry{bpifrance2024ia_pme}{report}{}
+      \name{author}{1}{}{%
+        {{hash=bfe2b275bfefeada746aa3269f0aeb37}{%
+           family={Lab},
            familyi={L\bibinitperiod},
-           given={K.},
-           giveni={K\bibinitperiod}}}%
+           given={BPI\bibnamedelimb France\bibnamedelima Le},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
       }
-      \strng{namehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{fullhash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{bibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authorbibnamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authornamehash}{abc7daa16cd97a16485cef13e79e54d4}
-      \strng{authorfullhash}{abc7daa16cd97a16485cef13e79e54d4}
+      \list{institution}{1}{%
+        {BPI France}%
+      }
+      \strng{namehash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \strng{fullhash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \strng{bibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Technology in Society}
-      \field{title}{AIDA Framework: AI Diffusion and Adoption in Organizational Ecosystems}
-      \field{volume}{76}
+      \field{month}{6}
+      \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
       \field{year}{2024}
-      \field{pages}{102\bibrangedash 115}
-      \range{pages}{14}
+    \endentry
+    \entry{luwai2024vision}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Document fondateur, janvier 2024}
+      \field{title}{Vision et Mission Luwai}
+      \field{year}{2024}
     \endentry
     \entry{syntec2024digital}{report}{}
       \name{author}{1}{}{%
@@ -1535,6 +2075,7 @@
       \strng{authorbibnamehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
       \strng{authornamehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
       \strng{authorfullhash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1546,6 +2087,34 @@
       \endverb
       \verb{url}
       \verb https://www.salesforce.com/resources/research-reports/b2b-sales-performance/
+      \endverb
+    \endentry
+    \entry{salesforce2024benchmarks}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f2c0ee7fe0fbba231b1f9ddf86acb102}{%
+           family={Research},
+           familyi={R\bibinitperiod},
+           given={Salesforce},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \strng{fullhash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \strng{bibnamehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \strng{authorbibnamehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \strng{authornamehash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \strng{authorfullhash}{f2c0ee7fe0fbba231b1f9ddf86acb102}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{State of Sales: 7th Edition}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.salesforce.com/resources/research-reports/state-of-sales/
+      \endverb
+      \verb{url}
+      \verb https://www.salesforce.com/resources/research-reports/state-of-sales/
       \endverb
     \endentry
     \entry{aws2024cloud}{misc}{}
@@ -1703,7 +2272,7 @@
       \strng{authorbibnamehash}{bfe2b275bfefeada746aa3269f0aeb37}
       \strng{authornamehash}{bfe2b275bfefeada746aa3269f0aeb37}
       \strng{authorfullhash}{bfe2b275bfefeada746aa3269f0aeb37}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1718,6 +2287,48 @@
       \verb https://lelab.bpifrance.fr/content/download/4745/pdf/2025-06_L'IA%20dans%20les%20PME%20et%20ETI%20fran%C3%A7aises_Etude%20Bpifrance%20Le%20Lab.pdf
       \endverb
     \endentry
+    \entry{luwai2025funnel}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Métriques commerciales détaillées par étape}
+      \field{title}{Analyse funnel de conversion Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025segmentation}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Étude 63 prospects contactés, caractérisation personas}
+      \field{title}{Analyse segmentation client Luwai}
+      \field{year}{2025}
+    \endentry
     \entry{luwai2025meetings}{misc}{}
       \name{author}{1}{}{%
         {{hash=aea3787d3be151b94ed136e049022d67}{%
@@ -1730,13 +2341,76 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{1}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{63 entretiens menés juin-août 2025, fichier Meeting-avec-notes.xlsx}
       \field{title}{Base de données entretiens prospects Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025evolution}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Documentation pivots stratégiques T1-T3 2025}
+      \field{title}{Évolution modèle d'affaires Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025kpis}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dashboard performances 9 mois d'activité}
+      \field{title}{KPIs Luwai - Performances globales}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025journey}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Analyse 25 cycles de vente documentés}
+      \field{title}{Parcours client Luwai - Points de friction}
       \field{year}{2025}
     \endentry
     \entry{luwai2025carecall}{misc}{}
@@ -1751,7 +2425,7 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{2}
+      \field{extraname}{8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1772,7 +2446,7 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{3}
+      \field{extraname}{9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1793,7 +2467,7 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{4}
+      \field{extraname}{10}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1814,7 +2488,7 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{5}
+      \field{extraname}{11}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -1835,13 +2509,76 @@
       \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
       \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
-      \field{extraname}{6}
+      \field{extraname}{12}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Accompagnement cabinet recrutement packaging, 2600€ HT}
       \field{title}{Proposition Intégrhale x Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025feedback}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Analyse qualitative 47 sessions formation, janvier-septembre 2025}
+      \field{title}{Synthèse feedback clients post-formation}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025metrics}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Suivi mensuel performances commerciales et opérationnelles}
+      \field{title}{Tableau de bord métriques Luwai}
+      \field{year}{2025}
+    \endentry
+    \entry{luwai2025economics}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aea3787d3be151b94ed136e049022d67}{%
+           family={Luwai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{fullhash}{aea3787d3be151b94ed136e049022d67}
+      \strng{bibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorbibnamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authornamehash}{aea3787d3be151b94ed136e049022d67}
+      \strng{authorfullhash}{aea3787d3be151b94ed136e049022d67}
+      \field{extraname}{15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Analyse LTV, CAC, marges par segment client}
+      \field{title}{Unit economics et modèle rentabilité Luwai}
       \field{year}{2025}
     \endentry
     \entry{france_strategie2025make}{report}{}

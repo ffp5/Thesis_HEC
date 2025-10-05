@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber thesis"] 1759224956 "thesis.bcf" "thesis.bbl" "thesis" 1759224975 0
-  "./references.bib" 1759224893 17233 bf8f75fda6735ca6706705fdfd6d2a3c ""
-  "thesis.bcf" 1759224975 118074 c8689ab6ce8f28fa9aa2a01d8dddaee3 "pdflatex"
+["biber thesis"] 1759661924 "thesis.bcf" "thesis.bbl" "thesis" 1759662723 0
+  "./references.bib" 1759321375 23822 f6d5c045d5d291a10a6652f5ab1e2ee6 ""
+  "thesis.bcf" 1759662722 121624 9529b0fad1916e1357701c58a7bf789f "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1759224972 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1759224975 0
-  "/Users/florido/Desktop/Thesis/thesis.tex" 1759142126 6135 ed32f89803d976d4928f73aedd28f585 ""
+["pdflatex"] 1759662719 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1759662723 0
+  "/Users/florido/Desktop/Thesis/thesis.tex" 1759232717 6135 ed32f89803d976d4928f73aedd28f585 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -176,21 +176,21 @@
   "parts/appendix_sectoral_analysis.tex" 1758891483 10227 c1121da8889bafe4b75843c7e3fd3711 ""
   "parts/conclusion.tex" 1758876205 5765 0ab7073cadaa14f52f08e0a4eab6f58d ""
   "parts/executive_summary.tex" 1758882860 3961 51102dceff1c3f1f2934383548975aa5 ""
-  "parts/field_diagnosis.tex" 1759224946 43324 1ff6c854b3bac0ed0290d39326abd9d0 ""
+  "parts/field_diagnosis.tex" 1759662719 53050 ba01233c1872d321a553a3912de818a2 ""
   "parts/introduction.tex" 1759142914 9010 be2c8f0e28b5490419e47b95747dbd2a ""
-  "parts/literature_review.tex" 1759139266 39116 5a0647acc33a35f272b1e06e39a95a85 ""
-  "parts/luwai_case_study.tex" 1758891483 17157 ddd44eeea860883f1088e816f5f82f08 ""
+  "parts/literature_review.tex" 1759320711 41684 1662533e713eae490fd347665b3bfdc6 ""
+  "parts/luwai_case_study.tex" 1759321375 46510 e2e334fcb70a3e5806c7b1c34fcc37ef ""
   "parts/preface.tex" 1759133785 2798 1ea716b2fad2dca78349e5583b8fed36 ""
   "parts/recommendations.tex" 1758876205 7576 7b0f4bf1a8c1ff257ccbf43beb4b6725 ""
   "parts/remerciements.tex" 1759134028 1846 096bc8bd8e15c3c64eab30d8b6abb503 ""
-  "thesis.aux" 1759224975 53761 c1d96d0f305a6e81128f512f2f611535 "pdflatex"
-  "thesis.bbl" 1759224964 77919 23c4f038a8f4be78ee6d2679ba0eb985 "biber thesis"
-  "thesis.lof" 1759224975 249 6fe42a0ea2a984f3b0904d721672b112 "pdflatex"
-  "thesis.lot" 1759224975 625 a3e0b0139afdf7728d0514b821f94c8a "pdflatex"
-  "thesis.out" 1759224975 54604 40a491a65e631eab3a7d64ed60d0cbce "pdflatex"
-  "thesis.run.xml" 1759224975 2359 8b072acf5bf505db30900904cec8a9f0 "pdflatex"
-  "thesis.tex" 1759142126 6135 ed32f89803d976d4928f73aedd28f585 ""
-  "thesis.toc" 1759224975 21721 4b41b1ed3a3e634b999e97be1d4abad3 "pdflatex"
+  "thesis.aux" 1759662722 62187 d88e884a2bcbb3e90ebe38061e4487cc "pdflatex"
+  "thesis.bbl" 1759661927 109109 acb21858d00ee4038ebc4eebba3f2752 "biber thesis"
+  "thesis.lof" 1759662722 249 6fe42a0ea2a984f3b0904d721672b112 "pdflatex"
+  "thesis.lot" 1759662722 1173 14c745d482903c8b37ce705bb70aff2e "pdflatex"
+  "thesis.out" 1759662722 54986 34627b60fa14f32e926c2817ca298906 "pdflatex"
+  "thesis.run.xml" 1759662722 2359 8b072acf5bf505db30900904cec8a9f0 "pdflatex"
+  "thesis.tex" 1759232717 6135 ed32f89803d976d4928f73aedd28f585 ""
+  "thesis.toc" 1759662722 23099 5d28391ce8949c564d6c649967f7fa21 "pdflatex"
   (generated)
   "thesis.aux"
   "thesis.bcf"
