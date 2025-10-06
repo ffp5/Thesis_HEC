@@ -788,4 +788,1298 @@ LaTeX Info: Redefining \up on input line 92.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/u
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count450
+\scratchdimen=\dimen261
+\scratchbox=\box65
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen262
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks35
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 92.
+ (./thesis.out) (./thesis.out)
+\@outlinefile=\write4
+\openout4 = `thesis.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 92.
+Package microtype Info: Applying patch `item' on input line 92.
+Package microtype Info: Applying patch `toc' on input line 92.
+Package microtype Info: Applying patch `eqnum' on input line 92.
+Package microtype Info: Applying patch `footnote' on input line 92.
+Package microtype Info: Applying patch `verbatim' on input line 92.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 92.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/french.lbx
+File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'thesis.bbl' found.
+ (./thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 92.
+Package biblatex Info: Reference segment=0 on input line 92.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 106.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 106.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 106.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 106.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/20.74'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+ [1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./parts/executive_summary.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+[1
+
+] [2])
+Underfull \hbox (badness 10000) in paragraph at lines 21--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--156
+
+ []
+
+[3] (./parts/preface.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 7--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--161
+
+ []
+
+[4
+
+] [5] (./parts/remerciements.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--165
+
+ []
+
+[6
+
+] (./thesis.toc [7
+
+
+] [8] [9] [10] [11])
+\tf@toc=\write5
+\openout5 = `thesis.toc'.
+
+ [12] (./thesis.lof)
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [13
+
+
+] (./thesis.lot)
+\tf@lot=\write7
+\openout7 = `thesis.lot'.
+
+ [14
+
+
+] (./parts/introduction.tex
+Chapitre 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--14
+
+ []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \end{itemize}
+                   [1
+
+
+] [2] [3]
+
+LaTeX Warning: Citation 'luwai2025aesio' on page 4 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'luwai2025antilogy' on page 4 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'luwai2025integrhale' on page 4 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'luwai2025carecall' on page 4 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'luwai2025tectona' on page 4 undefined on input line 90.
+
+
+Overfull \hbox (24.46725pt too wide) in paragraph at lines 89--91
+[]\T1/lmr/bx/n/12 (-20) 5 pro-po-si-tions com-mer-ciales réelles \T1/lmr/m/n/12 (-20) dont 5 ana-ly-sées en dé-tail : Ae-sio  [[]],
+ []
+
+
+Overfull \hbox (67.76085pt too wide) in paragraph at lines 89--91
+\T1/lmr/m/n/12 (-20) An-ti-logy  [[]], In-té-grhale  [[]], Ca-re-call  [[]],
+ []
+
+[4]) (./parts/literature_review.tex [5]
+Chapitre 2.
+
+LaTeX Warning: Citation 'davis1989perceived' on page 6 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'artimon2025theorie' on page 6 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'psicosmart2024resistance' on page 6 undefined on input line 17.
+
+[6
+
+]
+
+LaTeX Warning: Citation 'venkatesh2003user' on page 7 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'vorecol2024resistance' on page 7 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'chen2024airam' on page 7 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'fountaine2019building' on page 7 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'ransbotham2023expanding' on page 7 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'dwivedi2021artificial' on page 7 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'bertolucci2024artificial' on page 7 undefined on input line 43.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
+
+ []
+
+[7]
+
+LaTeX Warning: Citation 'davis1989perceived' on page 8 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'artimon2025theorie' on page 8 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'psicosmart2024resistance' on page 8 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'vorecol2024resistance' on page 8 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'chen2024airam' on page 8 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'capgemini2024ai_france' on page 8 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'teece2007dynamic' on page 8 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'bpifrance2025ia' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'france_strategie2025make' on page 8 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'wang2024data_governance' on page 8 undefined on input line 57.
+
+
+Overfull \hbox (81.79079pt too wide) in paragraph at lines 49--60
+\T1/lmr/m/n/12 (-20) rique  [[], [], [], [],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--60
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+
+ []
+
+[9]
+
+LaTeX Warning: Citation 'syntec2024ai' on page 10 undefined on input line 77.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--82
+
+ []
+
+
+LaTeX Warning: Citation 'parker2016platform' on page 10 undefined on input line 87.
+
+
+LaTeX Warning: Citation 'blank2013lean' on page 10 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'osterwalder2014value' on page 10 undefined on input line 92.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
+
+ []
+
+[10]
+
+LaTeX Warning: Citation 'teece2007dynamic' on page 11 undefined on input line 96.
+
+
+Overfull \hbox (0.56606pt too wide) in paragraph at lines 96--97
+\T1/lmr/m/n/12 (-20) trans-for-ma-tion de l'in-tel-li-gence ar-ti-fi-cielle dans les en-tre-prises fran-çaises  [[]].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
+
+ []
+
+[11]
+
+LaTeX Warning: Citation 'hofstede2001culture' on page 12 undefined on input line 118.
+
+
+LaTeX Warning: Citation 'meyer2014culture' on page 12 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'bertolucci2024artificial' on page 12 undefined on input line 122.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--127
+
+ []
+
+[12]
+
+LaTeX Warning: Citation 'meyer2014culture' on page 13 undefined on input line 132.
+
+
+LaTeX Warning: Citation 'france_strategie2025make' on page 13 undefined on input line 134.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--139
+
+ []
+
+[13]
+
+LaTeX Warning: Citation 'bpifrance2025ia' on page 14 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'france_strategie2025make' on page 14 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'bpifrance2017dirigeants' on page 14 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'sage2025pme_transformation' on page 14 undefined on input line 148.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+[14]
+
+LaTeX Warning: Citation 'syntec2024ai' on page 15 undefined on input line 156.
+
+
+LaTeX Warning: Citation 'mckinsey2023consulting_ai' on page 15 undefined on input line 162.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--167
+
+ []
+
+[15]
+
+LaTeX Warning: Citation 'bertolucci2024artificial' on page 16 undefined on input line 170.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--192
+
+ []
+
+[17]
+
+LaTeX Warning: Citation 'wagner2022artificial' on page 18 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'ransbotham2023expanding' on page 18 undefined on input line 198.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--201
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 220--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--246
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 249--258
+
+ []
+
+
+Overfull \hbox (16.53609pt too wide) in paragraph at lines 249--258
+\T1/lmr/bx/n/12 (-20) Contribution aux théo-ries d'adop-tion tech-no-lo-gique \T1/lmr/m/n/12 (-20) : Ex-ten-sion des mo-dèles TAM/UTAUT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--258
+
+ []
+
+[20]) (./parts/field_diagnosis.tex [21]
+Chapitre 3.
+
+LaTeX Warning: Citation 'yin2018case' on page 22 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'bpifrance2025ia' on page 22 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'rogers2003diffusion' on page 22 undefined on input line 10.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+
+ []
+
+
+LaTeX Warning: Citation 'salesforce2024conversion' on page 22 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'luwai2025aesio' on page 22 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'luwai2025antilogy' on page 22 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'luwai2025integrhale' on page 22 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'luwai2025carecall' on page 22 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'luwai2025tectona' on page 22 undefined on input line 16.
+
+
+Overfull \hbox (24.12976pt too wide) in paragraph at lines 16--17
+[]\T1/lmr/bx/n/12 (-20) 7 pro-po-si-tions com-mer-ciales réelles \T1/lmr/m/n/12 (-20) dont 5 ana-ly-sées en dé-tail : Ae-sio  [[]],
+ []
+
+
+Overfull \hbox (67.76085pt too wide) in paragraph at lines 16--17
+\T1/lmr/m/n/12 (-20) An-ti-logy  [[]], In-té-grhale  [[]], Ca-re-call  [[]],
+ []
+
+[22
+
+]
+
+LaTeX Warning: Citation 'yanow2012interpretive' on page 23 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'kotler2017marketing' on page 23 undefined on input line 20.
+
+
+LaTeX Warning: Citation 'insee2024pme' on page 23 undefined on input line 22.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+
+ []
+
+
+LaTeX Warning: Citation 'mckinsey2024industry' on page 23 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'miles2014qualitative' on page 23 undefined on input line 34.
+
+[23]
+
+LaTeX Warning: Citation 'bardin2013analyse' on page 24 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'cohen1960coefficient' on page 24 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'denzin2017research' on page 24 undefined on input line 46.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+LaTeX Warning: Citation 'ram1987consumer' on page 24 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'hofstede2001culture' on page 24 undefined on input line 54.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 24 undefined on input line 56.
+
+
+LaTeX Warning: Citation 'porter1985competitive' on page 24 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'meyer2014culture' on page 24 undefined on input line 58.
+
+
+LaTeX Warning: Citation 'bureaucratie2024french' on page 24 undefined on input line 60.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 62.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 24 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'deloitte2024aio' on page 24 undefined on input line 64.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 24 undefined on input line 66.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+[24{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+LaTeX Warning: Citation 'venkatesh2003user' on page 25 undefined on input line 70.
+
+
+LaTeX Warning: Citation 'luwai2025antilogy' on page 25 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'schein2017organizational' on page 25 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 25 undefined on input line 78.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 25 undefined on input line 82.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+[25{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [26]
+
+LaTeX Warning: Citation 'kaplan1996balanced' on page 27 undefined on input line 86.
+
+
+LaTeX Warning: Citation 'brynjolfsson2017business' on page 27 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 27 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'brynjolfsson2017business' on page 27 undefined on input line 92.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 27 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'anthony2020budget' on page 27 undefined on input line 96.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+[27]
+
+LaTeX Warning: Citation 'davis1989perceived' on page 28 undefined on input line 100.
+
+
+LaTeX Warning: Citation 'aws2024cloud' on page 28 undefined on input line 102.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 28 undefined on input line 104.
+
+
+LaTeX Warning: Citation 'wang2019data' on page 28 undefined on input line 106.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+ []
+
+
+LaTeX Warning: Citation 'moore2014crossing' on page 28 undefined on input line 110.
+
+
+Overfull \hbox (21.48982pt too wide) in paragraph at lines 110--111
+[]\T1/lmr/m/n/12 (-20) L'analyse des be-soins ex-pri-més, des bé-né-fices consta-tés et des at-tentes clients/demandeurs/client
+ []
+
+[28]
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 29 undefined on input line 114.
+
+
+LaTeX Warning: Citation 'schein2017organizational' on page 29 undefined on input line 116.
+
+
+LaTeX Warning: Citation 'luwai2025antilogy' on page 29 undefined on input line 118.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 29 undefined on input line 120.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 29 undefined on input line 122.
+
+
+LaTeX Warning: Citation 'mcafee2017machine' on page 29 undefined on input line 124.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+[29]
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 30 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'luwai2025integrhale' on page 30 undefined on input line 130.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 30 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'luwai2025carecall' on page 30 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'meyer2014culture' on page 30 undefined on input line 138.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+[30]
+
+LaTeX Warning: Citation 'brynjolfsson2017business' on page 31 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 31 undefined on input line 144.
+
+
+LaTeX Warning: Citation 'luwai2025aesio' on page 31 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'christensen1997innovator' on page 31 undefined on input line 150.
+
+
+Overfull \hbox (73.48666pt too wide) in paragraph at lines 142--151
+\T1/lmr/m/n/12 (-20) l'en-jeu stra-té-gique de long terme au-delà des gains ponc-tuels d'au-to-ma-ti-sa-tion  [[]]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
+
+ []
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 31 undefined on input line 160.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 31 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'christensen1997innovator' on page 31 undefined on input line 164.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
+
+ []
+
+[31]
+
+LaTeX Warning: Citation 'moore2014crossing' on page 32 undefined on input line 170.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 32 undefined on input line 174.
+
+
+LaTeX Warning: Citation 'hofstede2001culture' on page 32 undefined on input line 176.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
+
+ []
+
+[32]
+
+LaTeX Warning: Citation 'rogers2003diffusion' on page 33 undefined on input line 182.
+
+
+LaTeX Warning: Citation 'bertolucci2024artificial' on page 33 undefined on input line 184.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
+
+ []
+
+
+LaTeX Warning: Citation 'moore1996death' on page 33 undefined on input line 193.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[]|\T1/lmr/m/n/12 (+20) Cabinets bou-tique IA,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+\T1/lmr/m/n/12 (+20) for-ma-teurs in-dé-pen-dants,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+[]|\T1/lmr/m/n/12 (+20) Boutiques IA, ca-bi-nets
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 205--205
+[]|\T1/lmr/m/n/12 (+20) POC/Minimum Viable Au-to-ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\T1/lmr/m/n/12 (+20) Monitoring qua-lité, évo-lu-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--211
+
+ []
+
+[33]
+
+LaTeX Warning: Citation 'syntec2024ai' on page 34 undefined on input line 214.
+
+
+LaTeX Warning: Citation 'mckinsey2024ai_transformation' on page 34 undefined on input line 217.
+
+
+LaTeX Warning: Citation 'syntec2024digital' on page 34 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'luwai2025meetings' on page 34 undefined on input line 227.
+
+
+LaTeX Warning: Citation 'france_strategie2025make' on page 34 undefined on input line 232.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
+
+ []
+
+[34] [35]
+
+LaTeX Warning: Citation 'porter1985competitive' on page 36 undefined on input line 238.
+
+
+LaTeX Warning: Citation 'christensen1997innovator' on page 36 undefined on input line 241.
+
+
+LaTeX Warni
