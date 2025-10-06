@@ -2475,4 +2475,115 @@
     <bcf:citekey order="103" intorder="1">bertolucci2024artificial</bcf:citekey>
     <bcf:citekey order="104" intorder="1">moore1996death</bcf:citekey>
     <bcf:citekey order="105" intorder="1">syntec2024ai</bcf:citekey>
-    <bcf:citekey order="106" int
+    <bcf:citekey order="106" intorder="1">mckinsey2024ai_transformation</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">syntec2024digital</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">luwai2025meetings</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">france_strategie2025make</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">porter1985competitive</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">christensen1997innovator</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">hofstede2001culture</bcf:citekey>
+    <bcf:citekey order="113" intorder="1">kaplan1996balanced</bcf:citekey>
+    <bcf:citekey order="114" intorder="1">luwai2025meetings</bcf:citekey>
+    <bcf:citekey order="115" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="116" intorder="1">rogers2003diffusion</bcf:citekey>
+    <bcf:citekey order="116" intorder="2">moore2014crossing</bcf:citekey>
+    <bcf:citekey order="117" intorder="1">mit2024ai_adoption</bcf:citekey>
+    <bcf:citekey order="118" intorder="1">hofstede2001culture</bcf:citekey>
+    <bcf:citekey order="119" intorder="1">luwai2025meetings</bcf:citekey>
+    <bcf:citekey order="120" intorder="1">rogers2003diffusion</bcf:citekey>
+    <bcf:citekey order="120" intorder="2">moore2014crossing</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">gartner1985conceptual</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">eisenhardt1989building</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">shane2000prior</bcf:citekey>
+    <bcf:citekey order="124" intorder="1">mcafee2023productivity</bcf:citekey>
+    <bcf:citekey order="125" intorder="1">hofstede2001culture</bcf:citekey>
+    <bcf:citekey order="126" intorder="1">luwai2024vision</bcf:citekey>
+    <bcf:citekey order="127" intorder="1">meyer2014culture</bcf:citekey>
+    <bcf:citekey order="128" intorder="1">anthony2020planning</bcf:citekey>
+    <bcf:citekey order="129" intorder="1">bureaucracy2024france</bcf:citekey>
+    <bcf:citekey order="130" intorder="1">welter2011contextualizing</bcf:citekey>
+    <bcf:citekey order="131" intorder="1">blank2013startup</bcf:citekey>
+    <bcf:citekey order="131" intorder="2">ries2011lean</bcf:citekey>
+    <bcf:citekey order="132" intorder="1">luwai2025metrics</bcf:citekey>
+    <bcf:citekey order="133" intorder="1">luwai2025feedback</bcf:citekey>
+    <bcf:citekey order="134" intorder="1">luwai2025evolution</bcf:citekey>
+    <bcf:citekey order="135" intorder="1">aulet2013disciplined</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">moore2014crossing</bcf:citekey>
+    <bcf:citekey order="137" intorder="1">luwai2025segmentation</bcf:citekey>
+    <bcf:citekey order="138" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="138" intorder="2">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="138" intorder="3">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="138" intorder="4">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="138" intorder="5">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="139" intorder="1">nagle2011strategy</bcf:citekey>
+    <bcf:citekey order="140" intorder="1">weinberg2015traction</bcf:citekey>
+    <bcf:citekey order="141" intorder="1">salesforce2024benchmarks</bcf:citekey>
+    <bcf:citekey order="142" intorder="1">meyer2014culture</bcf:citekey>
+    <bcf:citekey order="143" intorder="1">luwai2025funnel</bcf:citekey>
+    <bcf:citekey order="144" intorder="1">hubspot2024sales</bcf:citekey>
+    <bcf:citekey order="145" intorder="1">luwai2025economics</bcf:citekey>
+    <bcf:citekey order="146" intorder="1">ries2011lean</bcf:citekey>
+    <bcf:citekey order="147" intorder="1">ries2011lean</bcf:citekey>
+    <bcf:citekey order="148" intorder="1">maister2012managing</bcf:citekey>
+    <bcf:citekey order="149" intorder="1">brown2009change</bcf:citekey>
+    <bcf:citekey order="150" intorder="1">christensen2016competing</bcf:citekey>
+    <bcf:citekey order="151" intorder="1">luwai2025journey</bcf:citekey>
+    <bcf:citekey order="152" intorder="1">luwai2025kpis</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">professional_services2024benchmarks</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">reichheld2001loyalty</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="156" intorder="1">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="157" intorder="1">luwai2025tectona</bcf:citekey>
+    <bcf:citekey order="158" intorder="1">teece2007dynamic</bcf:citekey>
+    <bcf:citekey order="159" intorder="1">ries2011lean</bcf:citekey>
+    <bcf:citekey order="160" intorder="1">hofstede2001culture</bcf:citekey>
+    <bcf:citekey order="161" intorder="1">blank2013startup</bcf:citekey>
+    <bcf:citekey order="162" intorder="1">welter2011contextualizing</bcf:citekey>
+    <bcf:citekey order="163" intorder="1">ries2011lean</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">parker2016platform</bcf:citekey>
+    <bcf:citekey order="165" intorder="1">eu2024ai_act</bcf:citekey>
+    <bcf:citekey order="165" intorder="2">cnil2023ia</bcf:citekey>
+    <bcf:citekey order="165" intorder="3">dinum2024guide</bcf:citekey>
+    <bcf:citekey order="166" intorder="1">luwai2025aesio</bcf:citekey>
+    <bcf:citekey order="166" intorder="2">luwai2025antilogy</bcf:citekey>
+    <bcf:citekey order="166" intorder="3">luwai2025integrhale</bcf:citekey>
+    <bcf:citekey order="166" intorder="4">luwai2025carecall</bcf:citekey>
+    <bcf:citekey order="166" intorder="5">luwai2025tectona</bcf:citekey>
+  </bcf:section>
+  <!-- SORTING TEMPLATES -->
+  <bcf:sortingtemplate name="ynt">
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">9999</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="6">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
+  <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="ynt/global//global/global"
+                type="entry"
+                sortingtemplatename="ynt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global">
+  </bcf:datalist>
+</bcf:controlfile>
