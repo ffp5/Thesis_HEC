@@ -99,18 +99,18 @@
 \contentsline {subsection}{\numberline {4.3.2}Funnel de Conversion et Métriques Opérationnelles}{50}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Unit Economics et Modèle de Rentabilité}{51}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}Pivots Stratégiques et Apprentissages - Analyse Chronologique}{51}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Organisation Opérationnelle et Industrialisation}{52}{subsection.4.3.5}%
-\contentsline {section}{\numberline {4.4}Analyse Détaillée des Personas et Parcours Utilisateur}{53}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Parcours Client Optimisé et Points de Contact}{55}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.3.5}Organisation Opérationnelle et Industrialisation}{53}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Analyse Détaillée des Personas et Parcours Utilisateur}{54}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Parcours Client Optimisé et Points de Contact}{56}{subsection.4.4.1}%
 \contentsline {section}{\numberline {4.5}Métriques et ROI Client Documentés}{57}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Indicateurs de Performance Globaux Luwai}{57}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}ROI Client et Cas de Succès Documentés - Analyse Détaillée}{57}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.2}ROI Client et Cas de Succès Documentés - Analyse Détaillée}{58}{subsection.4.5.2}%
 \contentsline {subsection}{\numberline {4.5.3}Analyse Transverse des Facteurs de Succès}{59}{subsection.4.5.3}%
-\contentsline {section}{\numberline {4.6}Synthèse : Les Apprentissages Entrepreneuriaux}{59}{section.4.6}%
+\contentsline {section}{\numberline {4.6}Synthèse : Les Apprentissages Entrepreneuriaux}{60}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Sensing : L'Art de Détecter les Signaux Faibles}{60}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Seizing : La Capacité de Saisir les Opportunités}{60}{subsection.4.6.2}%
 \contentsline {subsection}{\numberline {4.6.3}Reconfiguring : L'Adaptation Organisationnelle}{61}{subsection.4.6.3}%
-\contentsline {subsection}{\numberline {4.6.4}Implications Théoriques et Managériales}{61}{subsection.4.6.4}%
+\contentsline {subsection}{\numberline {4.6.4}Implications Théoriques et Managériales}{62}{subsection.4.6.4}%
 \contentsline {chapter}{\numberline {5}Recommandations et Perspectives}{63}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Pour les Entrepreneurs du Secteur}{63}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}Stratégies de Positionnement et Différenciation}{63}{subsection.5.1.1}%
