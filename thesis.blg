@@ -1,5 +1,73 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'thesis.blg'
-[40] biber-darwin:340> INFO - === Mon Oct  6, 2025, 18:53:33
-[152] Utils.pm:410> ERROR - Cannot find 'thesis.bcf'!
-[152] Biber.pm:136> INFO - ERRORS: 1
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 17740 items from 5000.
+Database file #1: thesis-blx.bib
+Database file #2: references.bib
+Warning--I didn't find a database entry for "artimon2025theorie"
+Warning--I didn't find a database entry for "psicosmart2024resistance"
+Warning--I didn't find a database entry for "vorecol2024resistance"
+Warning--I didn't find a database entry for "chen2024airam"
+Warning--I didn't find a database entry for "ransbotham2023expanding"
+Warning--I didn't find a database entry for "blank2013lean"
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 85 entries,
+            6399 wiz_defined-function locations,
+            1565 strings with 19748 characters,
+and the built_in function-call counts, 540101 in all, are:
+= -- 40596
+> -- 8957
+< -- 3244
++ -- 13077
+- -- 2874
+* -- 37156
+:= -- 55887
+add.period$ -- 0
+call.type$ -- 85
+change.case$ -- 1425
+chr.to.int$ -- 384
+cite$ -- 168
+duplicate$ -- 55784
+empty$ -- 49571
+format.name$ -- 5017
+if$ -- 112556
+int.to.chr$ -- 0
+int.to.str$ -- 250
+missing$ -- 0
+newline$ -- 2198
+num.names$ -- 4302
+pop$ -- 29308
+preamble$ -- 1
+purify$ -- 1827
+quote$ -- 0
+skip$ -- 16365
+stack$ -- 0
+substring$ -- 73528
+swap$ -- 11685
+text.length$ -- 2207
+text.prefix$ -- 84
+top$ -- 1
+type$ -- 2878
+warning$ -- 0
+while$ -- 6572
+width$ -- 0
+write$ -- 2114
+(There were 6 warnings)

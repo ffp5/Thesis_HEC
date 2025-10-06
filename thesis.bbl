@@ -1,0 +1,2198 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ynt/global//global/global}
+  \entry{cohen1960coefficient}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{1}
+    \field{pages}{37\bibrangedash 46}
+    \field{title}{A coefficient of agreement for nominal scales}
+    \field{volume}{20}
+    \field{journaltitle}{Educational and Psychological Measurement}
+    \field{year}{1960}
+  \endentry
+
+  \entry{gartner1985conceptual}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GWB}{%
+         family={Gartner},
+         familyi={G\bibinitperiod},
+         given={William\bibnamedelima B.},
+         giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GWB1}
+    \strng{fullhash}{GWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{4}
+    \field{pages}{696\bibrangedash 706}
+    \field{title}{A conceptual framework for describing the phenomenon of new venture creation}
+    \field{volume}{10}
+    \field{journaltitle}{Academy of Management Review}
+    \field{year}{1985}
+  \endentry
+
+  \entry{porter1985competitive}{book}{}
+    \name{author}{1}{}{%
+      {{hash=PME}{%
+         family={Porter},
+         familyi={P\bibinitperiod},
+         given={Michael\bibnamedelima E.},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Free Press}%
+    }
+    \strng{namehash}{PME1}
+    \strng{fullhash}{PME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{Competitive Advantage: Creating and Sustaining Superior Performance}
+    \field{year}{1985}
+  \endentry
+
+  \entry{ram1987consumer}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RS}{%
+         family={Ram},
+         familyi={R\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJN}{%
+         family={Sheth},
+         familyi={S\bibinitperiod},
+         given={Jagdish\bibnamedelima N.},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSSJN1}
+    \strng{fullhash}{RSSJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{2}
+    \field{pages}{5\bibrangedash 14}
+    \field{title}{Consumer resistance to innovations: the marketing problem and its solutions}
+    \field{volume}{4}
+    \field{journaltitle}{Journal of Consumer Marketing}
+    \field{year}{1987}
+  \endentry
+
+  \entry{davis1989perceived}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DFD}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={F.\bibnamedelima D.},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DFD1}
+    \strng{fullhash}{DFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{3}
+    \field{pages}{319\bibrangedash 340}
+    \field{title}{Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology}
+    \field{volume}{13}
+    \field{journaltitle}{MIS Quarterly}
+    \field{year}{1989}
+  \endentry
+
+  \entry{eisenhardt1989building}{article}{}
+    \name{author}{1}{}{%
+      {{hash=EKM}{%
+         family={Eisenhardt},
+         familyi={E\bibinitperiod},
+         given={Kathleen\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EKM1}
+    \strng{fullhash}{EKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{number}{4}
+    \field{pages}{532\bibrangedash 550}
+    \field{title}{Building theories from case study research}
+    \field{volume}{14}
+    \field{journaltitle}{Academy of Management Review}
+    \field{year}{1989}
+  \endentry
+
+  \entry{kaplan1996balanced}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KRS}{%
+         family={Kaplan},
+         familyi={K\bibinitperiod},
+         given={Robert\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=NDP}{%
+         family={Norton},
+         familyi={N\bibinitperiod},
+         given={David\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Business Review Press}%
+    }
+    \strng{namehash}{KRSNDP1}
+    \strng{fullhash}{KRSNDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{The Balanced Scorecard: Translating Strategy into Action}
+    \field{year}{1996}
+  \endentry
+
+  \entry{moore1996death}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJF}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima F.},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HarperBusiness}%
+    }
+    \strng{namehash}{MJF1}
+    \strng{fullhash}{MJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{The Death of Competition: Leadership and Strategy in the Age of Business Ecosystems}
+    \field{year}{1996}
+  \endentry
+
+  \entry{christensen1997innovator}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CCM}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Business Review Press}%
+    }
+    \strng{namehash}{CCM1}
+    \strng{fullhash}{CCM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{title}{The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail}
+    \field{year}{1997}
+  \endentry
+
+  \entry{shane2000prior}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Shane},
+         familyi={S\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{4}
+    \field{pages}{448\bibrangedash 469}
+    \field{title}{Prior knowledge and the discovery of entrepreneurial opportunities}
+    \field{volume}{11}
+    \field{journaltitle}{Organization Science}
+    \field{year}{2000}
+  \endentry
+
+  \entry{hofstede2001culture}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HG}{%
+         family={Hofstede},
+         familyi={H\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage Publications}%
+    }
+    \strng{namehash}{HG1}
+    \strng{fullhash}{HG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{2nd}
+    \field{title}{Culture's Consequences: Comparing Values, Behaviors, Institutions and Organizations Across Nations}
+    \field{year}{2001}
+  \endentry
+
+  \entry{reichheld2001loyalty}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RFF}{%
+         family={Reichheld},
+         familyi={R\bibinitperiod},
+         given={Frederick\bibnamedelima F.},
+         giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard Business Review Press}%
+    }
+    \strng{namehash}{RFF1}
+    \strng{fullhash}{RFF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Loyalty Effect: The Hidden Force Behind Growth, Profits, and Lasting Value}
+    \field{year}{2001}
+  \endentry
+
+  \entry{rogers2003diffusion}{book}{}
+    \name{author}{1}{}{%
+      {{hash=REM}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Everett\bibnamedelima M.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Free Press}%
+    }
+    \strng{namehash}{REM1}
+    \strng{fullhash}{REM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{5th}
+    \field{title}{Diffusion of Innovations}
+    \field{year}{2003}
+  \endentry
+
+  \entry{venkatesh2003user}{article}{}
+    \name{author}{4}{}{%
+      {{hash=VV}{%
+         family={Venkatesh},
+         familyi={V\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MMG}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DGB}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={G.\bibnamedelima B.},
+         giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=DFD}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={F.\bibnamedelima D.},
+         giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VV+1}
+    \strng{fullhash}{VVMMGDGBDFD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{3}
+    \field{pages}{425\bibrangedash 478}
+    \field{title}{User Acceptance of Information Technology: Toward a Unified View}
+    \field{volume}{27}
+    \field{journaltitle}{MIS Quarterly}
+    \field{year}{2003}
+  \endentry
+
+  \entry{teece2007dynamic}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TDJ}{%
+         family={Teece},
+         familyi={T\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TDJ1}
+    \strng{fullhash}{TDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{13}
+    \field{pages}{1319\bibrangedash 1350}
+    \field{title}{Explicating Dynamic Capabilities: The Nature and Microfoundations of (Sustainable) Enterprise Performance}
+    \field{volume}{28}
+    \field{journaltitle}{Strategic Management Journal}
+    \field{year}{2007}
+  \endentry
+
+  \entry{brown2009change}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BT}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HarperBusiness}%
+    }
+    \strng{namehash}{BT1}
+    \strng{fullhash}{BT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation}
+    \field{year}{2009}
+  \endentry
+
+  \entry{nagle2011strategy}{book}{}
+    \name{author}{3}{}{%
+      {{hash=NTT}{%
+         family={Nagle},
+         familyi={N\bibinitperiod},
+         given={Thomas\bibnamedelima T.},
+         giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hogan},
+         familyi={H\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zale},
+         familyi={Z\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall}%
+    }
+    \strng{namehash}{NTTHJZJ1}
+    \strng{fullhash}{NTTHJZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{5th}
+    \field{title}{The Strategy and Tactics of Pricing: A Guide to Growing More Profitably}
+    \field{year}{2011}
+  \endentry
+
+  \entry{ries2011lean}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RE}{%
+         family={Ries},
+         familyi={R\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Crown Business}%
+    }
+    \strng{namehash}{RE1}
+    \strng{fullhash}{RE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses}
+    \field{year}{2011}
+  \endentry
+
+  \entry{welter2011contextualizing}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WF}{%
+         family={Welter},
+         familyi={W\bibinitperiod},
+         given={Friederike},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WF1}
+    \strng{fullhash}{WF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{1}
+    \field{pages}{165\bibrangedash 184}
+    \field{title}{Contextualizing entrepreneurship—conceptual challenges and ways forward}
+    \field{volume}{35}
+    \field{journaltitle}{Entrepreneurship Theory and Practice}
+    \field{year}{2011}
+  \endentry
+
+  \entry{maister2012managing}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MDH}{%
+         family={Maister},
+         familyi={M\bibinitperiod},
+         given={David\bibnamedelima H.},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Free Press}%
+    }
+    \strng{namehash}{MDH1}
+    \strng{fullhash}{MDH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Managing the Professional Service Firm}
+    \field{year}{2012}
+  \endentry
+
+  \entry{yanow2012interpretive}{book}{}
+    \name{author}{2}{}{%
+      {{hash=YD}{%
+         family={Yanow},
+         familyi={Y\bibinitperiod},
+         given={Dvora},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SSP}{%
+         family={Schwartz-Shea},
+         familyi={S\bibinithyphendelim S\bibinitperiod},
+         given={Peregrine},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{YDSSP1}
+    \strng{fullhash}{YDSSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Interpretive Research Design: Concepts and Processes}
+    \field{year}{2012}
+  \endentry
+
+  \entry{aulet2013disciplined}{book}{}
+    \name{author}{1}{}{%
+      {{hash=AB}{%
+         family={Aulet},
+         familyi={A\bibinitperiod},
+         given={Bill},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{AB1}
+    \strng{fullhash}{AB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Disciplined Entrepreneurship: 24 Steps to a Successful Startup}
+    \field{year}{2013}
+  \endentry
+
+  \entry{bardin2013analyse}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BL}{%
+         family={Bardin},
+         familyi={B\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Presses Universitaires de France}%
+    }
+    \strng{namehash}{BL1}
+    \strng{fullhash}{BL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{2nd}
+    \field{title}{L'analyse de contenu}
+    \field{year}{2013}
+  \endentry
+
+  \entry{blank2013startup}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BS}{%
+         family={Blank},
+         familyi={B\bibinitperiod},
+         given={Steve},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dorf},
+         familyi={D\bibinitperiod},
+         given={Bob},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {K\&S Ranch}%
+    }
+    \strng{namehash}{BSDB1}
+    \strng{fullhash}{BSDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company}
+    \field{year}{2013}
+  \endentry
+
+  \entry{meyer2014culture}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ME}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Erin},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {PublicAffairs}%
+    }
+    \strng{namehash}{ME1}
+    \strng{fullhash}{ME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Culture Map: Breaking Through the Invisible Boundaries of Global Business}
+    \field{year}{2014}
+  \endentry
+
+  \entry{miles2014qualitative}{book}{}
+    \name{author}{3}{}{%
+      {{hash=MMB}{%
+         family={Miles},
+         familyi={M\bibinitperiod},
+         given={Matthew\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HAM}{%
+         family={Huberman},
+         familyi={H\bibinitperiod},
+         given={A.\bibnamedelima Michael},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Saldaña},
+         familyi={S\bibinitperiod},
+         given={Johnny},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage Publications}%
+    }
+    \strng{namehash}{MMBHAMSJ1}
+    \strng{fullhash}{MMBHAMSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{3rd}
+    \field{title}{Qualitative Data Analysis: A Methods Sourcebook}
+    \field{year}{2014}
+  \endentry
+
+  \entry{moore2014crossing}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MGA}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={Geoffrey\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HarperBusiness}%
+    }
+    \strng{namehash}{MGA1}
+    \strng{fullhash}{MGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{3rd}
+    \field{title}{Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers}
+    \field{year}{2014}
+  \endentry
+
+  \entry{osterwalder2014value}{book}{}
+    \name{author}{4}{}{%
+      {{hash=OA}{%
+         family={Osterwalder},
+         familyi={O\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pigneur},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bernarda},
+         familyi={B\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{OA+1}
+    \strng{fullhash}{OAPYBGSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Value Proposition Design}
+    \field{year}{2014}
+  \endentry
+
+  \entry{weinberg2015traction}{book}{}
+    \name{author}{2}{}{%
+      {{hash=WG}{%
+         family={Weinberg},
+         familyi={W\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Mares},
+         familyi={M\bibinitperiod},
+         given={Justin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Portfolio}%
+    }
+    \strng{namehash}{WGMJ1}
+    \strng{fullhash}{WGMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Traction: How Any Startup Can Achieve Explosive Customer Growth}
+    \field{year}{2015}
+  \endentry
+
+  \entry{christensen2016competing}{book}{}
+    \name{author}{4}{}{%
+      {{hash=CCM}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={Clayton\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Taddy},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Dillon},
+         familyi={D\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DDS}{%
+         family={Duncan},
+         familyi={D\bibinitperiod},
+         given={David\bibnamedelima S.},
+         giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HarperBusiness}%
+    }
+    \strng{namehash}{CCM+1}
+    \strng{fullhash}{CCMHTDKDDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Competing Against Luck: The Story of Innovation and Customer Choice}
+    \field{year}{2016}
+  \endentry
+
+  \entry{parker2016platform}{book}{}
+    \name{author}{3}{}{%
+      {{hash=PGG}{%
+         family={Parker},
+         familyi={P\bibinitperiod},
+         given={Geoffrey\bibnamedelima G.},
+         giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=VAMW}{%
+         family={Van\bibnamedelima Alstyne},
+         familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Marshall\bibnamedelima W.},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=CSP}{%
+         family={Choudary},
+         familyi={C\bibinitperiod},
+         given={Sangeet\bibnamedelima Paul},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {W. W. Norton \& Company}%
+    }
+    \strng{namehash}{PGGVAMWCSP1}
+    \strng{fullhash}{PGGVAMWCSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Platform Revolution: How Networked Markets Are Transforming the Economy}
+    \field{year}{2016}
+  \endentry
+
+  \entry{brynjolfsson2017business}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={McAfee},
+         familyi={M\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BEMA1}
+    \strng{fullhash}{BEMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{1\bibrangedash 20}
+    \field{title}{The business of artificial intelligence}
+    \field{volume}{7}
+    \field{journaltitle}{Harvard Business Review}
+    \field{year}{2017}
+  \endentry
+
+  \entry{denzin2017research}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DNK}{%
+         family={Denzin},
+         familyi={D\bibinitperiod},
+         given={Norman\bibnamedelima K.},
+         giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{DNK1}
+    \strng{fullhash}{DNK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{8th}
+    \field{title}{The Research Act: A Theoretical Introduction to Sociological Methods}
+    \field{year}{2017}
+  \endentry
+
+  \entry{kotler2017marketing}{book}{}
+    \name{author}{2}{}{%
+      {{hash=KP}{%
+         family={Kotler},
+         familyi={K\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KKL}{%
+         family={Keller},
+         familyi={K\bibinitperiod},
+         given={Kevin\bibnamedelima Lane},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \strng{namehash}{KPKKL1}
+    \strng{fullhash}{KPKKL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{15th}
+    \field{title}{Marketing Management}
+    \field{year}{2017}
+  \endentry
+
+  \entry{bpifrance2017dirigeants}{report}{}
+    \name{author}{1}{}{%
+      {{hash=LBFL}{%
+         family={Lab},
+         familyi={L\bibinitperiod},
+         given={BPI France\bibnamedelima Le},
+         giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LBFL1}
+    \strng{fullhash}{LBFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Les dirigeants de PME-ETI face au digital}
+    \list{institution}{1}{%
+      {BPI France}%
+    }
+    \field{month}{07}
+    \field{year}{2017}
+  \endentry
+
+  \entry{mcafee2017machine}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MA}{%
+         family={McAfee},
+         familyi={M\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {W. W. Norton \& Company}%
+    }
+    \strng{namehash}{MABE1}
+    \strng{fullhash}{MABE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Machine, Platform, Crowd: Harnessing Our Digital Future}
+    \field{year}{2017}
+  \endentry
+
+  \entry{schein2017organizational}{book}{}
+    \name{author}{2}{}{%
+      {{hash=SEH}{%
+         family={Schein},
+         familyi={S\bibinitperiod},
+         given={Edgar\bibnamedelima H.},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Schein},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Jossey-Bass}%
+    }
+    \strng{namehash}{SEHSP1}
+    \strng{fullhash}{SEHSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{5th}
+    \field{title}{Organizational Culture and Leadership}
+    \field{year}{2017}
+  \endentry
+
+  \entry{yin2018case}{book}{}
+    \name{author}{1}{}{%
+      {{hash=YRK}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={Robert\bibnamedelima K.},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sage Publications}%
+    }
+    \strng{namehash}{YRK1}
+    \strng{fullhash}{YRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{6th}
+    \field{title}{Case Study Research and Applications: Design and Methods}
+    \field{year}{2018}
+  \endentry
+
+  \entry{fountaine2019building}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FT}{%
+         family={Fountaine},
+         familyi={F\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={McCarthy},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Saleh},
+         familyi={S\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FTMBST1}
+    \strng{fullhash}{FTMBST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{4}
+    \field{pages}{62\bibrangedash 73}
+    \field{title}{Building the AI-powered organization}
+    \field{volume}{97}
+    \field{journaltitle}{Harvard Business Review}
+    \field{year}{2019}
+  \endentry
+
+  \entry{wang2019data}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WLFMZY1}
+    \strng{fullhash}{WLFMZY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{8}
+    \field{pages}{103\bibrangedash 115}
+    \field{title}{Data governance for artificial intelligence: A framework for managing data in the age of AI}
+    \field{volume}{56}
+    \field{journaltitle}{Information \& Management}
+    \field{year}{2019}
+  \endentry
+
+  \entry{anthony2020budget}{book}{}
+    \name{author}{2}{}{%
+      {{hash=ARN}{%
+         family={Anthony},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima N.},
+         giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Govindarajan},
+         familyi={G\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {McGraw-Hill Education}%
+    }
+    \strng{namehash}{ARNGV1}
+    \strng{fullhash}{ARNGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{12th}
+    \field{title}{Management Control Systems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{anthony2020planning}{book}{}
+    \name{author}{2}{}{%
+      {{hash=ARN}{%
+         family={Anthony},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima N.},
+         giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Govindarajan},
+         familyi={G\bibinitperiod},
+         given={Vijay},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {McGraw-Hill Education}%
+    }
+    \strng{namehash}{ARNGV1}
+    \strng{fullhash}{ARNGV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{edition}{12th}
+    \field{title}{Management Control Systems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{dwivedi2021artificial}{article}{}
+    \name{author}{28}{}{%
+      {{hash=DYK}{%
+         family={Dwivedi},
+         familyi={D\bibinitperiod},
+         given={Y.\bibnamedelima K.},
+         giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hughes},
+         familyi={H\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=IE}{%
+         family={Ismagilova},
+         familyi={I\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Aarts},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Coombs},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Crick},
+         familyi={C\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={Dwivedi},
+         familyi={D\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Edwards},
+         familyi={E\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Eirug},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Galanos},
+         familyi={G\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=IPV}{%
+         family={Ilavarasan},
+         familyi={I\bibinitperiod},
+         given={P.\bibnamedelima V.},
+         giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Janssen},
+         familyi={J\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KAK}{%
+         family={Kar},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kizgin},
+         familyi={K\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Kronemann},
+         familyi={K\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lal},
+         familyi={L\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lucini},
+         familyi={L\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Medaglia},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LMFK}{%
+         family={Le\bibnamedelima Meunier-FitzHugh},
+         familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LMFLC}{%
+         family={Le\bibnamedelima Meunier-FitzHugh},
+         familyi={L\bibinitperiod\bibinitdelim M\bibinithyphendelim F\bibinitperiod},
+         given={L.\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Misra},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mogaji},
+         familyi={M\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SSK}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={S.\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SJB}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Viglia},
+         familyi={V\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WMD}{%
+         family={Williams},
+         familyi={W\bibinitperiod},
+         given={M.\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{DYK+1}
+    \strng{fullhash}{DYKHLIEAGCCCTDYDREJEAGVIPVJMJPKAKKHKBLBLBMRLMFKLMFLCMSMESSKSJBVGWMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{102294}
+    \field{title}{Artificial intelligence (AI): A multidisciplinary review and future research agenda}
+    \field{volume}{57}
+    \field{journaltitle}{International Journal of Information Management}
+    \field{year}{2021}
+  \endentry
+
+  \entry{wagner2022artificial}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WG}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lukyanenko},
+         familyi={L\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Par\'{e}},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WGLRPG1}
+    \strng{fullhash}{WGLRPG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{2}
+    \field{pages}{209\bibrangedash 226}
+    \field{title}{Artificial Intelligence and the Conduct of Literature Reviews}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Information Technology}
+    \field{year}{2022}
+  \endentry
+
+  \entry{cnil2023ia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=C}{%
+         family={{CNIL}},
+         familyi={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{C1}
+    \strng{fullhash}{C1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Note d'orientation}
+    \field{title}{Intelligence artificielle: recommandations et points de vigilance}
+    \field{year}{2023}
+  \endentry
+
+  \entry{mckinsey2023consulting_ai}{report}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+         given={McKinsey\bibnamedelima \&},
+         giveni={M\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Future of Work in Consulting: How AI Will Transform the Industry}
+    \list{institution}{1}{%
+      {McKinsey \& Company}%
+    }
+    \field{year}{2023}
+  \endentry
+
+  \entry{mcafee2023productivity}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MA}{%
+         family={McAfee},
+         familyi={M\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Brynjolfsson},
+         familyi={B\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MABE1}
+    \strng{fullhash}{MABE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{3}
+    \field{pages}{82\bibrangedash 91}
+    \field{title}{The productivity J-curve: How intangibles complement general purpose technologies}
+    \field{volume}{101}
+    \field{journaltitle}{Harvard Business Review}
+    \field{year}{2023}
+  \endentry
+
+  \entry{bertolucci2024artificial}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BM}{%
+         family={Bertolucci},
+         familyi={B\bibinitperiod},
+         given={Marie},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM1}
+    \strng{fullhash}{BM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{3}
+    \field{pages}{456\bibrangedash 469}
+    \field{title}{Artificial Intelligence Implementation in French Public Administration}
+    \field{volume}{84}
+    \field{journaltitle}{Public Administration Review}
+    \field{year}{2024}
+  \endentry
+
+  \entry{mckinsey2024industry}{report}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+         given={McKinsey\bibnamedelima \&},
+         giveni={M\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Future of Manufacturing: AI and Industry 4.0 in France}
+    \list{institution}{1}{%
+      {McKinsey Global Institute}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{mckinsey2024ai_transformation}{report}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Company},
+         familyi={C\bibinitperiod},
+         given={McKinsey\bibnamedelima \&},
+         giveni={M\bibinitperiod\bibinitdelim \bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The State of AI Transformation in French Enterprises}
+    \list{institution}{1}{%
+      {McKinsey France}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{syntec2024ai}{report}{}
+    \name{author}{1}{}{%
+      {{hash=CS}{%
+         family={Conseil},
+         familyi={C\bibinitperiod},
+         given={Syntec},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CS1}
+    \strng{fullhash}{CS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Baromètre du Conseil 2024 : L'IA transforme les métiers du conseil}
+    \list{institution}{1}{%
+      {Syntec Conseil France}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{professional_services2024benchmarks}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CPS}{%
+         family={Council},
+         familyi={C\bibinitperiod},
+         given={Professional\bibnamedelima Services},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CPS1}
+    \strng{fullhash}{CPS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Professional Services Industry Benchmarks 2024}
+    \field{year}{2024}
+  \endentry
+
+  \entry{dinum2024guide}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={{DINUM}},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Direction interministérielle du numérique}
+    \field{title}{Guide pratique d'IA responsable pour les administrations}
+    \field{year}{2024}
+  \endentry
+
+  \entry{eu2024ai_act}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=E}{%
+         family={{European Union}},
+         familyi={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{E1}
+    \strng{fullhash}{E1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Regulation adopted by the European Parliament and the Council}
+    \field{title}{Artificial Intelligence Act}
+    \field{year}{2024}
+  \endentry
+
+  \entry{bureaucratie2024french}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dGIF}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Gouvernance},
+         familyi={G\bibinitperiod},
+         given={Institut\bibnamedelima Français},
+         giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GIFd1}
+    \strng{fullhash}{GIFd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{French Corporate Governance and Decision-Making Processes}
+    \field{year}{2024}
+  \endentry
+
+  \entry{bureaucracy2024france}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=dGIF}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Gouvernance},
+         familyi={G\bibinitperiod},
+         given={Institut\bibnamedelima Français},
+         giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GIFd1}
+    \strng{fullhash}{GIFd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{French Corporate Governance and Decision-Making Processes}
+    \field{year}{2024}
+  \endentry
+
+  \entry{insee2024pme}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=I}{%
+         family={INSEE},
+         familyi={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{I1}
+    \strng{fullhash}{I1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Les PME-ETI françaises : caractéristiques structurelles et évolutions 2024}
+    \verb{url}
+    \verb https://www.insee.fr/fr/statistiques/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{deloitte2024aio}{report}{}
+    \name{author}{1}{}{%
+      {{hash=ID}{%
+         family={Insights},
+         familyi={I\bibinitperiod},
+         given={Deloitte},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ID1}
+    \strng{fullhash}{ID1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{The Rise of Chief AI Officers in European Enterprises}
+    \list{institution}{1}{%
+      {Deloitte}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{mit2024ai_adoption}{report}{}
+    \name{author}{1}{}{%
+      {{hash=IMTR}{%
+         family={Insights},
+         familyi={I\bibinitperiod},
+         given={MIT Technology\bibnamedelima Review},
+         giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IMTR1}
+    \strng{fullhash}{IMTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{AI Adoption Patterns: US vs European Markets}
+    \list{institution}{1}{%
+      {MIT Technology Review}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{capgemini2024ai_france}{report}{}
+    \name{author}{1}{}{%
+      {{hash=ICR}{%
+         family={Institute},
+         familyi={I\bibinitperiod},
+         given={Capgemini\bibnamedelima Research},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ICR1}
+    \strng{fullhash}{ICR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{1\bibrangedash 45}
+    \field{title}{Intelligence Artificielle en France : Adoption et Spécificités Culturelles}
+    \list{institution}{1}{%
+      {Capgemini}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{luwai2024vision}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Document fondateur et hypothèses entrepreneuriales}
+    \field{title}{Vision et positioning stratégique Luwai}
+    \field{year}{2024}
+  \endentry
+
+  \entry{syntec2024digital}{report}{}
+    \name{author}{1}{}{%
+      {{hash=NS}{%
+         family={Numérique},
+         familyi={N\bibinitperiod},
+         given={Syntec},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NS1}
+    \strng{fullhash}{NS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Transformation digitale et ESN françaises : état des lieux 2024}
+    \list{institution}{1}{%
+      {Syntec Numérique}%
+    }
+    \field{year}{2024}
+  \endentry
+
+  \entry{hubspot2024sales}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RH}{%
+         family={Research},
+         familyi={R\bibinitperiod},
+         given={HubSpot},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RH1}
+    \strng{fullhash}{RH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Sales Enablement Report 2024}
+    \verb{url}
+    \verb https://www.hubspot.com/sales-enablement-report
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{salesforce2024conversion}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RS}{%
+         family={Research},
+         familyi={R\bibinitperiod},
+         given={Salesforce},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS1}
+    \strng{fullhash}{RS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{B2B Sales Performance Benchmarks 2024}
+    \verb{url}
+    \verb https://www.salesforce.com/resources/research-reports/b2b-sales-perfo
+    \verb rmance/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{salesforce2024benchmarks}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RS}{%
+         family={Research},
+         familyi={R\bibinitperiod},
+         given={Salesforce},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS1}
+    \strng{fullhash}{RS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{State of Sales: 7th Edition}
+    \verb{url}
+    \verb https://www.salesforce.com/resources/research-reports/state-of-sales/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{aws2024cloud}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SAW}{%
+         family={Services},
+         familyi={S\bibinitperiod},
+         given={Amazon\bibnamedelima Web},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SAW1}
+    \strng{fullhash}{SAW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Cloud Infrastructure for AI: European SME Guide}
+    \verb{url}
+    \verb https://aws.amazon.com/fr/ai/cloud-infrastructure/
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{wang2024data_governance}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WL}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dubois},
+         familyi={D\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WLFMDP1}
+    \strng{fullhash}{WLFMDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{4}
+    \field{pages}{512\bibrangedash 525}
+    \field{title}{Data Governance Frameworks for AI Implementation in European SMEs}
+    \field{volume}{42}
+    \field{journaltitle}{European Management Journal}
+    \field{year}{2024}
+  \endentry
+
+  \entry{sage2025pme_transformation}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FS}{%
+         family={France},
+         familyi={F\bibinitperiod},
+         given={Sage},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FS1}
+    \strng{fullhash}{FS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{PME et ETI : quand la transformation numérique s'impose}
+    \verb{url}
+    \verb https://www.sage.com/fr-fr/blog/transformation-numerique-pme-et-eti-c
+    \verb onvaincues/
+    \endverb
+    \field{year}{2025}
+  \endentry
+
+  \entry{bpifrance2025ia}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=LBFL}{%
+         family={Lab},
+         familyi={L\bibinitperiod},
+         given={BPI France\bibnamedelima Le},
+         giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LBFL1}
+    \strng{fullhash}{LBFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{L'IA dans les PME et ETI françaises : une révolution tranquille}
+    \verb{url}
+    \verb https://lelab.bpifrance.fr/content/download/4745/pdf/2025-06_L'IA%20d
+    \verb ans%20les%20PME%20et%20ETI%20françaises_Etude%20Bpifrance%20Le%20Lab
+    \verb .pdf
+    \endverb
+    \field{year}{2025}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{luwai2025segmentation}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Typologie et profils des 63 prospects contactés}
+    \field{title}{Analyse de segmentation clients Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025meetings}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{63 entretiens menés juillet-octobre 2025, fichier Meeting-avec-notes.xlsx}
+    \field{title}{Base de données entretiens prospects Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025journey}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Analyse de 25 cycles de vente documentés}
+    \field{title}{Cartographie parcours client Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025evolution}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Historique des pivots stratégiques juillet-octobre 2025}
+    \field{title}{Documentation évolution modèle d'affaires Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025feedback}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Analyse des retours clients sur formations et accompagnements}
+    \field{title}{Feedback clients post-formation Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025metrics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{NPS, taux de transformation, satisfaction client}
+    \field{title}{Métriques de performance Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025funnel}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Données commerciales agrégées 3 mois d'activité}
+    \field{title}{Métriques funnel de conversion Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025carecall}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Automatisation génération leads B2B secteur santé, 2500€ HT}
+    \field{title}{Proposition Carecall x Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025aesio}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Formation communication et IA créative, 3200€ HT}
+    \field{title}{Proposition Commerciale Aesio x Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025antilogy}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Programme formation IA 15 collaborateurs, 3500€ HT}
+    \field{title}{Proposition Commerciale Luwai x Antilogy}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025tectona}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Formation managériale + audit vertical PME mobilier, 3500€ HT}
+    \field{title}{Proposition d'Accompagnement Tectona x Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025integrhale}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Accompagnement cabinet recrutement packaging, 2600€ HT}
+    \field{title}{Proposition Intégrhale x Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025kpis}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Indicateurs de performance commerciaux et opérationnels}
+    \field{title}{Tableau de bord KPIs Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{luwai2025economics}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=L}{%
+         family={Luwai},
+         familyi={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{L1}
+    \strng{fullhash}{L1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{note}{Analyse financière et rentabilité par client}
+    \field{title}{Unit Economics Luwai}
+    \field{year}{2025}
+  \endentry
+
+  \entry{france_strategie2025make}{report}{}
+    \name{author}{1}{}{%
+      {{hash=SF}{%
+         family={Stratégie},
+         familyi={S\bibinitperiod},
+         given={France},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SF1}
+    \strng{fullhash}{SF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Make France an AI Powerhouse: Strategic Roadmap 2025-2030}
+    \list{institution}{1}{%
+      {Gouvernement Français}%
+    }
+    \field{year}{2025}
+  \endentry
+\enddatalist
+\endinput
