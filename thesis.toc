@@ -4,18 +4,17 @@
 \contentsline {chapter}{Remerciements}{vi}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Contexte et enjeux}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Contexte et enjeux}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Problématique centrale}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Objectifs de recherche}{2}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Cartographier l'écosystème et la chaîne de valeur IA en France}{2}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Identifier les résistances organisationnelles et culturelles spécifiques}{3}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Analyser le modèle entrepreneurial Luwai comme cas d'étude}{3}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Formuler des recommandations pour entrepreneurs et décideurs}{3}{subsection.1.4.4}%
-\contentsline {section}{\numberline {1.5}Méthodologie}{3}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Revue de littérature académique et professionnelle}{3}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Étude de cas entrepreneurial}{3}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Collecte de données primaires}{4}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Plan et contributions attendues}{4}{section.1.6}%
+\contentsline {section}{\numberline {1.2}Problématique centrale}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objectifs de recherche}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Cartographier l'écosystème et la chaîne de valeur IA en France}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Identifier les résistances organisationnelles et culturelles spécifiques}{3}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Analyser le modèle entrepreneurial Luwai comme cas d'étude}{3}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Formuler des recommandations pour entrepreneurs et décideurs}{3}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Méthodologie}{3}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Revue de littérature académique et professionnelle}{3}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Étude de cas entrepreneurial}{3}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Collecte de données primaires}{4}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}Plan et contributions attendues}{4}{section.1.5}%
 \contentsline {chapter}{\numberline {2}Revue de Littérature et Cadre Théorique}{6}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Adoption Technologique et Transformation Digitale}{6}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Modèles Classiques d'Adoption Technologique}{6}{subsection.2.1.1}%
@@ -93,13 +92,13 @@
 \contentsline {section}{\numberline {4.2}Modèle d'Affaires et Propositions de Valeur}{47}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Évolution du Modèle : De la Formation Pure au Service Intégré}{47}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Segmentation Client et Propositions de Valeur Différenciées}{49}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Architecture de Pricing et Modèles de Revenus}{50}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.3}Architecture de pricing et modèles de revenus}{50}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}Stratégie Commerciale et Go-to-Market}{51}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Approche d'Acquisition Client Multi-Canaux}{51}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}Funnel de Conversion et Métriques Opérationnelles}{52}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Unit Economics et Modèle de Rentabilité}{53}{subsection.4.3.3}%
 \contentsline {subsection}{\numberline {4.3.4}Pivots Stratégiques et Apprentissages - Analyse Chronologique}{54}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Organisation Opérationnelle et Industrialisation}{55}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.5}Organisation opérationnelle et industrialisation}{55}{subsection.4.3.5}%
 \contentsline {section}{\numberline {4.4}Analyse Détaillée des Personas et Parcours Utilisateur}{56}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Parcours Client Optimisé et Points de Contact}{58}{subsection.4.4.1}%
 \contentsline {section}{\numberline {4.5}Métriques et ROI Client Documentés}{59}{section.4.5}%
@@ -128,93 +127,93 @@
 \contentsline {section}{\numberline {5.4}Synthèse et Impacts Attendus}{68}{section.5.4}%
 \contentsline {subsection}{\numberline {5.4.1}Éducation et Formation}{68}{subsection.5.4.1}%
 \contentsline {chapter}{\numberline {6}Conclusion}{69}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Synthèse des Apports}{69}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Contribution Empirique}{69}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Contribution Théorique}{69}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Contribution Managériale}{69}{subsection.6.1.3}%
-\contentsline {section}{\numberline {6.2}Limites et Perspectives de Recherche}{69}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Limites Identifiées}{69}{subsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.2.2}Voies de Recherche Futures}{70}{subsection.6.2.2}%
-\contentsline {section}{\numberline {6.3}Réflexions Entrepreneuriales Personnelles}{70}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Apprentissages Entrepreneuriaux}{70}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Vision Écosystème France}{70}{subsection.6.3.2}%
-\contentsline {section}{\numberline {6.4}Perspective Managériale et Organisationnelle}{70}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Implications pour la Gouvernance IA des PME-ETI}{71}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Note Réflexive sur la Méthode}{71}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Conclusion Finale}{71}{section.6.7}%
+\contentsline {section}{\numberline {6.1}Synthèse des apports}{69}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Contribution empirique}{69}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Contribution théorique}{69}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Contribution managériale}{69}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}Limites et perspectives de recherche}{69}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Limites identifiées}{69}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Voies de recherche futures}{70}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Réflexions entrepreneuriales personnelles}{70}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Apprentissages entrepreneuriaux}{70}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Vision écosystème France}{70}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Perspective managériale et organisationnelle}{70}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Implications pour la gouvernance IA des PME-ETI}{71}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Note réflexive sur la méthode}{71}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Conclusion finale}{71}{section.6.7}%
 \contentsline {chapter}{Annexes}{72}{section.6.7}%
 \contentsline {section}{Table des Annexes}{72}{appendix*.29}%
-\contentsline {chapter}{\numberline {A}Méthodologie de Recherche}{73}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Design de Recherche et Posture}{73}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Échantillonnage et Critères d'Inclusion}{73}{section.A.2}%
+\contentsline {chapter}{\numberline {A}Méthodologie de recherche}{73}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Design de recherche et posture}{73}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Échantillonnage et critères d'inclusion}{73}{section.A.2}%
 \contentsline {subsection}{\numberline {A.2.1}Cadre de sélection}{73}{subsection.A.2.1}%
 \contentsline {subsection}{\numberline {A.2.2}Répartition agrégée (synthèse)}{73}{subsection.A.2.2}%
-\contentsline {section}{\numberline {A.3}Protocole d'Entretien Semi-Directif}{74}{section.A.3}%
+\contentsline {section}{\numberline {A.3}Protocole d'entretien semi-directif}{74}{section.A.3}%
 \contentsline {subsection}{\numberline {A.3.1}Guide d'entretien (30–45 min)}{74}{subsection.A.3.1}%
 \contentsline {subsection}{\numberline {A.3.2}Collecte et éthique}{74}{subsection.A.3.2}%
-\contentsline {section}{\numberline {A.4}Transcription, Codage et Schéma d'Analyse}{74}{section.A.4}%
+\contentsline {section}{\numberline {A.4}Transcription, codage et schéma d'analyse}{74}{section.A.4}%
 \contentsline {subsection}{\numberline {A.4.1}Processus de codage thématique}{74}{subsection.A.4.1}%
-\contentsline {subsection}{\numberline {A.4.2}Codebook — Résistances}{74}{subsection.A.4.2}%
-\contentsline {subsection}{\numberline {A.4.3}Codebook — Opportunités}{75}{subsection.A.4.3}%
+\contentsline {subsection}{\numberline {A.4.2}Codebook — résistances}{74}{subsection.A.4.2}%
+\contentsline {subsection}{\numberline {A.4.3}Codebook — opportunités}{75}{subsection.A.4.3}%
 \contentsline {subsection}{\numberline {A.4.4}Plan d'analyse et triangulation}{76}{subsection.A.4.4}%
-\contentsline {section}{\numberline {A.5}Fiabilité, Validité et Biais}{76}{section.A.5}%
+\contentsline {section}{\numberline {A.5}Fiabilité, validité et biais}{76}{section.A.5}%
 \contentsline {subsection}{\numberline {A.5.1}Fiabilité}{76}{subsection.A.5.1}%
 \contentsline {subsection}{\numberline {A.5.2}Validité}{76}{subsection.A.5.2}%
 \contentsline {subsection}{\numberline {A.5.3}Biais et limites}{76}{subsection.A.5.3}%
-\contentsline {section}{\numberline {A.6}Lien avec le Cadre ROI et les Recommandations}{76}{section.A.6}%
-\contentsline {section}{\numberline {A.7}Ressources et Logiciels}{76}{section.A.7}%
-\contentsline {section}{\numberline {A.8}Accès aux Données Agrégées}{77}{section.A.8}%
-\contentsline {chapter}{\numberline {B}Données Primaires}{78}{appendix.B}%
-\contentsline {section}{\numberline {B.1}Échantillon des Contacts Prospectés (Anonymisé)}{78}{section.B.1}%
+\contentsline {section}{\numberline {A.6}Lien avec le cadre ROI et les recommandations}{76}{section.A.6}%
+\contentsline {section}{\numberline {A.7}Ressources et logiciels}{76}{section.A.7}%
+\contentsline {section}{\numberline {A.8}Accès aux données agrégées}{77}{section.A.8}%
+\contentsline {chapter}{\numberline {B}Données primaires}{78}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Échantillon des contacts prospectés (anonymisé)}{78}{section.B.1}%
 \contentsline {subsection}{\numberline {B.1.1}Répartition par secteur}{78}{subsection.B.1.1}%
 \contentsline {subsection}{\numberline {B.1.2}Répartition par rôle des interlocuteurs}{78}{subsection.B.1.2}%
 \contentsline {subsection}{\numberline {B.1.3}Agrégats d'entonnoir (mois type)}{79}{subsection.B.1.3}%
-\contentsline {section}{\numberline {B.2}Extraits d'Entretiens Clés (Anonymisés)}{79}{section.B.2}%
-\contentsline {section}{\numberline {B.3}Propositions Commerciales — Détails Agrégés}{79}{section.B.3}%
-\contentsline {section}{\numberline {B.4}Mesures et KPIs de Suivi (Pilotes)}{80}{section.B.4}%
-\contentsline {section}{\numberline {B.5}Cadre de Calcul ROI — Rappel Opérationnel}{80}{section.B.5}%
-\contentsline {chapter}{\numberline {C}Modèle d'Affaires Luwai}{81}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Business Model Canvas Évolutif}{81}{section.C.1}%
-\contentsline {subsection}{\numberline {C.1.1}Version 1.0 : Formation Pure (Juillet-Août 2025)}{81}{subsection.C.1.1}%
-\contentsline {subsection}{\numberline {C.1.2}Version 2.0 : Formation-Conseil (Août-Septembre 2025)}{81}{subsection.C.1.2}%
-\contentsline {subsection}{\numberline {C.1.3}Version 3.0 : Service Intégré Formation-Conseil-Delivery (Septembre-Octobre 2025)}{82}{subsection.C.1.3}%
-\contentsline {section}{\numberline {C.2}Pricing et Packages Détaillés}{82}{section.C.2}%
-\contentsline {subsection}{\numberline {C.2.1}Architecture Tarifaire et Justifications Économiques}{82}{subsection.C.2.1}%
-\contentsline {subsection}{\numberline {C.2.2}Benchmarking Concurrentiel}{83}{subsection.C.2.2}%
-\contentsline {section}{\numberline {C.3}Pipeline Commercial et Prévisions}{83}{section.C.3}%
-\contentsline {subsection}{\numberline {C.3.1}Évolution du Pipeline (9 mois)}{83}{subsection.C.3.1}%
-\contentsline {subsection}{\numberline {C.3.2}Prévisions et Modélisation}{84}{subsection.C.3.2}%
-\contentsline {section}{\numberline {C.4}Indicateurs de Performance}{84}{section.C.4}%
-\contentsline {subsection}{\numberline {C.4.1}KPIs Commerciaux}{84}{subsection.C.4.1}%
-\contentsline {subsection}{\numberline {C.4.2}KPIs Opérationnels}{84}{subsection.C.4.2}%
-\contentsline {subsection}{\numberline {C.4.3}Métriques ROI Client Documentées}{85}{subsection.C.4.3}%
-\contentsline {chapter}{\numberline {D}Analyse Sectorielle Approfondie}{86}{appendix.D}%
-\contentsline {section}{\numberline {D.1}Cartographie Concurrentielle Détaillée}{86}{section.D.1}%
-\contentsline {subsection}{\numberline {D.1.1}Grands Cabinets de Conseil (Tier 1)}{86}{subsection.D.1.1}%
-\contentsline {subsection}{\numberline {D.1.2}ESN et Intégrateurs Traditionnels}{86}{subsection.D.1.2}%
-\contentsline {subsection}{\numberline {D.1.3}Boutiques Spécialisées IA}{87}{subsection.D.1.3}%
-\contentsline {subsection}{\numberline {D.1.4}Organismes de Formation et CCI}{87}{subsection.D.1.4}%
-\contentsline {subsection}{\numberline {D.1.5}Positionnement Concurrentiel de Luwai}{88}{subsection.D.1.5}%
-\contentsline {section}{\numberline {D.2}Benchmark International : France vs US vs Europe}{88}{section.D.2}%
-\contentsline {subsection}{\numberline {D.2.1}Modèle Américain : "Technology-First"}{88}{subsection.D.2.1}%
-\contentsline {subsection}{\numberline {D.2.2}Modèle Allemand : "Engineering-First"}{88}{subsection.D.2.2}%
-\contentsline {subsection}{\numberline {D.2.3}Modèle Français : "Human-Centric"}{89}{subsection.D.2.3}%
-\contentsline {subsection}{\numberline {D.2.4}Implications pour les Entrepreneurs Français}{89}{subsection.D.2.4}%
-\contentsline {section}{\numberline {D.3}Analyse Réglementaire : IA Act et RGPD}{90}{section.D.3}%
-\contentsline {subsection}{\numberline {D.3.1}Impact de l'IA Act Européen (2024-2027)}{90}{subsection.D.3.1}%
+\contentsline {section}{\numberline {B.2}Extraits d'entretiens clés (anonymisés)}{79}{section.B.2}%
+\contentsline {section}{\numberline {B.3}Propositions commerciales — détails agrégés}{79}{section.B.3}%
+\contentsline {section}{\numberline {B.4}Mesures et KPIs de suivi (pilotes)}{80}{section.B.4}%
+\contentsline {section}{\numberline {B.5}Cadre de calcul ROI — rappel opérationnel}{80}{section.B.5}%
+\contentsline {chapter}{\numberline {C}Modèle d'affaires Luwai}{81}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Business Model Canvas évolutif}{81}{section.C.1}%
+\contentsline {subsection}{\numberline {C.1.1}Version 1.0 : Formation pure (juillet-août 2025)}{81}{subsection.C.1.1}%
+\contentsline {subsection}{\numberline {C.1.2}Version 2.0 : Formation-conseil (août-septembre 2025)}{81}{subsection.C.1.2}%
+\contentsline {subsection}{\numberline {C.1.3}Version 3.0 : Service intégré formation-conseil-delivery (septembre-octobre 2025)}{82}{subsection.C.1.3}%
+\contentsline {section}{\numberline {C.2}Pricing et packages détaillés}{83}{section.C.2}%
+\contentsline {subsection}{\numberline {C.2.1}Architecture tarifaire et justifications économiques}{83}{subsection.C.2.1}%
+\contentsline {subsection}{\numberline {C.2.2}Benchmarking concurrentiel}{83}{subsection.C.2.2}%
+\contentsline {section}{\numberline {C.3}Pipeline commercial et prévisions}{83}{section.C.3}%
+\contentsline {subsection}{\numberline {C.3.1}Évolution du pipeline (9 mois)}{83}{subsection.C.3.1}%
+\contentsline {subsection}{\numberline {C.3.2}Prévisions et modélisation}{84}{subsection.C.3.2}%
+\contentsline {section}{\numberline {C.4}Indicateurs de performance}{84}{section.C.4}%
+\contentsline {subsection}{\numberline {C.4.1}KPIs commerciaux}{84}{subsection.C.4.1}%
+\contentsline {subsection}{\numberline {C.4.2}KPIs opérationnels}{85}{subsection.C.4.2}%
+\contentsline {subsection}{\numberline {C.4.3}Métriques ROI client documentées}{85}{subsection.C.4.3}%
+\contentsline {chapter}{\numberline {D}Analyse sectorielle approfondie}{86}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Cartographie concurrentielle détaillée}{86}{section.D.1}%
+\contentsline {subsection}{\numberline {D.1.1}Grands cabinets de conseil (Tier 1)}{86}{subsection.D.1.1}%
+\contentsline {subsection}{\numberline {D.1.2}ESN et intégrateurs traditionnels}{86}{subsection.D.1.2}%
+\contentsline {subsection}{\numberline {D.1.3}Boutiques spécialisées IA}{87}{subsection.D.1.3}%
+\contentsline {subsection}{\numberline {D.1.4}Organismes de formation et CCI}{87}{subsection.D.1.4}%
+\contentsline {subsection}{\numberline {D.1.5}Positionnement concurrentiel de Luwai}{88}{subsection.D.1.5}%
+\contentsline {section}{\numberline {D.2}Benchmark international : France vs US vs Europe}{88}{section.D.2}%
+\contentsline {subsection}{\numberline {D.2.1}Modèle américain : "Technology-First"}{88}{subsection.D.2.1}%
+\contentsline {subsection}{\numberline {D.2.2}Modèle allemand : "Engineering-First"}{88}{subsection.D.2.2}%
+\contentsline {subsection}{\numberline {D.2.3}Modèle français : "Human-Centric"}{89}{subsection.D.2.3}%
+\contentsline {subsection}{\numberline {D.2.4}Implications pour les entrepreneurs français}{89}{subsection.D.2.4}%
+\contentsline {section}{\numberline {D.3}Analyse réglementaire : IA Act et RGPD}{90}{section.D.3}%
+\contentsline {subsection}{\numberline {D.3.1}Impact de l'IA Act européen (2024-2027)}{90}{subsection.D.3.1}%
 \contentsline {subsection}{\numberline {D.3.2}Implications RGPD pour l'IA}{90}{subsection.D.3.2}%
-\contentsline {subsection}{\numberline {D.3.3}Opportunités Business pour les Accompagnateurs}{91}{subsection.D.3.3}%
-\contentsline {chapter}{\numberline {E}Recommandations Opérationnelles}{92}{appendix.E}%
-\contentsline {section}{\numberline {E.1}Framework d'Évaluation ROI IA}{92}{section.E.1}%
-\contentsline {subsection}{\numberline {E.1.1}Matrice d'Évaluation Multidimensionnelle}{92}{subsection.E.1.1}%
-\contentsline {subsection}{\numberline {E.1.2}Cas d'Usage Typiques et Scoring}{93}{subsection.E.1.2}%
-\contentsline {subsection}{\numberline {E.1.3}Outils de Calcul ROI Détaillés}{93}{subsection.E.1.3}%
-\contentsline {section}{\numberline {E.2}Checklist Sélection Prestataire}{94}{section.E.2}%
-\contentsline {subsection}{\numberline {E.2.1}Critères d'Évaluation Pondérés}{94}{subsection.E.2.1}%
-\contentsline {subsection}{\numberline {E.2.2}Grille de Notation Détaillée}{94}{subsection.E.2.2}%
-\contentsline {subsection}{\numberline {E.2.3}Questions Types à Poser aux Prestataires}{95}{subsection.E.2.3}%
-\contentsline {section}{\numberline {E.3}Templates et Outils Pratiques}{95}{section.E.3}%
-\contentsline {subsection}{\numberline {E.3.1}Modèle de Cahier des Charges IA}{95}{subsection.E.3.1}%
-\contentsline {subsection}{\numberline {E.3.2}Grille d'Audit IA Interne}{96}{subsection.E.3.2}%
-\contentsline {subsection}{\numberline {E.3.3}Indicateurs de Suivi Projet}{96}{subsection.E.3.3}%
-\contentsline {subsection}{\numberline {E.3.4}Bonnes Pratiques Organisationnelles}{97}{subsection.E.3.4}%
+\contentsline {subsection}{\numberline {D.3.3}Opportunités business pour les accompagnateurs}{91}{subsection.D.3.3}%
+\contentsline {chapter}{\numberline {E}Recommandations opérationnelles}{92}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Framework d'évaluation ROI IA}{92}{section.E.1}%
+\contentsline {subsection}{\numberline {E.1.1}Matrice d'évaluation multidimensionnelle}{92}{subsection.E.1.1}%
+\contentsline {subsection}{\numberline {E.1.2}Cas d'usage typiques et scoring}{93}{subsection.E.1.2}%
+\contentsline {subsection}{\numberline {E.1.3}Outils de calcul ROI détaillés}{93}{subsection.E.1.3}%
+\contentsline {section}{\numberline {E.2}Checklist sélection prestataire}{94}{section.E.2}%
+\contentsline {subsection}{\numberline {E.2.1}Critères d'évaluation pondérés}{94}{subsection.E.2.1}%
+\contentsline {subsection}{\numberline {E.2.2}Grille de notation détaillée}{94}{subsection.E.2.2}%
+\contentsline {subsection}{\numberline {E.2.3}Questions types à poser aux prestataires}{95}{subsection.E.2.3}%
+\contentsline {section}{\numberline {E.3}Templates et outils pratiques}{95}{section.E.3}%
+\contentsline {subsection}{\numberline {E.3.1}Modèle de cahier des charges IA}{95}{subsection.E.3.1}%
+\contentsline {subsection}{\numberline {E.3.2}Grille d'audit IA interne}{96}{subsection.E.3.2}%
+\contentsline {subsection}{\numberline {E.3.3}Indicateurs de suivi projet}{96}{subsection.E.3.3}%
+\contentsline {subsection}{\numberline {E.3.4}Bonnes pratiques organisationnelles}{97}{subsection.E.3.4}%
