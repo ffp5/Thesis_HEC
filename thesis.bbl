@@ -1436,6 +1436,47 @@
     \field{year}{2023}
   \endentry
 
+  \entry{ransbotham2023expanding}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RS}{%
+         family={Ransbotham},
+         familyi={R\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kiron},
+         familyi={K\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Prentice},
+         familyi={P\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Domingos},
+         familyi={D\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RS+1}
+    \strng{fullhash}{RSKDPPDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 29}
+    \field{title}{Expanding AI's Impact with Organizational Learning}
+    \field{volume}{64}
+    \field{journaltitle}{MIT Sloan Management Review}
+    \field{year}{2023}
+  \endentry
+
   \entry{bertolucci2024artificial}{article}{}
     \name{author}{1}{}{%
       {{hash=BM}{%
@@ -1456,6 +1497,40 @@
     \field{title}{Artificial Intelligence Implementation in French Public Administration}
     \field{volume}{84}
     \field{journaltitle}{Public Administration Review}
+    \field{year}{2024}
+  \endentry
+
+  \entry{chen2024airam}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Martinez},
+         familyi={M\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLWSMR1}
+    \strng{fullhash}{CLWSMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{pages}{113\bibrangedash 128}
+    \field{title}{AIRAM: Artificial Intelligence Readiness and Adoption Model for Enterprise Implementation}
+    \field{volume}{156}
+    \field{journaltitle}{Journal of Business Research}
     \field{year}{2024}
   \endentry
 
@@ -1749,6 +1824,27 @@
     \field{year}{2024}
   \endentry
 
+  \entry{psicosmart2024resistance}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=P}{%
+         family={PsicoSmart},
+         familyi={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{P1}
+    \strng{fullhash}{P1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{Comment les entreprises peuvent-elles surmonter les obstacles à l'adoption technologique}
+    \verb{url}
+    \verb https://psico-smart.com/fr/blogs/blog-comment-les-entreprises-peuvent
+    \verb elles-surmonter-les-obstacles-a-ladoption-technologique-81530
+    \endverb
+    \field{year}{2024}
+  \endentry
+
   \entry{hubspot2024sales}{misc}{}
     \name{author}{1}{}{%
       {{hash=RH}{%
@@ -1838,6 +1934,27 @@
     \field{year}{2024}
   \endentry
 
+  \entry{vorecol2024resistance}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={Vorecol},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{La résistance au changement technologique : psychologie et stratégies de soutien}
+    \verb{url}
+    \verb https://vorecol.com/fr/blogs/blog-la-resistance-au-changement-technol
+    \verb ogique-psychologie-et-strategies-de-soutien-165942
+    \endverb
+    \field{year}{2024}
+  \endentry
+
   \entry{wang2024data_governance}{article}{}
     \name{author}{3}{}{%
       {{hash=WL}{%
@@ -1871,6 +1988,28 @@
     \field{volume}{42}
     \field{journaltitle}{European Management Journal}
     \field{year}{2024}
+  \endentry
+
+  \entry{artimon2025theorie}{article}{}
+    \name{author}{1}{}{%
+      {{hash=A}{%
+         family={Artimon},
+         familyi={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{A1}
+    \strng{fullhash}{A1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{2}
+    \field{sortinithash}{2}
+    \field{title}{La théorie unifiée de l'acceptation et de l'utilisation de la technologie}
+    \verb{url}
+    \verb https://artimon.fr/perspectives/la-theorie-unifiee-de-lacceptation-et
+    \verb -de-lutilisation-de-la-technologie/
+    \endverb
+    \field{journaltitle}{Artimon Perspectives}
+    \field{year}{2025}
   \endentry
 
   \entry{sage2025pme_transformation}{misc}{}
