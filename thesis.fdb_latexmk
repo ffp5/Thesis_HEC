@@ -1,13 +1,15 @@
 # Fdb version 4
-["biber thesis"] 1759747756 "thesis.bcf" "thesis.bbl" "thesis" 1759748374 2
+["bibtex thesis"] 1759748982 "thesis.aux" "thesis.bbl" "thesis" 1759748982 2
   "./references.bib" 1759740910 23377 b0b2298de922e1f67df8f5b478e1a174 ""
-  "thesis.bcf" 1759748374 121601 9703921972e30a1e47d6cf6ad1dc51a8 "pdflatex"
+  "./thesis-blx.bib" 1759748981 343 2577d904cc9c7604dc1c686203b50a6c ""
+  "/usr/local/texlive/2023/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
+  "thesis.aux" 1759748981 60583 9c80b67517453d4d8c1f4b3ab9a2d122 "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1759748371 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1759748374 0
-  "/Users/florido/Desktop/Thesis/thesis.tex" 1759232717 6135 ed32f89803d976d4928f73aedd28f585 ""
+["pdflatex"] 1759748979 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1759748982 0
+  "/Users/florido/Desktop/Thesis/thesis.tex" 1759748972 6136 e2412d363f9712b8913e7afe94923afc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -102,6 +104,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg" 1342308459 69 249fa6df04d948e51b6d5c67bea30c42 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def" 1678141846 92527 8f6b3a677f74ea525477a813f33c4e65 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty" 1678141846 528517 7eed285c714f532e12ae48b360c080f8 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-bibtex.def" 1678141846 24610 e8a51da6c1318fc1c283dff9fb3c65a6 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" 1609451401 8433 72f8188742e7214b7068f345cd0287ac ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def" 1643926307 13919 5426dbe90e723f089052b4e908b56ef9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def" 1643926307 32455 8d3e554836db11aab80a8e11be62e1b1 ""
@@ -184,18 +187,18 @@
   "parts/luwai_case_study.tex" 1759742988 48401 65370d28e09b7fda098fa21e1401cea9 ""
   "parts/preface.tex" 1759748228 2798 1ea716b2fad2dca78349e5583b8fed36 ""
   "parts/recommendations.tex" 1759747911 7580 2d018bb9188c89c34c9c256b2f4bd7c5 ""
-  "parts/remerciements.tex" 1759748238 1846 096bc8bd8e15c3c64eab30d8b6abb503 ""
-  "thesis.aux" 1759748373 54970 da4b39b8215a4cc8a1baec48e5e08f85 "pdflatex"
-  "thesis.bbl" 1759747759 0 d41d8cd98f00b204e9800998ecf8427e "biber thesis"
-  "thesis.lof" 1759748374 249 6fe42a0ea2a984f3b0904d721672b112 "pdflatex"
-  "thesis.lot" 1759748374 1196 2454d8a58b4ad83320750d030af112bc "pdflatex"
-  "thesis.out" 1759748374 54944 199130aa0d05561abd91ff2f2b8735a9 "pdflatex"
-  "thesis.run.xml" 1759748374 2359 2d3169b2c5cc050cdea55e1f3e2e0fd1 "pdflatex"
-  "thesis.tex" 1759232717 6135 ed32f89803d976d4928f73aedd28f585 ""
-  "thesis.toc" 1759748374 23048 8d847c32c6df5e4b1c90845b46ad85be "pdflatex"
+  "parts/remerciements.tex" 1759748894 1856 56cd804c0200eae45929b85872b25bd6 ""
+  "thesis.aux" 1759748981 60583 9c80b67517453d4d8c1f4b3ab9a2d122 "pdflatex"
+  "thesis.bbl" 1759748982 65458 875f94e66ddfeb283ce9b8f6109ef54e "bibtex thesis"
+  "thesis.lof" 1759748981 249 6fe42a0ea2a984f3b0904d721672b112 "pdflatex"
+  "thesis.lot" 1759748981 1196 2454d8a58b4ad83320750d030af112bc "pdflatex"
+  "thesis.out" 1759748981 54944 199130aa0d05561abd91ff2f2b8735a9 "pdflatex"
+  "thesis.run.xml" 1759748981 2580 1f5b15e2ab0bc3813055e7b3f3ffe947 "pdflatex"
+  "thesis.tex" 1759748972 6136 e2412d363f9712b8913e7afe94923afc ""
+  "thesis.toc" 1759748981 23048 8d847c32c6df5e4b1c90845b46ad85be "pdflatex"
   (generated)
+  "thesis-blx.bib"
   "thesis.aux"
-  "thesis.bcf"
   "thesis.lof"
   "thesis.log"
   "thesis.lot"
