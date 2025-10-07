@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -915,12 +915,12 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-<images/logo.png, id=787, 893.3375pt x 289.08pt>
+<images/logo.png, id=4, 893.3375pt x 289.08pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 145.
 (pdftex.def)             Requested size: 165.31346pt x 53.49219pt.
-<images/X-HEC image.jpg, id=789, 273.02pt x 204.765pt>
+<images/X-HEC image.jpg, id=6, 273.02pt x 204.765pt>
 File: images/X-HEC image.jpg Graphic file (type jpg)
 <use images/X-HEC image.jpg>
 Package pdftex.def Info: images/X-HEC image.jpg  used on input line 149.
@@ -1033,25 +1033,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
 [6
 
-] (./thesis.toc [7
-
-
-] [8] [9] [10] [11])
+] (./thesis.toc)
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [12] (./thesis.lof)
+ [7
+
+
+] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [13
+ [8
 
 
 ] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [14
+ [9
 
 
 ] (./parts/introduction.tex
@@ -1415,397 +1415,397 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--1
 
 [20]
 Chapitre 3.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
 
  []
 
 [21
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 33--36
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
  []
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 56--60
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 62.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--80
-
- []
-
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 54--67
+
+ []
+
+[23{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--83
+
+ []
+
+[24{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--97
 
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 99--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--110
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
 
  []
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--121
-
- []
-
-[27]
-Overfull \hbox (21.48982pt too wide) in paragraph at lines 123--124
+Overfull \hbox (21.48982pt too wide) in paragraph at lines 110--111
 []\T1/lmr/m/n/12 (-20) L'analyse des be-soins ex-pri-més, des bé-né-fices consta-tés et des at-tentes clients/demandeurs/client
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--138
+Underfull \hbox (badness 10000) in paragraph at lines 114--125
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--139
 
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 141--152
+Underfull \hbox (badness 10000) in paragraph at lines 142--151
 
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 155--164
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--164
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--164
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--164
+Underfull \hbox (badness 10000) in paragraph at lines 158--167
 
  []
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--192
+Underfull \hbox (badness 10000) in paragraph at lines 170--179
 
  []
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 195--202
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--202
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--202
+Underfull \hbox (badness 10000) in paragraph at lines 182--189
 
  []
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\T1/lmr/m/n/12 (+20) Cabinets bou-tique IA,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 \T1/lmr/m/n/12 (+20) for-ma-teurs in-dé-pen-dants,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Boutiques IA, ca-bi-nets
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 218--218
+Underfull \hbox (badness 7851) in paragraph at lines 205--205
 []|\T1/lmr/m/n/12 (+20) POC/Minimum Viable Au-to-ma-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
 []|\T1/lmr/m/n/12 (+20) Monitoring qua-lité, évo-lu-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--224
+Underfull \hbox (badness 10000) in paragraph at lines 193--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--248
+Underfull \hbox (badness 10000) in paragraph at lines 214--235
 
  []
 
-[33] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 251--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--261
+[32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 238--248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--261
+Underfull \hbox (badness 10000) in paragraph at lines 238--248
 
  []
 
-[35]
-Overfull \hbox (60.02928pt too wide) detected at line 278
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--248
+
+ []
+
+[34]
+Overfull \hbox (60.02928pt too wide) detected at line 265
 []
  []
 
-
-Overfull \hbox (1.55936pt too wide) in paragraph at lines 290--291
+[35{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+Overfull \hbox (1.55936pt too wide) in paragraph at lines 277--278
 []\T1/lmr/m/n/12 (-20) 35--65\TS1/lmr/m/n/12 (-20) ¿ \T1/lmr/m/n/12 (-20) se-lon sec-teur et qua-li-fi-ca-tion (don-nées IN-SEE 2025, charges
  []
 
-[36] [37]
-Underfull \hbox (badness 10000) in paragraph at lines 357--362
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 344--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 357--362
+Underfull \hbox (badness 10000) in paragraph at lines 344--349
 
  []
 
-[38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 402--407
+[37] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--407
+Underfull \hbox (badness 10000) in paragraph at lines 389--394
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 414--418
 
  []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 427--431
+Underfull \hbox (badness 10000) in paragraph at lines 426--429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--442
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 451--454
-
- []
-
-[41]) (./parts/luwai_case_study.tex [42]
+) (./parts/luwai_case_study.tex [41]
 Chapitre 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--19
@@ -1827,19 +1827,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--19
 
  []
 
-[43
+[42
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
-[44]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 
  []
 
-[45]
+[44]
 Underfull \hbox (badness 10000) in paragraph at lines 71--75
 
  []
@@ -1849,7 +1849,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
-[46]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 111--115
 
  []
@@ -1859,12 +1859,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--142
 
  []
 
-[47]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 165--169
 
  []
 
-[48]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 205--208
 
  []
@@ -1874,7 +1874,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--218
 
  []
 
-[49]
+[48]
 Underfull \hbox (badness 1033) in paragraph at lines 249--250
 []|\T1/lmr/m/n/12 (+20) Problème re-connu +
  []
@@ -1894,7 +1894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 268--271
 
  []
 
-[50]
+[49]
 Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
  []
@@ -1939,12 +1939,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--324
 
  []
 
-[51] [52]
+[50] [51]
 Underfull \hbox (badness 10000) in paragraph at lines 383--386
 
  []
 
-[53]
+[52]
 Overfull \hbox (16.45656pt too wide) in paragraph at lines 389--390
 []\T1/lmr/bx/n/12 (-20) Demographics \T1/lmr/m/n/12 (-20) : Dirigeant-propriétaire ou as-so-cié, 45-60 ans, for-ma-tion bu-si-ness/ingénieur 
  []
@@ -1959,12 +1959,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 419--422
 
  []
 
-[54]
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 447--451
 
  []
 
-[55]
+[54]
 Underfull \hbox (badness 2726) in paragraph at lines 480--481
 []|\T1/lmr/m/n/12 (+20) Surinformation mar-ché,
  []
@@ -2024,7 +2024,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 470--489
 
  []
 
-[56]
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 519--522
 
  []
@@ -2034,7 +2034,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 549--552
 
  []
 
-[57] [58]
+[56] [57]
 Underfull \hbox (badness 10000) in paragraph at lines 632--634
 
  []
@@ -2044,7 +2044,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 632--634
 
  []
 
-[59]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 650--658
 
  []
@@ -2059,7 +2059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 661--666
 
  []
 
-[60]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 672--675
 
  []
@@ -2119,13 +2119,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 688--1
 
  []
 
-[61] [62]
+[60] [61]
 Chapitre 5.
-[63
+[62
 
 ]
 
-LaTeX Warning: Reference `sec:roi_framework' on page 64 undefined on input line 31.
+LaTeX Warning: Reference `sec:roi_framework' on page 63 undefined on input line 31.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
@@ -2147,9 +2147,9 @@ Overfull \hbox (19.54674pt too wide) in alignment at lines 53--63
  [] [] [] [] [] 
  []
 
-[64]
+[63]
 
-LaTeX Warning: Reference `sec:roi_framework' on page 65 undefined on input line 64.
+LaTeX Warning: Reference `sec:roi_framework' on page 64 undefined on input line 64.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 82--82
@@ -2166,19 +2166,33 @@ Overfull \hbox (12.61815pt too wide) in alignment at lines 77--87
  [] [] [] 
  []
 
-[65]
+[64]
 Overfull \hbox (19.99179pt too wide) in paragraph at lines 109--110
 []\T1/lmr/m/n/12 (-20) Traçabilité : jour-na-li-sa-tion des prompts et out-puts ; do-cu-men-ta-tion des mo-dèles/fournisseurs. 
  []
 
-) (./parts/conclusion.tex [66]
+) (./parts/conclusion.tex [65]
 Chapitre 6.
-[67
+[66
 
-] [68]) [69] [70
+]
+
+LaTeX Warning: Reference `chap:field_diagnosis' on page 67 undefined on input line 51.
 
 
-] [71] [72]
+LaTeX Warning: Reference `chap:recommendations' on page 67 undefined on input line 53.
+
+[67]
+
+LaTeX Warning: Reference `chap:recommendations' on page 68 undefined on input line 63.
+
+
+LaTeX Warning: Reference `app:methodologie' on page 68 undefined on input line 68.
+
+) [68] [69
+
+
+] [70] [71]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 208.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2192,14 +2206,30 @@ Overfull \hbox (19.03827pt too wide) in paragraph at lines 208--208
 \T1/lmtt/m/n/12 comment -[] les -[] entreprises -[] peuventelles -[] surmonter -[] les -[] obstacles -[] a -[] ladoption -[]
  []
 
-[73] [74] [75] (./parts/appendix_methodology.tex [76
+[72] [73] [74] (./parts/appendix_methodology.tex [75
 
 
 ]
 Annexe A.
-[77
+
+LaTeX Warning: Reference `chap:field_diagnosis' on page 76 undefined on input line 4.
+
+
+LaTeX Warning: Reference `chap:recommendations' on page 76 undefined on input line 4.
+
+
+LaTeX Warning: Reference `app:data' on page 76 undefined on input line 25.
+
+[76
 
 ]
+
+LaTeX Warning: Reference `tab:codes_resistances' on page 77 undefined on input line 55.
+
+
+LaTeX Warning: Reference `tab:codes_opportunites' on page 77 undefined on input line 55.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []|\T1/lmr/m/n/12 (+20) Infrastructure le-gacy
  []
@@ -2209,7 +2239,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 []|\T1/lmr/m/n/12 (+20) Résistance gé-né-ra-tion-
  []
 
-[78]
+[77]
 Underfull \hbox (badness 1406) in paragraph at lines 83--83
 []|\T1/lmr/m/n/12 (+20) Formation / ac-cul-tu-ra-
  []
@@ -2229,12 +2259,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []|\T1/lmr/m/n/12 (+20) Automatisation back-
  []
 
+[78]
+
+LaTeX Warning: Reference `sec:roi_framework' on page 79 undefined on input line 124.
+
+
+LaTeX Warning: Reference `chap:recommendations' on page 79 undefined on input line 124.
+
 [79]
 
-LaTeX Warning: Reference `sec:roi_framework' on page 80 undefined on input line 124.
+LaTeX Warning: Reference `app:data' on page 80 undefined on input line 134.
 
-[80]) (./parts/appendix_data.tex [81]
+) (./parts/appendix_data.tex [80]
 Annexe B.
+
+LaTeX Warning: Reference `app:methodologie' on page 81 undefined on input line 4.
+
+
+LaTeX Warning: Reference `chap:field_diagnosis' on page 81 undefined on input line 4.
+
+
+LaTeX Warning: Reference `chap:recommendations' on page 81 undefined on input line 4.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 []|\T1/lmr/bx/n/12 (+20) Rendez-vous
@@ -2245,29 +2291,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []|\T1/lmr/m/n/12 (+20) Technologie/Digital (édi-teurs,
  []
 
-[82
+[81
 
-] [83]
+] [82]
 Overfull \hbox (35.38087pt too wide) in alignment at lines 72--82
  [] [] [] 
  []
 
 
-LaTeX Warning: Reference `sec:roi_framework' on page 84 undefined on input line 85.
+LaTeX Warning: Reference `sec:roi_framework' on page 83 undefined on input line 85.
 
 
-LaTeX Warning: Reference `sec:roi_framework' on page 84 undefined on input line 91.
+LaTeX Warning: Reference `sec:roi_framework' on page 83 undefined on input line 91.
 
-) (./parts/appendix_luwai_model.tex [84]
+) (./parts/appendix_luwai_model.tex [83]
 Annexe C.
-[85
+[84
 
 ]
 Overfull \hbox (39.33633pt too wide) in paragraph at lines 50--50
 |[]\T1/lmr/bx/n/14.4 (-20) Version 3.0 : Ser-vice in-té-gré formation-conseil-livraison (septembre-
  []
 
-[86]
+[85]
 Overfull \hbox (10.54039pt too wide) in paragraph at lines 88--89
 []\T1/lmr/bx/n/12 (-20) Accompagnement gou-ver-nance \T1/lmr/m/n/12 (-20) : 200-300 \TS1/lmr/m/n/12 (-20) ¿\T1/lmr/m/n/12 (-20) /jour ^^V Ex-per-tise ré-gle-men-taire RGPD/IA
  []
@@ -2277,12 +2323,12 @@ Overfull \hbox (13.85674pt too wide) in alignment at lines 100--109
  [] [] [] [] [] 
  []
 
-[87]
+[86]
 Underfull \hbox (badness 10000) in paragraph at lines 151--152
 []|\T1/lmr/bx/n/12 (+20) Benchmark
  []
 
-[88]
+[87]
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|\T1/lmr/m/n/12 (+20) Taux d'adop-tion post-
  []
@@ -2302,7 +2348,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 172--173
 []|\T1/lmr/m/n/12 (+20) Fidélisation éle-
  []
 
-) (./parts/appendix_sectoral_analysis.tex [89]
+) (./parts/appendix_sectoral_analysis.tex [88]
 Annexe D.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
@@ -2329,7 +2375,7 @@ Underfull \hbox (badness 2096) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 (+20) Positionnement tech-
  []
 
-[90
+[89
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
@@ -2361,7 +2407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []|\T1/lmr/bx/n/12 (+20) Positionnement
  []
 
-[91]
+[90]
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\T1/lmr/bx/n/12 (+20) Avantage concur-
  []
@@ -2371,7 +2417,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\T1/lmr/m/n/12 (+20) Agilité en-tre-pre-neu-
  []
 
-[92]
+[91]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Différenciation "human-
  []
@@ -2381,7 +2427,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 155--156
 []|\T1/lmr/m/n/12 (+20) Packages mo-du-laires, pri-
  []
 
-[93]
+[92]
 Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\T1/lmr/m/n/12 (+20) Consentement ex-pli-cite,
  []
@@ -2391,7 +2437,7 @@ Underfull \hbox (badness 2529) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Anonymisation, du-rée de
  []
 
-[94]) (./parts/appendix_operational_recommendations.tex [95]
+[93]) (./parts/appendix_operational_recommendations.tex [94]
 Annexe E.
 
 Underfull \hbox (badness 7433) in paragraph at lines 12--12
@@ -2423,7 +2469,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 []|\T1/lmr/m/n/12 (+20) 1=Risques éle-vés,
  []
 
-[96
+[95
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}]
 Underfull \hbox (badness 2351) in paragraph at lines 57--57
@@ -2445,7 +2491,7 @@ Overfull \hbox (3.22597pt too wide) in paragraph at lines 60--60
 []|\T1/lmr/m/n/12 (-20) Accompagnement| 
  []
 
-[97] [98]
+[96] [97]
 Underfull \hbox (badness 2626) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Contexte en-tre-
  []
@@ -2460,7 +2506,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 158--158
 []|\T1/lmr/m/n/12 (+20) Livrables at-ten-
  []
 
-[99]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []|\T1/lmr/m/n/12 (+20) Participation for-ma-
  []
@@ -2470,29 +2516,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Support uti-li-sa-teur,
  []
 
-[100]) [101] (./thesis.aux)
+[99]) [100] (./thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A6BF3F60DF93D35CE58FB520B55FE09D;52555.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  C096D5378766C0CC12BDA86386261686;52555.
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                thesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26703 strings out of 476025
- 471993 string characters out of 5790018
+ 26491 strings out of 476025
+ 468671 string characters out of 5790018
  1873388 words of memory out of 5000000
- 45802 multiletter control sequences out of 15000+600000
+ 45605 multiletter control sequences out of 15000+600000
  603988 words of font info for 278 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,76p,1913b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,76p,1913b,1870s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (116 pages, 610376 bytes).
+Output written on thesis.pdf (110 pages, 576084 bytes).
 PDF statistics:
- 2149 PDF objects out of 2487 (max. 8388607)
- 1979 compressed objects within 20 object streams
- 548 named destinations out of 1000 (max. 500000)
- 53283 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1298 PDF objects out of 1440 (max. 8388607)
+ 1142 compressed objects within 12 object streams
+ 533 named destinations out of 1000 (max. 500000)
+ 51723 words of extra memory for PDF output out of 61914 (max. 10000000)
 
