@@ -2056,8 +2056,8 @@
     \verb ans%20les%20PME%20et%20ETI%20françaises_Etude%20Bpifrance%20Le%20Lab
     \verb .pdf
     \endverb
+    \field{month}{06}
     \field{year}{2025}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{luwai2025segmentation}{misc}{}

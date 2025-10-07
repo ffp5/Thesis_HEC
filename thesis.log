@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -863,13 +863,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
- (./thesis.bbl
-
-Package biblatex Warning: BibTeX reported the following issues
-(biblatex)                with 'bpifrance2025ia':
-(biblatex)                - Invalid format of field 'month'.
-
-)
+ (./thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 92.
 Package biblatex Info: Reference segment=0 on input line 92.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 106.
@@ -1761,47 +1755,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--248
  []
 
 [34]
-Overfull \hbox (60.02928pt too wide) detected at line 265
+Overfull \hbox (60.02928pt too wide) detected at line 266
 []
  []
 
 [35{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Overfull \hbox (1.55936pt too wide) in paragraph at lines 277--278
+Overfull \hbox (1.55936pt too wide) in paragraph at lines 278--279
 []\T1/lmr/m/n/12 (-20) 35--65\TS1/lmr/m/n/12 (-20) ¿ \T1/lmr/m/n/12 (-20) se-lon sec-teur et qua-li-fi-ca-tion (don-nées IN-SEE 2025, charges
  []
 
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 344--349
+Underfull \hbox (badness 10000) in paragraph at lines 345--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--349
+Underfull \hbox (badness 10000) in paragraph at lines 345--350
 
  []
 
 [37] [38]
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+Underfull \hbox (badness 10000) in paragraph at lines 390--395
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+Underfull \hbox (badness 10000) in paragraph at lines 390--395
 
  []
 
 [39]
-Underfull \hbox (badness 10000) in paragraph at lines 414--418
+Underfull \hbox (badness 10000) in paragraph at lines 415--419
 
  []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 426--429
+Underfull \hbox (badness 10000) in paragraph at lines 427--430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--441
+Underfull \hbox (badness 10000) in paragraph at lines 439--442
 
  []
 
@@ -2541,15 +2535,15 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26491 strings out of 476025
- 468671 string characters out of 5790018
- 1873388 words of memory out of 5000000
+ 26495 strings out of 476025
+ 468719 string characters out of 5790018
+ 1872388 words of memory out of 5000000
  45605 multiletter control sequences out of 15000+600000
- 603988 words of font info for 278 fonts, out of 8000000 for 9000
+ 604214 words of font info for 280 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,76p,1913b,1870s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (110 pages, 576084 bytes).
+Output written on thesis.pdf (110 pages, 576074 bytes).
 PDF statistics:
  1298 PDF objects out of 1440 (max. 8388607)
  1142 compressed objects within 12 object streams
