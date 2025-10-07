@@ -926,10 +926,10 @@ INPUT ./thesis.out
 INPUT thesis.out
 INPUT ./thesis.out
 INPUT thesis.out
+OUTPUT thesis.pdf
 INPUT ./thesis.out
 INPUT ./thesis.out
 OUTPUT thesis.out
-OUTPUT thesis.pdf
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,12 +909,12 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-<images/logo.png, id=4, 893.3375pt x 289.08pt>
+<images/logo.png, id=787, 893.3375pt x 289.08pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 145.
 (pdftex.def)             Requested size: 165.31346pt x 53.49219pt.
-<images/X-HEC image.jpg, id=6, 273.02pt x 204.765pt>
+<images/X-HEC image.jpg, id=789, 273.02pt x 204.765pt>
 File: images/X-HEC image.jpg Graphic file (type jpg)
 <use images/X-HEC image.jpg>
 Package pdftex.def Info: images/X-HEC image.jpg  used on input line 149.
@@ -1027,25 +1027,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
 [6
 
-] (./thesis.toc)
+] (./thesis.toc [7
+
+
+] [8] [9] [10] [11])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [7
-
-
-] (./thesis.lof)
+ [12] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [8
+ [13
 
 
 ] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [9
+ [14
 
 
 ] (./parts/introduction.tex
@@ -2118,10 +2118,6 @@ Chapitre 5.
 [62
 
 ]
-
-LaTeX Warning: Reference `sec:roi_framework' on page 63 undefined on input line 31.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/lmr/bx/n/12 (+20) Impact
  []
@@ -2142,10 +2138,6 @@ Overfull \hbox (19.54674pt too wide) in alignment at lines 53--63
  []
 
 [63]
-
-LaTeX Warning: Reference `sec:roi_framework' on page 64 undefined on input line 64.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []|\T1/lmr/m/n/12 (+20) Heures ga-
  []
@@ -2169,21 +2161,7 @@ Overfull \hbox (19.99179pt too wide) in paragraph at lines 109--110
 Chapitre 6.
 [66
 
-]
-
-LaTeX Warning: Reference `chap:field_diagnosis' on page 67 undefined on input line 51.
-
-
-LaTeX Warning: Reference `chap:recommendations' on page 67 undefined on input line 53.
-
-[67]
-
-LaTeX Warning: Reference `chap:recommendations' on page 68 undefined on input line 63.
-
-
-LaTeX Warning: Reference `app:methodologie' on page 68 undefined on input line 68.
-
-) [68] [69
+] [67]) [68] [69
 
 
 ] [70] [71]
@@ -2205,25 +2183,9 @@ Overfull \hbox (19.03827pt too wide) in paragraph at lines 208--208
 
 ]
 Annexe A.
-
-LaTeX Warning: Reference `chap:field_diagnosis' on page 76 undefined on input line 4.
-
-
-LaTeX Warning: Reference `chap:recommendations' on page 76 undefined on input line 4.
-
-
-LaTeX Warning: Reference `app:data' on page 76 undefined on input line 25.
-
 [76
 
 ]
-
-LaTeX Warning: Reference `tab:codes_resistances' on page 77 undefined on input line 55.
-
-
-LaTeX Warning: Reference `tab:codes_opportunites' on page 77 undefined on input line 55.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []|\T1/lmr/m/n/12 (+20) Infrastructure le-gacy
  []
@@ -2253,28 +2215,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []|\T1/lmr/m/n/12 (+20) Automatisation back-
  []
 
-[78]
-
-LaTeX Warning: Reference `sec:roi_framework' on page 79 undefined on input line 124.
-
-
-LaTeX Warning: Reference `chap:recommendations' on page 79 undefined on input line 124.
-
-[79]
-
-LaTeX Warning: Reference `app:data' on page 80 undefined on input line 134.
-
-) (./parts/appendix_data.tex [80]
+[78] [79]) (./parts/appendix_data.tex [80]
 Annexe B.
-
-LaTeX Warning: Reference `app:methodologie' on page 81 undefined on input line 4.
-
-
-LaTeX Warning: Reference `chap:field_diagnosis' on page 81 undefined on input line 4.
-
-
-LaTeX Warning: Reference `chap:recommendations' on page 81 undefined on input line 4.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 []|\T1/lmr/bx/n/12 (+20) Rendez-vous
@@ -2291,12 +2233,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
 Overfull \hbox (35.38087pt too wide) in alignment at lines 72--82
  [] [] [] 
  []
-
-
-LaTeX Warning: Reference `sec:roi_framework' on page 83 undefined on input line 85.
-
-
-LaTeX Warning: Reference `sec:roi_framework' on page 83 undefined on input line 91.
 
 ) (./parts/appendix_luwai_model.tex [83]
 Annexe C.
@@ -2511,42 +2447,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
  []
 
 [99]) [100] (./thesis.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  C096D5378766C0CC12BDA86386261686;52555.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                thesis
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: C096D5378766C0CC12BDA86386261686;52555.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26495 strings out of 476025
- 468719 string characters out of 5790018
- 1872388 words of memory out of 5000000
- 45605 multiletter control sequences out of 15000+600000
+ 26697 strings out of 476025
+ 471902 string characters out of 5790018
+ 1873388 words of memory out of 5000000
+ 45802 multiletter control sequences out of 15000+600000
  604214 words of font info for 280 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,76p,1913b,1870s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,76p,1913b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (110 pages, 576074 bytes).
+Output written on thesis.pdf (115 pages, 609033 bytes).
 PDF statistics:
- 1298 PDF objects out of 1440 (max. 8388607)
- 1142 compressed objects within 12 object streams
- 533 named destinations out of 1000 (max. 500000)
- 51723 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2138 PDF objects out of 2487 (max. 8388607)
+ 1969 compressed objects within 20 object streams
+ 538 named destinations out of 1000 (max. 500000)
+ 53283 words of extra memory for PDF output out of 61914 (max. 10000000)
 
