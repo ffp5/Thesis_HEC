@@ -11,6 +11,11 @@
 *.cb
 *.cb2
 .*.lb
+*.bbl
+*.blg
+*.fdb_latexmk
+*.run.xml
+*.synctex.gz
 
 # LaTeX intermediate files
 *.dvi
@@ -18,18 +23,16 @@
 *-converted-to.*
 
 # Bibliography auxiliary files
-*.bbl
 *.bcf
-*.blg
 *-blx.aux
 *-blx.bib
-*.run.xml
+
+# PDF output file
+*.pdf
 
 # Build tool files
-*.fdb_latexmk
 *.synctex
 *.synctex(busy)
-*.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
 
@@ -59,10 +62,3 @@ Thumbs.db
 # Build directories
 build/
 out/
-
-# Optional: Comment out if you want to track the PDF
-# thesis.pdf
-
-# Keep the PDF but ignore other PDFs that might be generated
-# *.pdf
-# !thesis.pdf

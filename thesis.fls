@@ -1044,11 +1044,11 @@ INPUT ./parts/introduction.tex
 INPUT parts/introduction.tex
 INPUT ./parts/introduction.tex
 INPUT parts/introduction.tex
+INPUT ./parts/literature_review.tex
+INPUT parts/literature_review.tex
+INPUT ./parts/literature_review.tex
+INPUT parts/literature_review.tex
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT ./parts/literature_review.tex
-INPUT parts/literature_review.tex
-INPUT ./parts/literature_review.tex
-INPUT parts/literature_review.tex
 INPUT ./parts/field_diagnosis.tex
 INPUT parts/field_diagnosis.tex
 INPUT ./parts/field_diagnosis.tex
