@@ -1367,24 +1367,6 @@
     \field{year}{2022}
   \endentry
 
-  \entry{cnil2023ia}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=C}{%
-         family={{CNIL}},
-         familyi={C\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{C1}
-    \strng{fullhash}{C1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \field{note}{Note d'orientation}
-    \field{title}{Intelligence artificielle: recommandations et points de vigilance}
-    \field{year}{2023}
-  \endentry
-
   \entry{mckinsey2023consulting_ai}{report}{}
     \name{author}{1}{}{%
       {{hash=CM}{%
@@ -1616,42 +1598,6 @@
     \field{sortinit}{2}
     \field{sortinithash}{2}
     \field{title}{Professional Services Industry Benchmarks 2024}
-    \field{year}{2024}
-  \endentry
-
-  \entry{dinum2024guide}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=D}{%
-         family={{DINUM}},
-         familyi={D\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{D1}
-    \strng{fullhash}{D1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \field{note}{Direction interministérielle du numérique}
-    \field{title}{Guide pratique d'IA responsable pour les administrations}
-    \field{year}{2024}
-  \endentry
-
-  \entry{eu2024ai_act}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=E}{%
-         family={{European Union}},
-         familyi={E\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{E1}
-    \strng{fullhash}{E1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{2}
-    \field{sortinithash}{2}
-    \field{note}{Regulation adopted by the European Parliament and the Council}
-    \field{title}{Artificial Intelligence Act}
     \field{year}{2024}
   \endentry
 
