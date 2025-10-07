@@ -1,7 +1,7 @@
 \babel@toc {french}{}\relax 
-\contentsline {chapter}{Résumé Exécutif}{i}{chapter*.2}%
-\contentsline {chapter}{Préface}{iv}{chapter*.3}%
-\contentsline {chapter}{Remerciements}{vi}{chapter*.4}%
+\contentsline {chapter}{Résumé Exécutif}{i}{chapter*.3}%
+\contentsline {chapter}{Préface}{iv}{chapter*.4}%
+\contentsline {chapter}{Remerciements}{vi}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Contexte et enjeux}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problématique centrale}{2}{section.1.2}%
@@ -41,8 +41,8 @@
 \contentsline {subsection}{\numberline {2.6.2}Positionnement théorique de la recherche Luwai}{21}{subsection.2.6.2}%
 \contentsline {subsection}{\numberline {2.6.3}Implications pour les Parties Suivantes}{22}{subsection.2.6.3}%
 \contentsline {chapter}{\numberline {3}Diagnostic terrain : résistances et opportunités}{23}{chapter.3}%
-\contentsline {paragraph}{Gain mensuel}{23}{paragraph*.8}%
-\contentsline {paragraph}{ROI à 6 mois}{23}{paragraph*.9}%
+\contentsline {paragraph}{Gain mensuel}{23}{paragraph*.9}%
+\contentsline {paragraph}{ROI à 6 mois}{23}{paragraph*.10}%
 \contentsline {section}{\numberline {3.1}Méthodologie de Recherche Terrain}{24}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Cadre de Collecte et Échantillonnage}{24}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Protocole d'Entretien et Analyse Qualitative}{25}{subsection.3.1.2}%
@@ -63,26 +63,26 @@
 \contentsline {subsection}{\numberline {3.5.1}Analyse Détaillée des Acteurs de l'Écosystème}{35}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}Dynamiques Concurrentielles et Stratégies de Positionnement}{37}{subsection.3.5.2}%
 \contentsline {subsection}{\numberline {3.5.3}Framework de Calcul du ROI et Méthodologie de Justification}{37}{subsection.3.5.3}%
-\contentsline {subsubsection}{Méthodologie de Calcul et Variables Clés}{38}{subsubsection*.11}%
-\contentsline {paragraph}{Définitions et formules de base}{38}{paragraph*.12}%
-\contentsline {paragraph}{Variables critiques et sources de données}{38}{paragraph*.13}%
-\contentsline {subsubsection}{Cas Type : PME Services B2B (40 salariés)}{38}{subsubsection*.14}%
-\contentsline {paragraph}{Hypothèses de calcul}{38}{paragraph*.15}%
-\contentsline {paragraph}{Calcul détaillé des gains mensuels}{38}{paragraph*.17}%
-\contentsline {paragraph}{ROI à 6 mois}{39}{paragraph*.18}%
+\contentsline {subsubsection}{Méthodologie de Calcul et Variables Clés}{38}{subsubsection*.12}%
+\contentsline {paragraph}{Définitions et formules de base}{38}{paragraph*.13}%
+\contentsline {paragraph}{Variables critiques et sources de données}{38}{paragraph*.14}%
+\contentsline {subsubsection}{Cas Type : PME Services B2B (40 salariés)}{38}{subsubsection*.15}%
+\contentsline {paragraph}{Hypothèses de calcul}{38}{paragraph*.16}%
+\contentsline {paragraph}{Calcul détaillé des gains mensuels}{38}{paragraph*.18}%
+\contentsline {paragraph}{ROI à 6 mois}{39}{paragraph*.19}%
 \contentsline {section}{\numberline {3.6}Analyse Sectorielle et Spécificités d'Adoption}{39}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Conseil et Services Professionnels : Adopteurs Naturels}{39}{subsection.3.6.1}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{39}{subsubsection*.19}%
-\contentsline {subsubsection}{Cas d'usage prioritaires et ROI observés}{40}{subsubsection*.20}%
-\contentsline {subsubsection}{Exemple type — Social Army Ltd}{40}{subsubsection*.21}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{39}{subsubsection*.20}%
+\contentsline {subsubsection}{Cas d'usage prioritaires et ROI observés}{40}{subsubsection*.21}%
+\contentsline {subsubsection}{Exemple type — Social Army Ltd}{40}{subsubsection*.22}%
 \contentsline {subsection}{\numberline {3.6.2}Industrie et Manufacturing : Adopteurs Prudents}{40}{subsection.3.6.2}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{40}{subsubsection*.22}%
-\contentsline {subsubsection}{Cas d'usage prioritaires}{41}{subsubsection*.23}%
-\contentsline {subsubsection}{Freins spécifiques identifiés}{41}{subsubsection*.24}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{40}{subsubsection*.23}%
+\contentsline {subsubsection}{Cas d'usage prioritaires}{41}{subsubsection*.24}%
+\contentsline {subsubsection}{Freins spécifiques identifiés}{41}{subsubsection*.25}%
 \contentsline {subsection}{\numberline {3.6.3}Services B2B Spécialisés : Adopteurs Opportunistes}{41}{subsection.3.6.3}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{41}{subsubsection*.25}%
-\contentsline {subsubsection}{Cas d'usage prioritaires}{41}{subsubsection*.26}%
-\contentsline {subsubsection}{Exemple type - Direction Communication Aesio}{42}{subsubsection*.27}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{41}{subsubsection*.26}%
+\contentsline {subsubsection}{Cas d'usage prioritaires}{41}{subsubsection*.27}%
+\contentsline {subsubsection}{Exemple type - Direction Communication Aesio}{42}{subsubsection*.28}%
 \contentsline {section}{\numberline {3.7}Synthèse : Vers un Modèle d'Adoption IA "à la Française"}{42}{section.3.7}%
 \contentsline {subsection}{\numberline {3.7.1}Primauté de l'Accompagnement Humain sur l'Expérimentation Individuelle}{42}{subsection.3.7.1}%
 \contentsline {subsection}{\numberline {3.7.2}Séquencement Formation-Adoption versus Technology-First}{43}{subsection.3.7.2}%
@@ -144,8 +144,8 @@
 \contentsline {section}{\numberline {6.5}Implications pour la gouvernance IA des PME-ETI}{71}{section.6.5}%
 \contentsline {section}{\numberline {6.6}Note réflexive sur la méthode}{71}{section.6.6}%
 \contentsline {section}{\numberline {6.7}Conclusion finale}{71}{section.6.7}%
-\contentsline {chapter}{Annexes}{78}{chapter*.31}%
-\contentsline {section}{Table des Annexes}{78}{appendix*.32}%
+\contentsline {chapter}{Annexes}{78}{chapter*.32}%
+\contentsline {section}{Table des Annexes}{78}{appendix*.33}%
 \contentsline {chapter}{\numberline {A}Méthodologie de recherche}{79}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Design de recherche et posture}{79}{section.A.1}%
 \contentsline {section}{\numberline {A.2}Échantillonnage et critères d'inclusion}{79}{section.A.2}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  6 OCT 2025 19:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  6 OCT 2025 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -915,9 +915,19 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
+<images/logo.png, id=820, 893.3375pt x 289.08pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 145.
+(pdftex.def)             Requested size: 170.71652pt x 55.24335pt.
+<images/X-HEC image.jpeg, id=822, 733.74126pt x 413.545pt>
+File: images/X-HEC image.jpeg Graphic file (type jpg)
+<use images/X-HEC image.jpeg>
+Package pdftex.def Info: images/X-HEC image.jpeg  used on input line 149.
+(pdftex.def)             Requested size: 170.71652pt x 96.21762pt.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./parts/executive_summary.tex
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./images/logo.png> <./images/X-HEC image.jpeg>] (./parts/executive_summary.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--16
 
  []
@@ -940,84 +950,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--16
 [1
 
 ] [2])
-Underfull \hbox (badness 10000) in paragraph at lines 21--156
+Underfull \hbox (badness 10000) in paragraph at lines 21--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--156
+Underfull \hbox (badness 10000) in paragraph at lines 21--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--156
+Underfull \hbox (badness 10000) in paragraph at lines 21--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--156
+Underfull \hbox (badness 10000) in paragraph at lines 21--170
 
  []
 
 [3] (./parts/preface.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 7--161
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--161
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--161
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--161
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--161
+Underfull \hbox (badness 10000) in paragraph at lines 7--175
 
  []
 
 [4
 
 ] [5] (./parts/remerciements.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--165
+Underfull \hbox (badness 10000) in paragraph at lines 1--179
 
  []
 
@@ -2133,7 +2143,7 @@ Chapitre 6.
 
 
 ] [73] [74]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 194.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 208.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2142,7 +2152,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (19.03827pt too wide) in paragraph at lines 194--194
+Overfull \hbox (19.03827pt too wide) in paragraph at lines 208--208
 \T1/lmtt/m/n/12 comment -[] les -[] entreprises -[] peuventelles -[] surmonter -[] les -[] obstacles -[] a -[] ladoption -[]
  []
 
@@ -2429,24 +2439,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 12F1792549CAF1609CFFF83B7E9D0750;55339.
+(rerunfilecheck)             Checksum: 7800DBE9658287B5937853F240C79F58;55339.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26697 strings out of 476025
- 471869 string characters out of 5790018
+ 26716 strings out of 476025
+ 472254 string characters out of 5790018
  1873388 words of memory out of 5000000
- 45797 multiletter control sequences out of 15000+600000
+ 45810 multiletter control sequences out of 15000+600000
  604182 words of font info for 280 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,76p,1913b,2271s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (118 pages, 533575 bytes).
+Output written on thesis.pdf (118 pages, 665164 bytes).
 PDF statistics:
- 2188 PDF objects out of 2487 (max. 8388607)
- 2018 compressed objects within 21 object streams
- 548 named destinations out of 1000 (max. 500000)
- 53337 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2193 PDF objects out of 2487 (max. 8388607)
+ 2020 compressed objects within 21 object streams
+ 549 named destinations out of 1000 (max. 500000)
+ 53347 words of extra memory for PDF output out of 61914 (max. 10000000)
 

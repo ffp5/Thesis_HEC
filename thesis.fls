@@ -1001,6 +1001,16 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
+INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT images/logo.png
+INPUT ./images/logo.png
+INPUT ./images/logo.png
+INPUT ./images/X-HEC image.jpeg
+INPUT ./images/X-HEC image.jpeg
+INPUT images/X-HEC image.jpeg
+INPUT ./images/X-HEC image.jpeg
+INPUT ./images/X-HEC image.jpeg
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT ./parts/executive_summary.tex
