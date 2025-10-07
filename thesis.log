@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 20:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2345,20 +2345,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [91
 
 ] [92]
-Overfull \hbox (35.38087pt too wide) in alignment at lines 72--82
+Overfull \hbox (35.38087pt too wide) in alignment at lines 73--83
  [] [] [] 
  []
 
-) (./parts/appendix_luwai_model.tex [93]
+[93]) (./parts/appendix_luwai_model.tex [94]
 Annexe C.
-[94
+[95
 
 ]
 Overfull \hbox (39.33633pt too wide) in paragraph at lines 50--50
 |[]\T1/lmr/bx/n/14.4 (-20) Version 3.0 : Ser-vice in-té-gré formation-conseil-livraison (septembre-
  []
 
-[95]
+[96]
 Overfull \hbox (10.54039pt too wide) in paragraph at lines 88--89
 []\T1/lmr/bx/n/12 (-20) Accompagnement gou-ver-nance \T1/lmr/m/n/12 (-20) : 200-300 \TS1/lmr/m/n/12 (-20) ¿\T1/lmr/m/n/12 (-20) /jour ^^V Ex-per-tise ré-gle-men-taire RGPD/IA
  []
@@ -2368,12 +2368,12 @@ Overfull \hbox (13.85674pt too wide) in alignment at lines 100--109
  [] [] [] [] [] 
  []
 
-[96]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 151--152
 []|\T1/lmr/bx/n/12 (+20) Benchmark
  []
 
-[97]
+[98]
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|\T1/lmr/m/n/12 (+20) Taux d'adop-tion post-
  []
@@ -2393,7 +2393,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 172--173
 []|\T1/lmr/m/n/12 (+20) Fidélisation éle-
  []
 
-) (./parts/appendix_sectoral_analysis.tex [98]
+) (./parts/appendix_sectoral_analysis.tex [99]
 Annexe D.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
@@ -2420,7 +2420,7 @@ Underfull \hbox (badness 2096) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 (+20) Positionnement tech-
  []
 
-[99
+[100
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
@@ -2452,7 +2452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []|\T1/lmr/bx/n/12 (+20) Positionnement
  []
 
-[100]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\T1/lmr/bx/n/12 (+20) Avantage concur-
  []
@@ -2462,7 +2462,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\T1/lmr/m/n/12 (+20) Agilité en-tre-pre-neu-
  []
 
-[101]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Différenciation "human-
  []
@@ -2472,7 +2472,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 155--156
 []|\T1/lmr/m/n/12 (+20) Packages mo-du-laires, pri-
  []
 
-[102]
+[103]
 Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\T1/lmr/m/n/12 (+20) Consentement ex-pli-cite,
  []
@@ -2482,7 +2482,7 @@ Underfull \hbox (badness 2529) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Anonymisation, du-rée de
  []
 
-[103]) (./parts/appendix_operational_recommendations.tex [104]
+[104]) (./parts/appendix_operational_recommendations.tex [105]
 Annexe E.
 
 Underfull \hbox (badness 7433) in paragraph at lines 12--12
@@ -2514,7 +2514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 []|\T1/lmr/m/n/12 (+20) 1=Risques éle-vés,
  []
 
-[105
+[106
 
 ]
 Underfull \hbox (badness 2351) in paragraph at lines 57--57
@@ -2536,7 +2536,7 @@ Overfull \hbox (3.22597pt too wide) in paragraph at lines 60--60
 []|\T1/lmr/m/n/12 (-20) Accompagnement| 
  []
 
-[106] [107]
+[107] [108]
 Underfull \hbox (badness 2626) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Contexte en-tre-
  []
@@ -2551,7 +2551,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 158--158
 []|\T1/lmr/m/n/12 (+20) Livrables at-ten-
  []
 
-[108]
+[109]
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []|\T1/lmr/m/n/12 (+20) Participation for-ma-
  []
@@ -2561,7 +2561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Support uti-li-sa-teur,
  []
 
-[109]) [110] (./thesis.aux)
+[110]) [111] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 04DC14546A6DDAF3B40317B9CF0765E8;51337.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
@@ -2569,18 +2569,18 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26713 strings out of 476025
- 471688 string characters out of 5790018
+ 26714 strings out of 476025
+ 471696 string characters out of 5790018
  1873388 words of memory out of 5000000
  45792 multiletter control sequences out of 15000+600000
  610616 words of font info for 288 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1913b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (125 pages, 667273 bytes).
+Output written on thesis.pdf (126 pages, 667757 bytes).
 PDF statistics:
- 2172 PDF objects out of 2487 (max. 8388607)
- 1991 compressed objects within 20 object streams
- 550 named destinations out of 1000 (max. 500000)
+ 2176 PDF objects out of 2487 (max. 8388607)
+ 1994 compressed objects within 20 object streams
+ 551 named destinations out of 1000 (max. 500000)
  57339 words of extra memory for PDF output out of 61914 (max. 10000000)
 

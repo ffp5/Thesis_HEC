@@ -168,48 +168,48 @@
 \contentsline {section}{\numberline {B.3}Propositions commerciales — détails agrégés}{92}{section.B.3}%
 \contentsline {section}{\numberline {B.4}Mesures et KPIs de suivi (pilotes)}{93}{section.B.4}%
 \contentsline {section}{\numberline {B.5}Cadre de calcul ROI — rappel opérationnel}{93}{section.B.5}%
-\contentsline {chapter}{\numberline {C}Modèle d’affaires Luwai}{94}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Business Model Canvas évolutif}{94}{section.C.1}%
-\contentsline {subsection}{\numberline {C.1.1}Version 1.0 : Formation pure (juillet-août 2025)}{94}{subsection.C.1.1}%
-\contentsline {subsection}{\numberline {C.1.2}Version 2.0 : Formation-conseil (août-septembre 2025)}{94}{subsection.C.1.2}%
-\contentsline {subsection}{\numberline {C.1.3}Version 3.0 : Service intégré formation-conseil-livraison (septembre-octobre 2025)}{95}{subsection.C.1.3}%
-\contentsline {section}{\numberline {C.2}Tarification et packages détaillés}{96}{section.C.2}%
-\contentsline {subsection}{\numberline {C.2.1}Architecture tarifaire et justifications économiques}{96}{subsection.C.2.1}%
-\contentsline {subsection}{\numberline {C.2.2}Benchmarking concurrentiel}{96}{subsection.C.2.2}%
-\contentsline {section}{\numberline {C.3}Pipeline commercial et prévisions}{96}{section.C.3}%
-\contentsline {subsection}{\numberline {C.3.1}Évolution du pipeline (9 mois)}{96}{subsection.C.3.1}%
-\contentsline {subsection}{\numberline {C.3.2}Prévisions et modélisation}{97}{subsection.C.3.2}%
-\contentsline {section}{\numberline {C.4}Indicateurs de performance}{97}{section.C.4}%
-\contentsline {subsection}{\numberline {C.4.1}KPIs commerciaux}{97}{subsection.C.4.1}%
-\contentsline {subsection}{\numberline {C.4.2}KPIs opérationnels}{98}{subsection.C.4.2}%
-\contentsline {subsection}{\numberline {C.4.3}Métriques ROI client documentées}{98}{subsection.C.4.3}%
-\contentsline {chapter}{\numberline {D}Analyse sectorielle approfondie}{99}{appendix.D}%
-\contentsline {section}{\numberline {D.1}Cartographie concurrentielle détaillée}{99}{section.D.1}%
-\contentsline {subsection}{\numberline {D.1.1}Grands cabinets de conseil (Tier 1)}{99}{subsection.D.1.1}%
-\contentsline {subsection}{\numberline {D.1.2}ESN et intégrateurs traditionnels}{99}{subsection.D.1.2}%
-\contentsline {subsection}{\numberline {D.1.3}Boutiques spécialisées IA}{100}{subsection.D.1.3}%
-\contentsline {subsection}{\numberline {D.1.4}Organismes de formation et CCI}{100}{subsection.D.1.4}%
-\contentsline {subsection}{\numberline {D.1.5}Positionnement concurrentiel de Luwai}{101}{subsection.D.1.5}%
-\contentsline {section}{\numberline {D.2}Benchmark international : France vs US vs Europe}{101}{section.D.2}%
-\contentsline {subsection}{\numberline {D.2.1}Modèle américain : "Technology-First"}{101}{subsection.D.2.1}%
-\contentsline {subsection}{\numberline {D.2.2}Modèle allemand : "Engineering-First"}{101}{subsection.D.2.2}%
-\contentsline {subsection}{\numberline {D.2.3}Modèle français : "Human-Centric"}{102}{subsection.D.2.3}%
-\contentsline {subsection}{\numberline {D.2.4}Implications pour les entrepreneurs français}{102}{subsection.D.2.4}%
-\contentsline {section}{\numberline {D.3}Analyse réglementaire : IA Act et RGPD}{103}{section.D.3}%
-\contentsline {subsection}{\numberline {D.3.1}Impact de l'IA Act européen (2024-2027)}{103}{subsection.D.3.1}%
-\contentsline {subsection}{\numberline {D.3.2}Implications RGPD pour l'IA}{103}{subsection.D.3.2}%
-\contentsline {subsection}{\numberline {D.3.3}Opportunités business pour les accompagnateurs}{104}{subsection.D.3.3}%
-\contentsline {chapter}{\numberline {E}Recommandations opérationnelles}{105}{appendix.E}%
-\contentsline {section}{\numberline {E.1}Framework d'évaluation ROI IA}{105}{section.E.1}%
-\contentsline {subsection}{\numberline {E.1.1}Matrice d'évaluation multidimensionnelle}{105}{subsection.E.1.1}%
-\contentsline {subsection}{\numberline {E.1.2}Cas d'usage typiques et scoring}{106}{subsection.E.1.2}%
-\contentsline {subsection}{\numberline {E.1.3}Outils de calcul ROI détaillés}{106}{subsection.E.1.3}%
-\contentsline {section}{\numberline {E.2}Checklist sélection prestataire}{107}{section.E.2}%
-\contentsline {subsection}{\numberline {E.2.1}Critères d'évaluation pondérés}{107}{subsection.E.2.1}%
-\contentsline {subsection}{\numberline {E.2.2}Grille de notation détaillée}{107}{subsection.E.2.2}%
-\contentsline {subsection}{\numberline {E.2.3}Questions types à poser aux prestataires}{108}{subsection.E.2.3}%
-\contentsline {section}{\numberline {E.3}Templates et outils pratiques}{108}{section.E.3}%
-\contentsline {subsection}{\numberline {E.3.1}Modèle de cahier des charges IA}{108}{subsection.E.3.1}%
-\contentsline {subsection}{\numberline {E.3.2}Grille d'audit IA interne}{109}{subsection.E.3.2}%
-\contentsline {subsection}{\numberline {E.3.3}Indicateurs de suivi projet}{109}{subsection.E.3.3}%
-\contentsline {subsection}{\numberline {E.3.4}Bonnes pratiques organisationnelles}{110}{subsection.E.3.4}%
+\contentsline {chapter}{\numberline {C}Modèle d’affaires Luwai}{95}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Business Model Canvas évolutif}{95}{section.C.1}%
+\contentsline {subsection}{\numberline {C.1.1}Version 1.0 : Formation pure (juillet-août 2025)}{95}{subsection.C.1.1}%
+\contentsline {subsection}{\numberline {C.1.2}Version 2.0 : Formation-conseil (août-septembre 2025)}{95}{subsection.C.1.2}%
+\contentsline {subsection}{\numberline {C.1.3}Version 3.0 : Service intégré formation-conseil-livraison (septembre-octobre 2025)}{96}{subsection.C.1.3}%
+\contentsline {section}{\numberline {C.2}Tarification et packages détaillés}{97}{section.C.2}%
+\contentsline {subsection}{\numberline {C.2.1}Architecture tarifaire et justifications économiques}{97}{subsection.C.2.1}%
+\contentsline {subsection}{\numberline {C.2.2}Benchmarking concurrentiel}{97}{subsection.C.2.2}%
+\contentsline {section}{\numberline {C.3}Pipeline commercial et prévisions}{97}{section.C.3}%
+\contentsline {subsection}{\numberline {C.3.1}Évolution du pipeline (9 mois)}{97}{subsection.C.3.1}%
+\contentsline {subsection}{\numberline {C.3.2}Prévisions et modélisation}{98}{subsection.C.3.2}%
+\contentsline {section}{\numberline {C.4}Indicateurs de performance}{98}{section.C.4}%
+\contentsline {subsection}{\numberline {C.4.1}KPIs commerciaux}{98}{subsection.C.4.1}%
+\contentsline {subsection}{\numberline {C.4.2}KPIs opérationnels}{99}{subsection.C.4.2}%
+\contentsline {subsection}{\numberline {C.4.3}Métriques ROI client documentées}{99}{subsection.C.4.3}%
+\contentsline {chapter}{\numberline {D}Analyse sectorielle approfondie}{100}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Cartographie concurrentielle détaillée}{100}{section.D.1}%
+\contentsline {subsection}{\numberline {D.1.1}Grands cabinets de conseil (Tier 1)}{100}{subsection.D.1.1}%
+\contentsline {subsection}{\numberline {D.1.2}ESN et intégrateurs traditionnels}{100}{subsection.D.1.2}%
+\contentsline {subsection}{\numberline {D.1.3}Boutiques spécialisées IA}{101}{subsection.D.1.3}%
+\contentsline {subsection}{\numberline {D.1.4}Organismes de formation et CCI}{101}{subsection.D.1.4}%
+\contentsline {subsection}{\numberline {D.1.5}Positionnement concurrentiel de Luwai}{102}{subsection.D.1.5}%
+\contentsline {section}{\numberline {D.2}Benchmark international : France vs US vs Europe}{102}{section.D.2}%
+\contentsline {subsection}{\numberline {D.2.1}Modèle américain : "Technology-First"}{102}{subsection.D.2.1}%
+\contentsline {subsection}{\numberline {D.2.2}Modèle allemand : "Engineering-First"}{102}{subsection.D.2.2}%
+\contentsline {subsection}{\numberline {D.2.3}Modèle français : "Human-Centric"}{103}{subsection.D.2.3}%
+\contentsline {subsection}{\numberline {D.2.4}Implications pour les entrepreneurs français}{103}{subsection.D.2.4}%
+\contentsline {section}{\numberline {D.3}Analyse réglementaire : IA Act et RGPD}{104}{section.D.3}%
+\contentsline {subsection}{\numberline {D.3.1}Impact de l'IA Act européen (2024-2027)}{104}{subsection.D.3.1}%
+\contentsline {subsection}{\numberline {D.3.2}Implications RGPD pour l'IA}{104}{subsection.D.3.2}%
+\contentsline {subsection}{\numberline {D.3.3}Opportunités business pour les accompagnateurs}{105}{subsection.D.3.3}%
+\contentsline {chapter}{\numberline {E}Recommandations opérationnelles}{106}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Framework d'évaluation ROI IA}{106}{section.E.1}%
+\contentsline {subsection}{\numberline {E.1.1}Matrice d'évaluation multidimensionnelle}{106}{subsection.E.1.1}%
+\contentsline {subsection}{\numberline {E.1.2}Cas d'usage typiques et scoring}{107}{subsection.E.1.2}%
+\contentsline {subsection}{\numberline {E.1.3}Outils de calcul ROI détaillés}{107}{subsection.E.1.3}%
+\contentsline {section}{\numberline {E.2}Checklist sélection prestataire}{108}{section.E.2}%
+\contentsline {subsection}{\numberline {E.2.1}Critères d'évaluation pondérés}{108}{subsection.E.2.1}%
+\contentsline {subsection}{\numberline {E.2.2}Grille de notation détaillée}{108}{subsection.E.2.2}%
+\contentsline {subsection}{\numberline {E.2.3}Questions types à poser aux prestataires}{109}{subsection.E.2.3}%
+\contentsline {section}{\numberline {E.3}Templates et outils pratiques}{109}{section.E.3}%
+\contentsline {subsection}{\numberline {E.3.1}Modèle de cahier des charges IA}{109}{subsection.E.3.1}%
+\contentsline {subsection}{\numberline {E.3.2}Grille d'audit IA interne}{110}{subsection.E.3.2}%
+\contentsline {subsection}{\numberline {E.3.3}Indicateurs de suivi projet}{110}{subsection.E.3.3}%
+\contentsline {subsection}{\numberline {E.3.4}Bonnes pratiques organisationnelles}{111}{subsection.E.3.4}%
