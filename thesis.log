@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 OCT 2025 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  8 OCT 2025 13:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,12 +909,12 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-<images/logo.png, id=767, 893.3375pt x 289.08pt>
+<images/logo.png, id=763, 893.3375pt x 289.08pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 145.
 (pdftex.def)             Requested size: 165.31346pt x 53.49219pt.
-<images/X-HEC image.jpg, id=769, 273.02pt x 204.765pt>
+<images/X-HEC image.jpg, id=765, 273.02pt x 204.765pt>
 File: images/X-HEC image.jpg Graphic file (type jpg)
 <use images/X-HEC image.jpg>
 Package pdftex.def Info: images/X-HEC image.jpg  used on input line 149.
@@ -2222,7 +2222,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--55
 
  []
 
-[68] [69] [70]
+[68] [69]
 Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []|\T1/lmr/bx/n/12 (+20) Impact
  []
@@ -2242,7 +2242,7 @@ Overfull \hbox (19.54674pt too wide) in alignment at lines 61--71
  [] [] [] [] [] 
  []
 
-
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 76--79
 
  []
@@ -2262,11 +2262,11 @@ Overfull \hbox (12.61815pt too wide) in alignment at lines 90--100
  [] [] [] 
  []
 
-[72]) (./parts/conclusion.tex [73]
+) (./parts/conclusion.tex [72]
 Chapitre 6.
-[74
+[73
 
-] [75] [76])
+] [74] [75])
 Underfull \hbox (badness 10000) in paragraph at lines 72--203
 
  []
@@ -2276,10 +2276,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--203
 
  []
 
-[77] [78] [79
+[76] [77] [78
 
 
-] [80] [81]
+] [79] [80]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 208.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2293,12 +2293,12 @@ Overfull \hbox (19.03827pt too wide) in paragraph at lines 208--208
 \T1/lmtt/m/n/12 comment -[] les -[] entreprises -[] peuventelles -[] surmonter -[] les -[] obstacles -[] a -[] ladoption -[]
  []
 
-[82] [83] [84] (./parts/appendix_methodology.tex [85
+[81] [82] [83] (./parts/appendix_methodology.tex [84
 
 
 ]
 Annexe A.
-[86
+[85
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
@@ -2310,7 +2310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 []|\T1/lmr/m/n/12 (+20) Résistance gé-né-ra-tion-
  []
 
-[87]
+[86]
 Underfull \hbox (badness 1406) in paragraph at lines 83--83
 []|\T1/lmr/m/n/12 (+20) Formation / ac-cul-tu-ra-
  []
@@ -2330,7 +2330,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
 []|\T1/lmr/m/n/12 (+20) Automatisation back-
  []
 
-[88] [89]) (./parts/appendix_data.tex [90]
+[87] [88]) (./parts/appendix_data.tex [89]
 Annexe B.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
@@ -2342,23 +2342,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
 []|\T1/lmr/m/n/12 (+20) Technologie/Digital (édi-teurs,
  []
 
-[91
+[90
 
-] [92]
+] [91]
 Overfull \hbox (35.38087pt too wide) in alignment at lines 73--83
  [] [] [] 
  []
 
-[93]) (./parts/appendix_luwai_model.tex [94]
+[92]) (./parts/appendix_luwai_model.tex [93]
 Annexe C.
-[95
+[94
 
 ]
 Overfull \hbox (39.33633pt too wide) in paragraph at lines 50--50
 |[]\T1/lmr/bx/n/14.4 (-20) Version 3.0 : Ser-vice in-té-gré formation-conseil-livraison (septembre-
  []
 
-[96]
+[95]
 Overfull \hbox (10.54039pt too wide) in paragraph at lines 88--89
 []\T1/lmr/bx/n/12 (-20) Accompagnement gou-ver-nance \T1/lmr/m/n/12 (-20) : 200-300 \TS1/lmr/m/n/12 (-20) ¿\T1/lmr/m/n/12 (-20) /jour ^^V Ex-per-tise ré-gle-men-taire RGPD/IA
  []
@@ -2368,12 +2368,12 @@ Overfull \hbox (13.85674pt too wide) in alignment at lines 100--109
  [] [] [] [] [] 
  []
 
-[97]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 151--152
 []|\T1/lmr/bx/n/12 (+20) Benchmark
  []
 
-[98]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []|\T1/lmr/m/n/12 (+20) Taux d'adop-tion post-
  []
@@ -2393,7 +2393,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 172--173
 []|\T1/lmr/m/n/12 (+20) Fidélisation éle-
  []
 
-) (./parts/appendix_sectoral_analysis.tex [99]
+) (./parts/appendix_sectoral_analysis.tex [98]
 Annexe D.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
@@ -2420,7 +2420,7 @@ Underfull \hbox (badness 2096) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 (+20) Positionnement tech-
  []
 
-[100
+[99
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
@@ -2452,7 +2452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []|\T1/lmr/bx/n/12 (+20) Positionnement
  []
 
-[101]
+[100]
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\T1/lmr/bx/n/12 (+20) Avantage concur-
  []
@@ -2462,7 +2462,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\T1/lmr/m/n/12 (+20) Agilité en-tre-pre-neu-
  []
 
-[102]
+[101]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Différenciation "human-
  []
@@ -2472,7 +2472,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 155--156
 []|\T1/lmr/m/n/12 (+20) Packages mo-du-laires, pri-
  []
 
-[103]
+[102]
 Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\T1/lmr/m/n/12 (+20) Consentement ex-pli-cite,
  []
@@ -2482,7 +2482,7 @@ Underfull \hbox (badness 2529) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Anonymisation, du-rée de
  []
 
-[104]) (./parts/appendix_operational_recommendations.tex [105]
+[103]) (./parts/appendix_operational_recommendations.tex [104]
 Annexe E.
 
 Underfull \hbox (badness 7433) in paragraph at lines 12--12
@@ -2514,7 +2514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 []|\T1/lmr/m/n/12 (+20) 1=Risques éle-vés,
  []
 
-[106
+[105
 
 ]
 Underfull \hbox (badness 2351) in paragraph at lines 57--57
@@ -2536,7 +2536,7 @@ Overfull \hbox (3.22597pt too wide) in paragraph at lines 60--60
 []|\T1/lmr/m/n/12 (-20) Accompagnement| 
  []
 
-[107] [108]
+[106] [107]
 Underfull \hbox (badness 2626) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Contexte en-tre-
  []
@@ -2551,7 +2551,7 @@ Underfull \hbox (badness 1033) in paragraph at lines 158--158
 []|\T1/lmr/m/n/12 (+20) Livrables at-ten-
  []
 
-[109]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []|\T1/lmr/m/n/12 (+20) Participation for-ma-
  []
@@ -2561,26 +2561,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Support uti-li-sa-teur,
  []
 
-[110]) [111] (./thesis.aux)
+[109]) [110] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 04DC14546A6DDAF3B40317B9CF0765E8;51337.
+(rerunfilecheck)             Checksum: 39EB8422AF23BD597AB29FBF3E86BC3A;51117.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26714 strings out of 476025
- 471696 string characters out of 5790018
+ 26713 strings out of 476025
+ 471676 string characters out of 5790018
  1873388 words of memory out of 5000000
- 45792 multiletter control sequences out of 15000+600000
- 610616 words of font info for 288 fonts, out of 8000000 for 9000
+ 45791 multiletter control sequences out of 15000+600000
+ 610713 words of font info for 289 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1913b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (126 pages, 667757 bytes).
+Output written on thesis.pdf (125 pages, 665939 bytes).
 PDF statistics:
- 2176 PDF objects out of 2487 (max. 8388607)
- 1994 compressed objects within 20 object streams
- 551 named destinations out of 1000 (max. 500000)
- 57339 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2167 PDF objects out of 2487 (max. 8388607)
+ 1986 compressed objects within 20 object streams
+ 549 named destinations out of 1000 (max. 500000)
+ 57331 words of extra memory for PDF output out of 61914 (max. 10000000)
 
