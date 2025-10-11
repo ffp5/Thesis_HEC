@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex thesis"] 1759921299 "thesis.aux" "thesis.bbl" "thesis" 1759921303 0
+["bibtex thesis"] 1760189986 "thesis.aux" "thesis.bbl" "thesis" 1760189990 0
   "./references.bib" 1759836057 20692 e0321f003625378fb46728933007f78b ""
-  "./thesis-blx.bib" 1759921302 343 2577d904cc9c7604dc1c686203b50a6c ""
+  "./thesis-blx.bib" 1760189989 343 2577d904cc9c7604dc1c686203b50a6c ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1678141846 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "thesis.aux" 1759921302 71975 69991748d5a17e14617e2e568e54a44b "pdflatex"
+  "thesis.aux" 1760189989 65635 d26f4dadcf2941ba4999f09ffd2e893e "pdflatex"
   (generated)
   "thesis.bbl"
   "thesis.blg"
   (rewritten before read)
-["pdflatex"] 1759921299 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1759921303 0
-  "/Users/florido/Desktop/Thesis/thesis.tex" 1759836085 6482 736ec009216307d35ccbdddc9c8e3920 ""
+["pdflatex"] 1760189987 "/Users/florido/Desktop/Thesis/thesis.tex" "thesis.pdf" "thesis" 1760189990 0
+  "/Users/florido/Desktop/Thesis/thesis.tex" 1760189979 6453 1083e0a9ed6b45f3fcf59863cee8920b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -180,9 +180,7 @@
   "images/X-HEC image.jpg" 1759824255 17329 22bb6f1ce25a89917d95a73317620794 ""
   "images/logo.png" 1759773042 120919 9e745232723339a1bc37beecbb6a0385 ""
   "parts/appendix_data.tex" 1759862543 5663 e161fd72fc81a621ee3fe4ee9643deb3 ""
-  "parts/appendix_luwai_model.tex" 1759750657 9386 66da1ce7642cb51432d3d45fc106b38f ""
   "parts/appendix_methodology.tex" 1759750657 8177 112f2dd82a9cc6626ebff537529aa42f ""
-  "parts/appendix_operational_recommendations.tex" 1759749592 10834 05a0b06c1a05c7cba7a089b68d309949 ""
   "parts/appendix_sectoral_analysis.tex" 1759750657 10294 ed894ade48893f317e94acf84be08bd2 ""
   "parts/conclusion.tex" 1759862413 10667 5868eb1a699dd95f5ffa589723988851 ""
   "parts/executive_summary.tex" 1759825892 4071 667351ac481ef0df7ea6af6f53f99eac ""
@@ -193,18 +191,16 @@
   "parts/preface.tex" 1759750657 2798 1ea716b2fad2dca78349e5583b8fed36 ""
   "parts/recommendations.tex" 1759921296 20592 8c2a661221172e38d3133c1f735d4503 ""
   "parts/remerciements.tex" 1759826053 1821 d7a63628252bef76323ca6d5e7503b6c ""
-  "thesis.aux" 1759921302 71975 69991748d5a17e14617e2e568e54a44b "pdflatex"
-  "thesis.bbl" 1759921299 63947 69f766f9ef2da845b72a1d8215146132 "bibtex thesis"
-  "thesis.lof" 1759921302 249 6fe42a0ea2a984f3b0904d721672b112 "pdflatex"
-  "thesis.lot" 1759921302 1511 b649f44dbbb3f0a90429bf0b9b6eeac2 "pdflatex"
-  "thesis.out" 1759921302 51117 39eb8422af23bd597ab29fbf3e86bc3a "pdflatex"
-  "thesis.run.xml" 1759921302 2580 9da64c52f8a159fb7f1ad786042a9c6b "pdflatex"
-  "thesis.tex" 1759836085 6482 736ec009216307d35ccbdddc9c8e3920 ""
-  "thesis.toc" 1759921302 22397 3acddc1ba9fccf299b9c6b37a23bf7b1 "pdflatex"
+  "thesis.aux" 1760189989 65635 d26f4dadcf2941ba4999f09ffd2e893e "pdflatex"
+  "thesis.bbl" 1760189987 63947 69f766f9ef2da845b72a1d8215146132 "bibtex thesis"
+  "thesis.lot" 1760189989 1471 01381f5be990db483151842b370e0a12 "pdflatex"
+  "thesis.out" 1760189989 44152 61a1da2940b36e4cf0fbfaebeb8d3748 "pdflatex"
+  "thesis.run.xml" 1760189989 2580 9da64c52f8a159fb7f1ad786042a9c6b "pdflatex"
+  "thesis.tex" 1760189979 6453 1083e0a9ed6b45f3fcf59863cee8920b ""
+  "thesis.toc" 1760189989 19409 f128e7a1a28018b552ff9a37471ce7f4 "pdflatex"
   (generated)
   "thesis-blx.bib"
   "thesis.aux"
-  "thesis.lof"
   "thesis.log"
   "thesis.lot"
   "thesis.out"

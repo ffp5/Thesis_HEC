@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  8 OCT 2025 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  11 OCT 2025 15:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -909,12 +909,12 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-<images/logo.png, id=763, 893.3375pt x 289.08pt>
+<images/logo.png, id=647, 893.3375pt x 289.08pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 145.
 (pdftex.def)             Requested size: 165.31346pt x 53.49219pt.
-<images/X-HEC image.jpg, id=765, 273.02pt x 204.765pt>
+<images/X-HEC image.jpg, id=649, 273.02pt x 204.765pt>
 File: images/X-HEC image.jpg Graphic file (type jpg)
 <use images/X-HEC image.jpg>
 Package pdftex.def Info: images/X-HEC image.jpg  used on input line 149.
@@ -1030,22 +1030,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--179
 ] (./thesis.toc [7
 
 
-] [8] [9] [10] [11])
+] [8] [9] [10])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [12] (./thesis.lof)
-\tf@lof=\write6
-\openout6 = `thesis.lof'.
+ [11] (./thesis.lot)
+\tf@lot=\write6
+\openout6 = `thesis.lot'.
 
- [13
-
-
-] (./thesis.lot)
-\tf@lot=\write7
-\openout7 = `thesis.lot'.
-
- [14
+ [12
 
 
 ] (./parts/introduction.tex
@@ -2267,12 +2260,12 @@ Chapitre 6.
 [73
 
 ] [74] [75])
-Underfull \hbox (badness 10000) in paragraph at lines 72--203
+Underfull \hbox (badness 10000) in paragraph at lines 72--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--203
+Underfull \hbox (badness 10000) in paragraph at lines 72--200
 
  []
 
@@ -2280,7 +2273,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--203
 
 
 ] [79] [80]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 208.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 205.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2289,7 +2282,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (19.03827pt too wide) in paragraph at lines 208--208
+Overfull \hbox (19.03827pt too wide) in paragraph at lines 205--205
 \T1/lmtt/m/n/12 comment -[] les -[] entreprises -[] peuventelles -[] surmonter -[] les -[] obstacles -[] a -[] ladoption -[]
  []
 
@@ -2349,52 +2342,8 @@ Overfull \hbox (35.38087pt too wide) in alignment at lines 73--83
  [] [] [] 
  []
 
-[92]) (./parts/appendix_luwai_model.tex [93]
+[92]) (./parts/appendix_sectoral_analysis.tex [93]
 Annexe C.
-[94
-
-]
-Overfull \hbox (39.33633pt too wide) in paragraph at lines 50--50
-|[]\T1/lmr/bx/n/14.4 (-20) Version 3.0 : Ser-vice in-té-gré formation-conseil-livraison (septembre-
- []
-
-[95]
-Overfull \hbox (10.54039pt too wide) in paragraph at lines 88--89
-[]\T1/lmr/bx/n/12 (-20) Accompagnement gou-ver-nance \T1/lmr/m/n/12 (-20) : 200-300 \TS1/lmr/m/n/12 (-20) ¿\T1/lmr/m/n/12 (-20) /jour ^^V Ex-per-tise ré-gle-men-taire RGPD/IA
- []
-
-
-Overfull \hbox (13.85674pt too wide) in alignment at lines 100--109
- [] [] [] [] [] 
- []
-
-[96]
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
-[]|\T1/lmr/bx/n/12 (+20) Benchmark
- []
-
-[97]
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
-[]|\T1/lmr/m/n/12 (+20) Taux d'adop-tion post-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-[]|\T1/lmr/m/n/12 (+20) Au-dessus des
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-\T1/lmr/m/n/12 (+20) stan-dards (50
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 172--173
-[]|\T1/lmr/m/n/12 (+20) Fidélisation éle-
- []
-
-) (./parts/appendix_sectoral_analysis.tex [98]
-Annexe D.
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 []|\T1/lmr/bx/n/12 (+20) Positionnement
@@ -2420,7 +2369,7 @@ Underfull \hbox (badness 2096) in paragraph at lines 36--37
 []|\T1/lmr/m/n/12 (+20) Positionnement tech-
  []
 
-[99
+[94
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
@@ -2452,7 +2401,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []|\T1/lmr/bx/n/12 (+20) Positionnement
  []
 
-[100]
+[95]
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\T1/lmr/bx/n/12 (+20) Avantage concur-
  []
@@ -2462,7 +2411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\T1/lmr/m/n/12 (+20) Agilité en-tre-pre-neu-
  []
 
-[101]
+[96]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 []|\T1/lmr/m/n/12 (+20) Différenciation "human-
  []
@@ -2472,7 +2421,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 155--156
 []|\T1/lmr/m/n/12 (+20) Packages mo-du-laires, pri-
  []
 
-[102]
+[97]
 Underfull \hbox (badness 10000) in paragraph at lines 203--204
 []|\T1/lmr/m/n/12 (+20) Consentement ex-pli-cite,
  []
@@ -2482,105 +2431,26 @@ Underfull \hbox (badness 2529) in paragraph at lines 204--205
 []|\T1/lmr/m/n/12 (+20) Anonymisation, du-rée de
  []
 
-[103]) (./parts/appendix_operational_recommendations.tex [104]
-Annexe E.
-
-Underfull \hbox (badness 7433) in paragraph at lines 12--12
-[]|\T1/lmr/bx/n/12 (+20) Critères d'éva-lua-
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 15--15
-[]|\T1/lmr/m/n/12 (+20) Faisabilité tech-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\T1/lmr/m/n/12 (+20) Investissement
- []
-
-
-Underfull \hbox (badness 4013) in paragraph at lines 17--17
-[]|\T1/lmr/m/n/12 (+20) Budget, temps, res-
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 18--18
-[]|\T1/lmr/m/n/12 (+20) Technique, ré-gle-men-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]|\T1/lmr/m/n/12 (+20) 1=Risques éle-vés,
- []
-
-[105
-
-]
-Underfull \hbox (badness 2351) in paragraph at lines 57--57
-\T1/lmr/m/n/12 (+20) coût ho-raire \TS1/lmr/m/n/12 (+20) Ö
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]|\T1/lmr/m/n/12 (+20) Amélioration
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\T1/lmr/m/n/12 (+20) Formation
- []
-
-
-Overfull \hbox (3.22597pt too wide) in paragraph at lines 60--60
-[]|\T1/lmr/m/n/12 (-20) Accompagnement| 
- []
-
-[106] [107]
-Underfull \hbox (badness 2626) in paragraph at lines 154--154
-[]|\T1/lmr/m/n/12 (+20) Contexte en-tre-
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 156--156
-[]|\T1/lmr/m/n/12 (+20) Cas d'usage ci-
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 158--158
-[]|\T1/lmr/m/n/12 (+20) Livrables at-ten-
- []
-
-[108]
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
-[]|\T1/lmr/m/n/12 (+20) Participation for-ma-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-[]|\T1/lmr/m/n/12 (+20) Support uti-li-sa-teur,
- []
-
-[109]) [110] (./thesis.aux)
+[98]) [99] (./thesis.aux)
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 39EB8422AF23BD597AB29FBF3E86BC3A;51117.
+(rerunfilecheck)             Checksum: 61A1DA2940B36E4CF0FBFAEBEB8D3748;44152.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26713 strings out of 476025
- 471676 string characters out of 5790018
- 1873388 words of memory out of 5000000
- 45791 multiletter control sequences out of 15000+600000
- 610713 words of font info for 289 fonts, out of 8000000 for 9000
+ 26575 strings out of 476025
+ 469795 string characters out of 5790018
+ 1870388 words of memory out of 5000000
+ 45739 multiletter control sequences out of 15000+600000
+ 610491 words of font info for 286 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,76p,1913b,2300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on thesis.pdf (125 pages, 665939 bytes).
+Output written on thesis.pdf (112 pages, 638822 bytes).
 PDF statistics:
- 2167 PDF objects out of 2487 (max. 8388607)
- 1986 compressed objects within 20 object streams
- 549 named destinations out of 1000 (max. 500000)
- 57331 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1922 PDF objects out of 2073 (max. 8388607)
+ 1756 compressed objects within 18 object streams
+ 478 named destinations out of 1000 (max. 500000)
+ 57099 words of extra memory for PDF output out of 61914 (max. 10000000)
 

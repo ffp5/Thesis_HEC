@@ -7,8 +7,8 @@
 \contentsline {section}{\numberline {1.2}Problématique centrale}{2}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Objectifs de recherche}{2}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Méthodologie}{3}{section.1.4}%
-\contentsline {subsubsection}{Collecte des données primaires}{3}{subsubsection*.9}%
-\contentsline {subsubsection}{Analyse des données}{4}{subsubsection*.10}%
+\contentsline {subsubsection}{Collecte des données primaires}{3}{subsubsection*.8}%
+\contentsline {subsubsection}{Analyse des données}{4}{subsubsection*.9}%
 \contentsline {section}{\numberline {1.5}Plan et contributions attendues}{4}{section.1.5}%
 \contentsline {chapter}{\numberline {2}Revue de littérature et cadre théorique}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Adoption Technologique et Transformation Digitale}{5}{section.2.1}%
@@ -55,32 +55,32 @@
 \contentsline {subsection}{\numberline {3.5.1}Analyse Détaillée des Acteurs de l'Écosystème}{33}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}Dynamiques Concurrentielles et Stratégies de Positionnement}{34}{subsection.3.5.2}%
 \contentsline {subsection}{\numberline {3.5.3}Framework de Calcul du ROI et Méthodologie de Justification}{35}{subsection.3.5.3}%
-\contentsline {subsubsection}{Fondements Méthodologiques du Framework}{35}{subsubsection*.12}%
-\contentsline {subsubsection}{Architecture du Modèle de Calcul}{36}{subsubsection*.13}%
-\contentsline {paragraph}{Modélisation des gains de productivité}{36}{paragraph*.14}%
-\contentsline {paragraph}{Comptabilisation exhaustive des coûts}{36}{paragraph*.15}%
-\contentsline {paragraph}{Indicateurs de décision}{37}{paragraph*.16}%
-\contentsline {subsubsection}{Sources et Calibration des Variables Clés}{38}{subsubsection*.17}%
-\contentsline {subsubsection}{Application Pratique : Cas Type PME Services B2B}{38}{subsubsection*.19}%
-\contentsline {paragraph}{Contexte et objectifs du déploiement}{38}{paragraph*.20}%
-\contentsline {paragraph}{Paramètres du modèle et hypothèses de calcul}{38}{paragraph*.21}%
-\contentsline {paragraph}{Calcul détaillé des gains mensuels récurrents}{39}{paragraph*.23}%
-\contentsline {paragraph}{Calcul du ROI à 6 mois et analyse de rentabilité}{39}{paragraph*.24}%
-\contentsline {paragraph}{Sensibilité du modèle et scénarios alternatifs}{40}{paragraph*.25}%
-\contentsline {subsubsection}{Déclinaisons Sectorielles et Recommandations d'Usage}{41}{subsubsection*.27}%
+\contentsline {subsubsection}{Fondements Méthodologiques du Framework}{35}{subsubsection*.11}%
+\contentsline {subsubsection}{Architecture du Modèle de Calcul}{36}{subsubsection*.12}%
+\contentsline {paragraph}{Modélisation des gains de productivité}{36}{paragraph*.13}%
+\contentsline {paragraph}{Comptabilisation exhaustive des coûts}{36}{paragraph*.14}%
+\contentsline {paragraph}{Indicateurs de décision}{37}{paragraph*.15}%
+\contentsline {subsubsection}{Sources et Calibration des Variables Clés}{38}{subsubsection*.16}%
+\contentsline {subsubsection}{Application Pratique : Cas Type PME Services B2B}{38}{subsubsection*.18}%
+\contentsline {paragraph}{Contexte et objectifs du déploiement}{38}{paragraph*.19}%
+\contentsline {paragraph}{Paramètres du modèle et hypothèses de calcul}{38}{paragraph*.20}%
+\contentsline {paragraph}{Calcul détaillé des gains mensuels récurrents}{39}{paragraph*.22}%
+\contentsline {paragraph}{Calcul du ROI à 6 mois et analyse de rentabilité}{39}{paragraph*.23}%
+\contentsline {paragraph}{Sensibilité du modèle et scénarios alternatifs}{40}{paragraph*.24}%
+\contentsline {subsubsection}{Déclinaisons Sectorielles et Recommandations d'Usage}{41}{subsubsection*.26}%
 \contentsline {section}{\numberline {3.6}Analyse Sectorielle et Spécificités d'Adoption}{41}{section.3.6}%
 \contentsline {subsection}{\numberline {3.6.1}Conseil et Services Professionnels : Adopteurs Naturels}{41}{subsection.3.6.1}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{41}{subsubsection*.28}%
-\contentsline {subsubsection}{Cas d'usage prioritaires et ROI observés}{42}{subsubsection*.29}%
-\contentsline {subsubsection}{Exemple type — Social Army Ltd}{42}{subsubsection*.30}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{41}{subsubsection*.27}%
+\contentsline {subsubsection}{Cas d'usage prioritaires et ROI observés}{42}{subsubsection*.28}%
+\contentsline {subsubsection}{Exemple type — Social Army Ltd}{42}{subsubsection*.29}%
 \contentsline {subsection}{\numberline {3.6.2}Industrie et Manufacturing : Adopteurs Prudents}{42}{subsection.3.6.2}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{42}{subsubsection*.31}%
-\contentsline {subsubsection}{Cas d'usage prioritaires}{43}{subsubsection*.32}%
-\contentsline {subsubsection}{Freins spécifiques identifiés}{43}{subsubsection*.33}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{42}{subsubsection*.30}%
+\contentsline {subsubsection}{Cas d'usage prioritaires}{43}{subsubsection*.31}%
+\contentsline {subsubsection}{Freins spécifiques identifiés}{43}{subsubsection*.32}%
 \contentsline {subsection}{\numberline {3.6.3}Services B2B Spécialisés : Adopteurs Opportunistes}{43}{subsection.3.6.3}%
-\contentsline {subsubsection}{Caractéristiques d'adoption}{43}{subsubsection*.34}%
-\contentsline {subsubsection}{Cas d'usage prioritaires}{43}{subsubsection*.35}%
-\contentsline {subsubsection}{Exemple type - Direction Communication Aesio}{44}{subsubsection*.36}%
+\contentsline {subsubsection}{Caractéristiques d'adoption}{43}{subsubsection*.33}%
+\contentsline {subsubsection}{Cas d'usage prioritaires}{43}{subsubsection*.34}%
+\contentsline {subsubsection}{Exemple type - Direction Communication Aesio}{44}{subsubsection*.35}%
 \contentsline {section}{\numberline {3.7}Synthèse : Vers un Modèle d'Adoption IA "à la Française"}{44}{section.3.7}%
 \contentsline {subsection}{\numberline {3.7.1}Primauté de l'Accompagnement Humain sur l'Expérimentation Individuelle}{44}{subsection.3.7.1}%
 \contentsline {subsection}{\numberline {3.7.2}Séquencement Formation-Adoption versus Technology-First}{45}{subsection.3.7.2}%
@@ -136,8 +136,8 @@
 \contentsline {section}{\numberline {6.5}Implications pour la gouvernance IA des PME-ETI}{76}{section.6.5}%
 \contentsline {section}{\numberline {6.6}Note réflexive sur la méthode}{76}{section.6.6}%
 \contentsline {section}{\numberline {6.7}Conclusion finale}{77}{section.6.7}%
-\contentsline {chapter}{Annexes}{84}{chapter*.40}%
-\contentsline {section}{Table des Annexes}{84}{appendix*.41}%
+\contentsline {chapter}{Annexes}{84}{chapter*.39}%
+\contentsline {section}{Table des Annexes}{84}{appendix*.40}%
 \contentsline {chapter}{\numberline {A}Méthodologie de recherche}{85}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Design de recherche et posture}{85}{section.A.1}%
 \contentsline {section}{\numberline {A.2}Échantillonnage et critères d'inclusion}{85}{section.A.2}%
@@ -167,48 +167,19 @@
 \contentsline {section}{\numberline {B.3}Propositions commerciales — détails agrégés}{91}{section.B.3}%
 \contentsline {section}{\numberline {B.4}Mesures et KPIs de suivi (pilotes)}{92}{section.B.4}%
 \contentsline {section}{\numberline {B.5}Cadre de calcul ROI — rappel opérationnel}{92}{section.B.5}%
-\contentsline {chapter}{\numberline {C}Modèle d’affaires Luwai}{94}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Business Model Canvas évolutif}{94}{section.C.1}%
-\contentsline {subsection}{\numberline {C.1.1}Version 1.0 : Formation pure (juillet-août 2025)}{94}{subsection.C.1.1}%
-\contentsline {subsection}{\numberline {C.1.2}Version 2.0 : Formation-conseil (août-septembre 2025)}{94}{subsection.C.1.2}%
-\contentsline {subsection}{\numberline {C.1.3}Version 3.0 : Service intégré formation-conseil-livraison (septembre-octobre 2025)}{95}{subsection.C.1.3}%
-\contentsline {section}{\numberline {C.2}Tarification et packages détaillés}{96}{section.C.2}%
-\contentsline {subsection}{\numberline {C.2.1}Architecture tarifaire et justifications économiques}{96}{subsection.C.2.1}%
-\contentsline {subsection}{\numberline {C.2.2}Benchmarking concurrentiel}{96}{subsection.C.2.2}%
-\contentsline {section}{\numberline {C.3}Pipeline commercial et prévisions}{96}{section.C.3}%
-\contentsline {subsection}{\numberline {C.3.1}Évolution du pipeline (9 mois)}{96}{subsection.C.3.1}%
-\contentsline {subsection}{\numberline {C.3.2}Prévisions et modélisation}{97}{subsection.C.3.2}%
-\contentsline {section}{\numberline {C.4}Indicateurs de performance}{97}{section.C.4}%
-\contentsline {subsection}{\numberline {C.4.1}KPIs commerciaux}{97}{subsection.C.4.1}%
-\contentsline {subsection}{\numberline {C.4.2}KPIs opérationnels}{98}{subsection.C.4.2}%
-\contentsline {subsection}{\numberline {C.4.3}Métriques ROI client documentées}{98}{subsection.C.4.3}%
-\contentsline {chapter}{\numberline {D}Analyse sectorielle approfondie}{99}{appendix.D}%
-\contentsline {section}{\numberline {D.1}Cartographie concurrentielle détaillée}{99}{section.D.1}%
-\contentsline {subsection}{\numberline {D.1.1}Grands cabinets de conseil (Tier 1)}{99}{subsection.D.1.1}%
-\contentsline {subsection}{\numberline {D.1.2}ESN et intégrateurs traditionnels}{99}{subsection.D.1.2}%
-\contentsline {subsection}{\numberline {D.1.3}Boutiques spécialisées IA}{100}{subsection.D.1.3}%
-\contentsline {subsection}{\numberline {D.1.4}Organismes de formation et CCI}{100}{subsection.D.1.4}%
-\contentsline {subsection}{\numberline {D.1.5}Positionnement concurrentiel de Luwai}{101}{subsection.D.1.5}%
-\contentsline {section}{\numberline {D.2}Benchmark international : France vs US vs Europe}{101}{section.D.2}%
-\contentsline {subsection}{\numberline {D.2.1}Modèle américain : "Technology-First"}{101}{subsection.D.2.1}%
-\contentsline {subsection}{\numberline {D.2.2}Modèle allemand : "Engineering-First"}{101}{subsection.D.2.2}%
-\contentsline {subsection}{\numberline {D.2.3}Modèle français : "Human-Centric"}{102}{subsection.D.2.3}%
-\contentsline {subsection}{\numberline {D.2.4}Implications pour les entrepreneurs français}{102}{subsection.D.2.4}%
-\contentsline {section}{\numberline {D.3}Analyse réglementaire : IA Act et RGPD}{103}{section.D.3}%
-\contentsline {subsection}{\numberline {D.3.1}Impact de l'IA Act européen (2024-2027)}{103}{subsection.D.3.1}%
-\contentsline {subsection}{\numberline {D.3.2}Implications RGPD pour l'IA}{103}{subsection.D.3.2}%
-\contentsline {subsection}{\numberline {D.3.3}Opportunités business pour les accompagnateurs}{104}{subsection.D.3.3}%
-\contentsline {chapter}{\numberline {E}Recommandations opérationnelles}{105}{appendix.E}%
-\contentsline {section}{\numberline {E.1}Framework d'évaluation ROI IA}{105}{section.E.1}%
-\contentsline {subsection}{\numberline {E.1.1}Matrice d'évaluation multidimensionnelle}{105}{subsection.E.1.1}%
-\contentsline {subsection}{\numberline {E.1.2}Cas d'usage typiques et scoring}{106}{subsection.E.1.2}%
-\contentsline {subsection}{\numberline {E.1.3}Outils de calcul ROI détaillés}{106}{subsection.E.1.3}%
-\contentsline {section}{\numberline {E.2}Checklist sélection prestataire}{107}{section.E.2}%
-\contentsline {subsection}{\numberline {E.2.1}Critères d'évaluation pondérés}{107}{subsection.E.2.1}%
-\contentsline {subsection}{\numberline {E.2.2}Grille de notation détaillée}{107}{subsection.E.2.2}%
-\contentsline {subsection}{\numberline {E.2.3}Questions types à poser aux prestataires}{108}{subsection.E.2.3}%
-\contentsline {section}{\numberline {E.3}Templates et outils pratiques}{108}{section.E.3}%
-\contentsline {subsection}{\numberline {E.3.1}Modèle de cahier des charges IA}{108}{subsection.E.3.1}%
-\contentsline {subsection}{\numberline {E.3.2}Grille d'audit IA interne}{109}{subsection.E.3.2}%
-\contentsline {subsection}{\numberline {E.3.3}Indicateurs de suivi projet}{109}{subsection.E.3.3}%
-\contentsline {subsection}{\numberline {E.3.4}Bonnes pratiques organisationnelles}{110}{subsection.E.3.4}%
+\contentsline {chapter}{\numberline {C}Analyse sectorielle approfondie}{94}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Cartographie concurrentielle détaillée}{94}{section.C.1}%
+\contentsline {subsection}{\numberline {C.1.1}Grands cabinets de conseil (Tier 1)}{94}{subsection.C.1.1}%
+\contentsline {subsection}{\numberline {C.1.2}ESN et intégrateurs traditionnels}{94}{subsection.C.1.2}%
+\contentsline {subsection}{\numberline {C.1.3}Boutiques spécialisées IA}{95}{subsection.C.1.3}%
+\contentsline {subsection}{\numberline {C.1.4}Organismes de formation et CCI}{95}{subsection.C.1.4}%
+\contentsline {subsection}{\numberline {C.1.5}Positionnement concurrentiel de Luwai}{96}{subsection.C.1.5}%
+\contentsline {section}{\numberline {C.2}Benchmark international : France vs US vs Europe}{96}{section.C.2}%
+\contentsline {subsection}{\numberline {C.2.1}Modèle américain : "Technology-First"}{96}{subsection.C.2.1}%
+\contentsline {subsection}{\numberline {C.2.2}Modèle allemand : "Engineering-First"}{96}{subsection.C.2.2}%
+\contentsline {subsection}{\numberline {C.2.3}Modèle français : "Human-Centric"}{97}{subsection.C.2.3}%
+\contentsline {subsection}{\numberline {C.2.4}Implications pour les entrepreneurs français}{97}{subsection.C.2.4}%
+\contentsline {section}{\numberline {C.3}Analyse réglementaire : IA Act et RGPD}{98}{section.C.3}%
+\contentsline {subsection}{\numberline {C.3.1}Impact de l'IA Act européen (2024-2027)}{98}{subsection.C.3.1}%
+\contentsline {subsection}{\numberline {C.3.2}Implications RGPD pour l'IA}{98}{subsection.C.3.2}%
+\contentsline {subsection}{\numberline {C.3.3}Opportunités business pour les accompagnateurs}{99}{subsection.C.3.3}%
